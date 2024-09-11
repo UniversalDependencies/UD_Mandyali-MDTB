@@ -324,11 +324,11 @@
 1	आपणें	_	NN	X	_	2	compound	_	_
 2	लोड़ी	_	JJ	X	_	4	advcl	_	_
 3	डाम्बर	_	NNC	X	_	4	compound	_	_
-4	भरीरे	_	NN	X	_	4	ROOT	_	_
+4	भरीरे	_	NN	X	_	4	ROOT	_	SpaceAfter=No'
 5	,	_	SYM	SYM	_	4	punct	_	_
 6	बालक	_	NN	X	_	7	compound	_	_
 7	रहो	_	NNPC	X	_	4	conj	_	_
-8	रोंदे	_	VM	X	_	7	aux	_	_
+8	रोंदे	_	VM	X	_	7	aux	_	SpaceAfter=No'
 9	।	_	SYM	SYM	_	4	punct	_	_
 
 # sent_id = 29
