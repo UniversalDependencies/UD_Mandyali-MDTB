@@ -116,7 +116,7 @@
 10	ना	_	NNPC	X	_	9	dep	_	_
 11	किछ	_	NNP	X	_	12	obj	_	_
 12	लिखूं	_	NN	X	_	12	VM	_	SpaceAfter=No
-13	।	_	PUNCT	SYM	_	12	punct	_	_
+13 ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
 # text = भ्यागा जे री बाहर थी लग्गिरि ,सुआड़ था लाईरा सुआरणा।
