@@ -1061,7 +1061,7 @@
 8	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 91
-# text =दुर्गा माता तिन्हा त्जो बचाणें बाद तेथी ते अंतर्ध्यान हुई गई।
+# text =दुर्गा माता तिन्हा त्जो बचाणें बाद तेथी ते अंतर्ध्यान हुई गई ।
 1	दुर्गा	_	NNPC	X	_	3	compound	_	_
 2	माता	_	NNPC	X	_	3	compound	_	_
 3	तिन्हा	_	NNPC	X	_	10	nsubj	_	_
@@ -1076,7 +1076,7 @@
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 92
-# text =देख्यां पौंदी हो मठिये, चिफला हुईरा बाहर ओटा|
+# text =देख्यां पौंदी हो मठिये, चिफला हुईरा बाहर ओटा ।
 1	देख्यां	_	NN	X	_	3	nsubj	_	_
 2	पौंदी	_	NN	X	_	3	compound	_	_
 3	हो	_	VM	X	_	3	VM	_	_
@@ -1085,10 +1085,11 @@
 6	चिफला	_	NNP	X	_	7	compound	_	_
 7	हुईरा	_	NN	X	_	9	nmod	_	_
 8	बाहर	_	NST	X	_	7	case	_	_
-9	ओटा|	_	NNP	X	_	3	conj	_	_
+9	ओटा	_	NNP	X	_	3	conj	_	_
+10 । _ PUNCT SYM _ 10 punct _ _
 
 # sent_id = 93
-# text =समज हे नि आओ मुंजो क्या करणां क्या नईं |
+# text =समज हे नि आओ मुंजो क्या करणां क्या नईं ।
 1	समज	_	JJ	X	_	2	compound	_	_
 2	हे	_	NNPC	X	_	2	VM	_	_
 3	नि	_	NNP	X	_	5	amod	_	_
@@ -1098,10 +1099,10 @@
 7	करणां	_	NNPC	X	_	5	conj	_	_
 8	क्या	_	WQ	X	_	9	advmod	_	_
 9	नईं	_	NNPC	X	_	10	compound	_	SpaceAfter=No
-10	|	_	PUNCT	X	_	5	punct	_	_
+10 ।	_	PUNCT	X	_	5	punct	_	_
 
 # sent_id = 94
-# text = ऐसा न्हूसा जो पूछा भला, दूद टुआया कि नईं ऐसे।
+# text = ऐसा न्हूसा जो पूछा भला, दूद टुआया कि नईं ऐसे ।
 1	ऐसा	_	DEM	X	_	2	det	_	_
 2	न्हूसा	_	NN	X	_	4	nsubj	_	_
 3	जो	_	PRP	X	_	4	obj	_	_
@@ -1139,7 +1140,7 @@
 8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 97
-# text = बड्डी भारी गलांहांई से,चुफदी ए नीं ही हई ।
+# text = बड्डी भारी गलांहांई से , चुफदी ए नीं ही हई ।
 1	बड्डी	_	NNP	X	_	10	nsubj	_	_
 2	भारी	_	JJ	X	_	3	amod	_	_
 3	गलांहांई	_	NN	X	_	10	obl	_	_
@@ -1149,5 +1150,5 @@
 7	ए	_	NNPC	X	_	8	compound	_	_
 8	नीं	_	NNP	X	_	3	conj	_	_
 9	ही	_	RP	X	_	8	dep	_	_
-10	हई	_	VERB	X	_	10	VM	_	SpaceAfter=No
-11	।	_	PUNCT	SYM	_	10	punct	_	_
+10 हई	_	VERB	X	_	10	VM	_	SpaceAfter=No
+11 ।	_	PUNCT	SYM	_	10	punct	_	_
