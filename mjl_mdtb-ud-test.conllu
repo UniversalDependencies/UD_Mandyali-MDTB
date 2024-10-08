@@ -3,7 +3,7 @@
 1	से	_	PSP	X	_	1	ROOT	_	_
 2	जे	_	NNPC	X	_	3	compound	_	_
 3	जम्मिरा	_	NNP	X	_	7	nsubj	_	_
-4	,	_	SYM	SYM	_	6	punct	_	_
+4	,	_	PUNCT	SYM	_	6	punct	_	_
 5	तेस	_	NNPC	X	_	6	compound	_	_
 6	मरणां	_	NN	X	_	3	conj	_	_
 7	जरूर	_	RB	X	_	1	advmod	_	_
