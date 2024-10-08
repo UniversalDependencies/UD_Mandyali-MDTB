@@ -753,7 +753,7 @@
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 65
-# text =मास्टरा भेंजियाँ रा हे जिम्मा नीं हुंदे मठे, घरा बी पऊँआंए पढ़ा एवों।
+# text =मास्टरा भेंजियाँ रा हे जिम्मा नीं हुंदे मठे, घरा बी पऊँआंए परी एवों।
 1	मास्टरा	_	NNP	X	_	5	compound	_	_
 2	भेंजियाँ	_	NN	X	_	5	compound	_	_
 3	रा	_	NNPC	X	_	5	compound	_	_
@@ -766,7 +766,7 @@
 10	घरा	_	JJ	X	_	14	compound	_	_
 11	बी	_	NNPC	X	_	12	compound	_	_
 12	पऊँआंए	_	NNPC	X	_	14	compound	_	_
-13	पढ़ा	_	NNP	X	_	14	compound	_	_
+13	परी	_	NNP	X	_	14	compound	_	_
 14	एवों	_	NN	X	_	8	conj	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	5	punct	_	_
 
