@@ -32,7 +32,7 @@
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 4
-# text = मण्डयाली मंझ लिखणे रा बौहत मज़ा आहां ।
+# text = मण्डयाली मंझ लिखणे रा बौहत मज़ा आहां।
 1	मण्डयाली	_	JJ	X	_	2	compound	_	_
 2	मंझ	_	NN	X	_	7	nsubj	_	_
 3	लिखणे	_	VM	X	_	6	amod	_	_
@@ -88,7 +88,7 @@
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 8
-# text = नऊंईँ नऊंईँ नानी बणींरी हांऊं, तेस कठ्ठे स्वेटरा लाईरी गुंदणीं ।
+# text = नऊंईँ नऊंईँ नानी बणींरी हांऊं, तेस कठ्ठे स्वेटरा लाईरी गुंदणीं।
 1	नऊंईँ	_	NNPC	X	_	2	compound	_	_
 2	नऊंईँ	_	NNPC	X	_	4	nmod	_	_
 3	नानी	_	JJ	X	_	4	amod	_	_
@@ -119,7 +119,7 @@
 13 ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
-# text = भ्यागा जे री बाहर थी लग्गिरि ,सुआड़ था लाईरा सुआरणा ।
+# text = भ्यागा जे री बाहर थी लग्गिरि ,सुआड़ था लाईरा सुआरणा।
 1	भ्यागा	_	NN	X	_	3	amod	_	_
 2	जे	_	NNP	X	_	3	compound	_	_
 3	री	_	RP	X	_	4	compound	_	_
@@ -134,7 +134,7 @@
 12 ।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 11
-# text = माहणुआं स्वभाव कदी बदलोणा कोए पता निहां |
+# text = माहणुआं स्वभाव कदी बदलोणा कोए पता निहां।
 1	माहणुआं	_	NNC	X	_	3	compound	_	_
 2	स्वभाव	_	NN	X	_	3	compound	_	_
 3	कदी	_	NNPC	X	_	8	nsubj	_	_
@@ -142,7 +142,7 @@
 5	कोए	_	NNP	X	_	7	compound	_	_
 6	पता	_	NNPC	X	_	7	compound	_	_
 7	निहां	_	NNPC	X	_	8	nsubj	_	SpaceAfter=No
-8	|	_	PUNCT	SYM	_	8	punct	_	_
+8	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 12
 # text = देऊ कमरुनागा जो आसे बड्डा देऊ बोल्हाए। 
@@ -156,7 +156,7 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 13
-# text = मैं सोचया तुस्से आपणी बोबो रे घराओ जांदे लगी रे ।
+# text = मैं सोचया तुस्से आपणी बोबो रे घराओ जांदे लगी रे।
 1	मैं	_	PRP	X	_	9	nsubj	_	_
 2	सोचया	_	NNPC	X	_	3	compound	_	_
 3	तुस्से	_	NNP	X	_	5	nmod	_	_
@@ -237,7 +237,7 @@
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 20
-# text =आज केहड़ा हा जिऊ तुसारा ?
+# text =आज केहड़ा हा जिऊ तुसारा?
 1	आज	_	NN	X	_	3	obl	_	_
 2	केहड़ा	_	NNP	X	_	3	compound	_	_
 3	हा	_	NNPC	X	_	3	VM	_	_
@@ -273,7 +273,7 @@
 6	।	_	PUNCT	SYM	_	4	punct	_	_ 
 
 # sent_id = 24
-# text =आसारी ता बित्ति गयी उमर ।
+# text =आसारी ता बित्ति गयी उमर।
 1	आसारी	_	NN	X	_	3	nmod	_	_
 2	ता	_	PSP	X	_	1	dep	_	_
 3	बित्ति	_	NN	X	_	5	obj	_	_
