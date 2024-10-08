@@ -19,7 +19,7 @@
 6	हे	_	NNC	X	_	4	nmod	_	_
 7	देआँ	_	NN	X	_	8	compound	_	_
 8	परमेसर	_	NN	X	_	9	obj	_	_
-9	बी	_	VM	X	_	9	ROOT	_	SpaceAfter=No
+9	बी	_	VERB	X	_	9	VM	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 3
@@ -28,7 +28,7 @@
 2	ए	_	NNPC	X	_	3	compound	_	_
 3	हया	_	NNPC	X	_	5	nsubj	_	_
 4	अज्जे	_	JJ	X	_	5	compound	_	_
-5	तिकर	_	VM	X	_	5	ROOT	_	SpaceAfter=No
+5	तिकर	_	VERB	X	_	5	VM	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 4
@@ -39,7 +39,7 @@
 4	रा	_	NNPC	X	_	3	aux	_	_
 5	बौहत	_	NNPC	X	_	6	compound	_	_
 6	मज़ा	_	NNP	X	_	7	nsubj	_	_
-7	आहां	_	PRP	X	_	7	ROOT	_	SpaceAfter=No
+7	आहां	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 5
@@ -50,7 +50,7 @@
 4	,	_	SYM	SYM	_	6	punct	_	_
 5	माहणू	_	NNPC	X	_	6	compound	_	_
 6	बणुंआ	_	NN	X	_	3	conj	_	_
-7	रह	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	रह	_	VERB	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 6
@@ -74,7 +74,7 @@
 17	री	_	NNPC	X	_	20	compound	_	_
 18	पजाहवीं	_	NNPC	X	_	20	compound	_	_
 19	सालगिरह	_	NNPC	X	_	20	compound	_	_
-20	म्णांदे	_	NNP	X	_	20	ROOT	_	SpaceAfter=No
+20	म्णांदे	_	VERB	X	_	20	VM	_	SpaceAfter=No
 21	।	_	PUNCT	SYM	_	20	punct	_	_
 
 # sent_id = 7
@@ -84,7 +84,7 @@
 3	बधाई	_	NN	X	_	5	compound	_	_
 4	जी	_	NNPC	X	_	5	compound	_	_
 5	तुस्सा	_	NNP	X	_	6	nsubj	_	_
-6	जो	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
+6	जो	_	PRP	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 8
@@ -99,7 +99,7 @@
 8	कठ्ठे	_	NNPC	X	_	9	compound	_	_
 9	स्वेटरा	_	NN	X	_	5	conj	_	_
 10	लाईरी	_	NNPC	X	_	5	conj	_	_
-11	गुंदणीं	_	VM	X	_	11	ROOT	_	SpaceAfter=No
+11	गुंदणीं	_	VM	X	_	11	VM	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 9
@@ -115,7 +115,7 @@
 9	किछ	_	NNP	X	_	12	nsubj	_	_
 10	ना	_	NNPC	X	_	9	dep	_	_
 11	किछ	_	NNP	X	_	12	obj	_	_
-12	लिखूं	_	NN	X	_	12	ROOT	_	SpaceAfter=No
+12	लिखूं	_	NN	X	_	12	VM	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
@@ -123,7 +123,7 @@
 1	भ्यागा	_	NN	X	_	3	amod	_	_
 2	जे	_	NNP	X	_	3	compound	_	_
 3	री	_	RP	X	_	4	compound	_	_
-4	बाहर	_	NST	X	_	4	ROOT	_	_
+4	बाहर	_	NST	X	_	4	VM	_	_
 5	थी	_	VM	X	_	4	cop	_	_
 6	लग्गिरि	_	NN	X	_	11	nmod	_	SpaceAfter=No
 7	,	_	SYM	SYM	_	8	punct	_	_
@@ -152,7 +152,7 @@
 4	आसे	_	JJ	X	_	5	amod	_	_
 5	बड्डा	_	NN	X	_	6	compound	_	_
 6	देऊ	_	NN	X	_	7	compound	_	_
-7	बोल्हाए	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	बोल्हाए	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 13
@@ -165,7 +165,7 @@
 6	रे	_	NNPC	X	_	5	case	_	_
 7	घराओ	_	JJ	X	_	8	compound	_	_
 8	जांदे	_	NN	X	_	9	obj	_	_
-9	लगी	_	VM	X	_	9	ROOT	_	_
+9	लगी	_	VM	X	_	9	VM	_	_
 10	रे	_	VAUX	X	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
@@ -176,7 +176,7 @@
 3	हुई	_	VM	X	_	6	acl	_	_
 4	सारा	_	QF	X	_	6	det	_	_
 5	घर	_	NN	X	_	6	compound	_	_
-6	झुंणकी	_	NN	X	_	6	ROOT	_	_
+6	झुंणकी	_	NN	X	_	6	VM	_	_
 7	जाया	_	VM	X	_	6	aux:pass	_	_
 8	करो	_	VAUX	X	_	7	aux:pass	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	6	punct	_	_
@@ -194,7 +194,7 @@
 9	बगदी	_	NN	X	_	12	compound	_	_
 10	ए	_	NNPC	X	_	12	compound	_	_
 11	ठंडी	_	JJ	X	_	12	compound	_	_
-12	बागर	_	NNP	X	_	12	ROOT	_	SpaceAfter=No
+12	बागर	_	NNP	X	_	12	VM	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 17
@@ -205,7 +205,7 @@
 4	जाणें	_	NNP	X	_	5	nsubj	_	_
 5	हुई	_	VM	X	_	6	acl	_	_
 6	हालात	_	NN	X	_	7	nsubj	_	_
-7	साफ	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	साफ	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 18
@@ -219,7 +219,7 @@
 7	सोचणां	_	NN	X	_	8	obj	_	_
 8	छाडडी	_	VM	X	_	9	amod	_	_
 9	देणा	_	NN	X	_	10	obj	_	_
-10	चाहये	_	VM	X	_	10	ROOT	_	SpaceAfter=No
+10	चाहये	_	VM	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 19
@@ -233,14 +233,14 @@
 7	बारे	_	PSP	X	_	6	case	_	_
 8	ता	_	QF	X	_	6	dep	_	_
 9	सोच	_	NN	X	_	10	obj	_	_
-10	मया	_	VM	X	_	10	ROOT	_	SpaceAfter=No
+10	मया	_	VM	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 20
 # text =आज केहड़ा हा जिऊ तुसारा ?
 1	आज	_	NN	X	_	3	obl	_	_
 2	केहड़ा	_	NNP	X	_	3	compound	_	_
-3	हा	_	NNPC	X	_	3	ROOT	_	_
+3	हा	_	NNPC	X	_	3	VM	_	_
 4	जिऊ	_	NNPC	X	_	5	compound	_	_
 5	तुसारा	_	NNP	X	_	3	acl:relcl	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	3	punct	_	_
@@ -252,14 +252,14 @@
 3	भयागाए	_	NN	X	_	6	advcl	_	_
 4	उठी	_	VM	X	_	3	aux	_	_
 5	गईरे	_	NN	X	_	6	obj	_	_
-6	मठे	_	VM	X	_	6	ROOT	_	SpaceAfter=No
+6	मठे	_	VM	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 22
 # text =तुआर जे आ आज।
 1	तुआर	_	NN	X	_	3	nsubj	_	_
 2	जे	_	NNP	X	_	3	nsubj	_	_
-3	आ	_	VM	X	_	3	ROOT	_	_
+3	आ	_	VM	X	_	3	VM	_	_
 4	आज	_	VAUX	X	_	3	aux	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
@@ -268,7 +268,7 @@
 1	ओ	_	NNP	X	_	4	nmod	_	_
 2	ता	_	NNPC	X	_	1	dep	_	_
 3	केस	_	NN	X	_	4	compound	_	_
-4	समझाणीं	_	NNP	X	_	4	ROOT	_	_
+4	समझाणीं	_	NNP	X	_	4	VM	_	_
 5	से	_	PSP	X	_	4	case	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_ 
 
@@ -278,7 +278,7 @@
 2	ता	_	PSP	X	_	1	dep	_	_
 3	बित्ति	_	NN	X	_	5	obj	_	_
 4	गयी	_	VM	X	_	3	aux:pass	_	_
-5	उमर	_	VAUX	X	_	5	ROOT	_	SpaceAfter=No
+5	उमर	_	VAUX	X	_	5	VM	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 25
@@ -290,7 +290,7 @@
 5	रा	_	NNPC	X	_	2	conj	_	_
 6	ऐहड़ा	_	NNPC	X	_	2	conj	_	_
 7	ए	_	NNPC	X	_	8	compound	_	_
-8	हा	_	VM	X	_	8	ROOT	_	SpaceAfter=No
+8	हा	_	VM	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 26
@@ -305,7 +305,7 @@
 8	रे	_	NNPC	X	_	7	case	_	_
 9	मदाना	_	NNC	X	_	10	compound	_	_
 10	पत्ते	_	NN	X	_	11	obj	_	_
-11	खेलदे	_	VM	X	_	11	ROOT	_	SpaceAfter=No
+11	खेलदे	_	VM	X	_	11	VM	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 27
@@ -316,7 +316,7 @@
 4	कोई	_	PRP	X	_	5	advmod	_	_
 5	स्यापा	_	JJ	X	_	7	obj	_	_
 6	नि	_	NNPC	X	_	7	advmod	_	_
-7	तेज्जो	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
+7	तेज्जो	_	NNP	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 28
@@ -324,7 +324,7 @@
 1	आपणें	_	NN	X	_	2	compound	_	_
 2	लोड़ी	_	JJ	X	_	4	advcl	_	_
 3	डाम्बर	_	NNC	X	_	4	compound	_	_
-4	भरीरे	_	NN	X	_	4	ROOT	_	SpaceAfter=No
+4	भरीरे	_	NN	X	_	4	VM	_	SpaceAfter=No
 5	,	_	SYM	SYM	_	4	punct	_	_
 6	बालक	_	NN	X	_	7	compound	_	_
 7	रहो	_	NNPC	X	_	4	conj	_	_
@@ -337,7 +337,7 @@
 2	पर	_	PSP	X	_	1	case	_	_
 3	तरमेहड़ा	_	NNP	X	_	4	compound	_	_
 4	रखीरा	_	NNP	X	_	5	obj	_	_
-5	पाणीं	_	JJ	X	_	5	ROOT	_	_
+5	पाणीं	_	JJ	X	_	5	VM	_	_
 6	रा	_	VM	X	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -346,7 +346,7 @@
 1	तप्पेया	_	NNP	X	_	2	amod	_	_
 2	नीं	_	NNPC	X	_	3	obj	_	_
 3	पाणीं	_	NNPC	X	_	4	compound	_	_
-4	अज्जे	_	NN	X	_	4	ROOT	_	SpaceAfter=No
+4	अज्जे	_	NN	X	_	4	VM	_	SpaceAfter=No
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 31
@@ -355,7 +355,7 @@
 2	जे	_	NNP	X	_	3	compound	_	_
 3	री	_	NNP	X	_	5	nsubj	_	_
 4	क्या	_	WQ	X	_	5	advmod	_	_
-5	लग्गिरी	_	JJ	X	_	5	ROOT	_	_
+5	लग्गिरी	_	JJ	X	_	5	VM	_	_
 6	थी	_	VM	X	_	5	cop	_	_
 7	ता	_	VAUX	X	_	5	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -364,7 +364,7 @@
 # text =गाई दुही दित्ती?
 1	गाई	_	NN	X	_	2	compound	_	_
 2	दुही	_	NN	X	_	3	obj	_	_
-3	दित्ती	_	NNP	X	_	3	ROOT	_	SpaceAfter=No
+3	दित्ती	_	NNP	X	_	3	VM	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 33
@@ -374,7 +374,7 @@
 3	तू	_	NNPC	X	_	5	compound	_	_
 4	करदा	_	NNPC	X	_	5	compound	_	_
 5	मदद	_	NN	X	_	6	obj	_	_
-6	मेरी	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
+6	मेरी	_	PRP	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 34
@@ -384,7 +384,7 @@
 3	भरना	_	VM	X	_	6	advcl	_	_
 4	पाणीं	_	NN	X	_	5	compound	_	_
 5	केंने	_	JJ	X	_	6	nsubj	_	_
-6	तिने	_	VM	X	_	6	ROOT	_	SpaceAfter=No
+6	तिने	_	VM	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 35
@@ -395,7 +395,7 @@
 4	चरदी	_	NNPC	X	_	5	compound	_	_
 5	खाड्डा	_	NN	X	_	7	obj	_	_
 6	रे	_	VM	X	_	5	case	_	_
-7	कनारे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	कनारे	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 36
@@ -403,7 +403,7 @@
 1	हाऊँ	_	NNPC	X	_	4	compound	_	_
 2	चलिरा	_	NNPC	X	_	4	compound	_	_
 3	मछिआं	_	NNPC	X	_	4	compound	_	_
-4	मारदा	_	NNP	X	_	4	ROOT	_	SpaceAfter=No
+4	मारदा	_	NNP	X	_	4	VM	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 37
@@ -414,7 +414,7 @@
 4	ता	_	CC	X	_	2	case	_	_
 5	सब्बे	_	JJ	X	_	6	compound	_	_
 6	जवाब	_	NN	X	_	7	nsubj	_	_
-7	गलत	_	JJ	X	_	7	ROOT	_	_
+7	गलत	_	JJ	X	_	7	VM	_	_
 8	थे	_	VM	X	_	7	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
@@ -425,7 +425,7 @@
 3	बड्डी	_	NN	X	_	5	nsubj	_	_
 4	भारी	_	JJ	X	_	5	amod	_	_
 5	सिरा	_	VM	X	_	6	compound	_	_
-6	पीड़	_	VAUX	X	_	6	ROOT	_	SpaceAfter=No
+6	पीड़	_	VAUX	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 39
@@ -434,7 +434,7 @@
 2	देख्या	_	NNP	X	_	5	nsubj	_	_
 3	मेरे	_	PRP	X	_	5	obl	_	_
 4	के	_	PSP	X	_	3	case	_	_
-5	हो	_	VM	X	_	5	ROOT	_	SpaceAfter=No
+5	हो	_	VM	X	_	5	VM	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 40
@@ -448,7 +448,7 @@
 7	पूज्या	_	NN	X	_	4	conj	_	_
 8	लोड़ी	_	JJ	X	_	10	nsubj	_	_
 9	सात	_	QC	X	_	10	nummod	_	_
-10	बजे	_	NN	X	_	10	ROOT	_	SpaceAfter=No
+10	बजे	_	NN	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 41
@@ -460,7 +460,7 @@
 5	गयी	_	VAUX	X	_	4	aux:pass	_	_
 6	मेरी	_	PRP	X	_	8	nsubj	_	_
 7	थोड़ी	_	QF	X	_	8	compound	_	_
-8	जे	_	VM	X	_	8	ROOT	_	SpaceAfter=No
+8	जे	_	VM	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 42
@@ -473,7 +473,7 @@
 6	से	_	PSP	X	_	4	mark	_	_
 7	आपणें	_	NN	X	_	8	compound	_	_
 8	ताऊ	_	NN	X	_	9	nsubj	_	_
-9	जो	_	PRP	X	_	9	ROOT	_	SpaceAfter=No
+9	जो	_	PRP	X	_	9	VM	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 43
@@ -488,12 +488,12 @@
 8	गईरी	_	VAUX	X	_	11	nsubj	_	_
 9	थी	_	VAUX	X	_	8	aux	_	_
 10	ब्याह	_	NN	X	_	11	nsubj	_	_
-11	जो	_	PRP	X	_	11	ROOT	_	SpaceAfter=No
+11	जो	_	PRP	X	_	11	VM	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 44
 # text =देखे, क्या बांकी चिड़ी बैठी छापरा पर।
-1	देखे	_	VM	X	_	1	ROOT	_	SpaceAfter=No
+1	देखे	_	VM	X	_	1	VM	_	SpaceAfter=No
 2	,	_	SYM	SYM	_	1	punct	_	_
 3	क्या	_	WQ	X	_	4	det	_	_
 4	बांकी	_	NNP	X	_	1	conj	_	_
@@ -510,7 +510,7 @@
 3	गड्डी	_	NNPC	X	_	4	compound	_	_
 4	चलाई	_	NNP	X	_	5	compound	_	_
 5	लई	_	VAUX	X	_	6	obj	_	_
-6	तू	_	VAUX	X	_	6	ROOT	_	SpaceAfter=No
+6	तू	_	VAUX	X	_	6	VM	_	SpaceAfter=No
 7	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 46
@@ -519,7 +519,7 @@
 2	भारी	_	JJ	X	_	3	amod	_	_
 3	गलांईँ	_	NNPC	X	_	5	nsubj	_	_
 4	तेसारी	_	JJ	X	_	5	compound	_	_
-5	सासु	_	VM	X	_	5	ROOT	_	SpaceAfter=No
+5	सासु	_	VM	X	_	5	VM	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 47
@@ -528,7 +528,7 @@
 2	न	_	NEG	X	_	3	advmod	_	_
 3	किछ	_	NN	X	_	4	det	_	_
 4	करदे	_	VM	X	_	5	obj	_	_
-5	रेहणां	_	VM	X	_	5	ROOT	_	_
+5	रेहणां	_	VM	X	_	5	VM	_	_
 6	चाहिए	_	VAUX	X	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -550,7 +550,7 @@
 14	असर	_	NN	X	_	17	nsubj	_	_
 15	नही	_	VM	X	_	16	amod	_	_
 16	हुन्दा	_	VAUX	X	_	17	obj	_	_
-17	हूंगा	_	VM	X	_	17	ROOT	_	SpaceAfter=No
+17	हूंगा	_	VM	X	_	17	VM	_	SpaceAfter=No
 18	।	_	PUNCT	SYM	_	17	punct	_	_
 
 # sent_id = 49
@@ -561,7 +561,7 @@
 4	ओरे	_	VM	X	_	7	advcl	_	_
 5	परे	_	VAUX	X	_	6	amod	_	_
 6	जाणें	_	NNP	X	_	7	obj	_	_
-7	कठ्ठे	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
+7	कठ्ठे	_	NNP	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 50
@@ -574,7 +574,7 @@
 6	करना	_	VM	X	_	2	conj	_	_
 7	कद्दी	_	NNPC	X	_	9	compound	_	_
 8	कद्दी	_	NNPC	X	_	9	compound	_	_
-9	आम्मा	_	NNP	X	_	9	ROOT	_	SpaceAfter=No
+9	आम्मा	_	NNP	X	_	9	VM	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 51
@@ -582,7 +582,7 @@
 1	सच	_	NNPC	X	_	2	compound	_	_
 2	झूठ	_	NNPC	X	_	4	obj	_	_
 3	गलानां	_	NNPC	X	_	4	compound	_	_
-4	छाडडी	_	VM	X	_	4	ROOT	_	_
+4	छाडडी	_	VM	X	_	4	VM	_	_
 5	दे	_	VM	X	_	4	aux	_	_
 6	स्याणींये	_	VAUX	X	_	5	aux:pass	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	4	punct	_	_
@@ -595,14 +595,14 @@
 4	मुंजो	_	NNP	X	_	5	compound	_	_
 5	लग्गाएँ	_	JJ	X	_	7	obj	_	_
 6	धरेर	_	JJ	X	_	7	compound	_	_
-7	बुरे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	बुरे	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 53
 # text =केहड़ा गईरा तेरे ?
 1	केहड़ा	_	NNP	X	_	2	compound	_	_
 2	गईरा	_	NNP	X	_	3	obj	_	_
-3	तेरे	_	VM	X	_	3	ROOT	_	SpaceAfter=No
+3	तेरे	_	VM	X	_	3	VM	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 54
@@ -619,12 +619,12 @@
 10	कांना	_	NN	X	_	13	obl	_	_
 11	पीछे	_	NST	X	_	10	case	_	_
 12	कांग	_	NN	X	_	13	compound	_	_
-13	तेरी	_	VM	X	_	13	ROOT	_	SpaceAfter=No
+13	तेरी	_	VM	X	_	13	VM	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 55
 # text =से बड्डा लोटा रखयाँ भरूंआं आज पाणीं रा मेरे सराणें। 
-1	से	_	PSP	X	_	1	ROOT	_	_
+1	से	_	PSP	X	_	1	VM	_	_
 2	बड्डा	_	NN	X	_	3	compound	_	_
 3	लोटा	_	JJ	X	_	5	nmod	_	_
 4	रखयाँ	_	NN	X	_	5	compound	_	_
@@ -644,7 +644,7 @@
 4	लग्गी	_	JJ	X	_	6	amod	_	_
 5	ओ	_	NNPC	X	_	6	compound	_	_
 6	मथेया	_	NNPC	X	_	7	obj	_	_
-7	तुज्जो	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
+7	तुज्जो	_	NNP	X	_	7	VM	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 57
@@ -655,7 +655,7 @@
 4	ता	_	CC	X	_	3	case	_	_
 5	मांजरियां	_	NN	X	_	7	nsubj	_	_
 6	बी	_	RP	X	_	7	obj	_	_
-7	बणांगे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	बणांगे	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 58
@@ -666,7 +666,7 @@
 4	आम्बा	_	NN	X	_	5	compound	_	_
 5	रा	_	NN	X	_	7	nsubj	_	_
 6	ऐसा	_	DEM	X	_	7	advmod	_	_
-7	बारी	_	NN	X	_	7	ROOT	_	SpaceAfter=No
+7	बारी	_	NN	X	_	7	VM	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 59
@@ -682,7 +682,7 @@
 9	दुई	_	NNP	X	_	12	nsubj	_	_
 10	मीह्ने	_	NNP	X	_	12	compound	_	_
 11	री	_	NNPC	X	_	12	compound	_	_
-12	छुट्टी	_	NNP	X	_	12	ROOT	_	SpaceAfter=No
+12	छुट्टी	_	NNP	X	_	12	VM	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 60
@@ -691,7 +691,7 @@
 2	ब्याह	_	NN	X	_	3	compound	_	_
 3	री	_	NNPC	X	_	4	compound	_	_
 4	गल्ला	_	NNP	X	_	5	compound	_	_
-5	बाता	_	VM	X	_	5	ROOT	_	_
+5	बाता	_	VM	X	_	5	VM	_	_
 6	जो	_	PRP	X	_	7	det	_	_
 7	रहे	_	VM	X	_	11	acl:relcl	_	_
 8	पईरे	_	VAUX	X	_	7	aux	_	_
@@ -708,7 +708,7 @@
 2	लग्या	_	NNPC	X	_	3	compound	_	_
 3	ब्याह	_	NNPC	X	_	5	nsubj	_	_
 4	तेसरे	_	NNPC	X	_	5	compound	_	_
-5	भांणजू	_	VM	X	_	5	ROOT	_	_
+5	भांणजू	_	VM	X	_	5	VM	_	_
 6	रा	_	VAUX	X	_	5	aux	_	SpaceAfter=No
 7	?	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -719,7 +719,7 @@
 3	लग्गी	_	JJ	X	_	1	conj	_	_
 4	गया	_	VM	X	_	3	aux:pass	_	_
 5	नुरात्रे	_	NNPC	X	_	6	nsubj	_	_
-6	मंझा	_	VM	X	_	6	ROOT	_	SpaceAfter=No
+6	मंझा	_	VM	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 63
@@ -731,7 +731,7 @@
 5	पेनणां	_	NNPC	X	_	8	compound	_	_
 6	लाल	_	NNPC	X	_	8	compound	_	_
 7	सूट	_	NNP	X	_	8	compound	_	_
-8	मठिये	_	NNP	X	_	8	ROOT	_	SpaceAfter=No
+8	मठिये	_	NNP	X	_	8	VM	_	SpaceAfter=No
 9	,	_	SYM	SYM	_	8	punct	_	_
 10	डैणींयाँ	_	NN	X	_	11	compound	_	_
 11	बणी	_	VM	X	_	8	conj	_	_
@@ -749,7 +749,7 @@
 6	हो	_	VM	X	_	9	advcl	_	_
 7	भाभी	_	NNPC	X	_	8	amod	_	_
 8	डियूण्ड	_	NN	X	_	9	compound	_	_
-9	पिसणीं	_	VM	X	_	9	ROOT	_	SpaceAfter=No
+9	पिसणीं	_	VM	X	_	9	VM	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 65
@@ -758,7 +758,7 @@
 2	भेंजियाँ	_	NN	X	_	5	compound	_	_
 3	रा	_	NNPC	X	_	5	compound	_	_
 4	हे	_	NNPC	X	_	5	compound	_	_
-5	जिम्मा	_	NNP	X	_	5	ROOT	_	_
+5	जिम्मा	_	NNP	X	_	5	VM	_	_
 6	नीं	_	NNPC	X	_	8	compound	_	_
 7	हुंदे	_	NNPC	X	_	8	compound	_	_
 8	मठे	_	NNP	X	_	5	conj	_	SpaceAfter=No
@@ -782,14 +782,14 @@
 8	आज	_	NN	X	_	11	obl	_	SpaceAfter=No
 9	,	_	SYM	SYM	_	8	punct	_	_
 10	क्या	_	WQ	X	_	11	advmod	_	_
-11	हुई	_	VM	X	_	11	ROOT	_	_
+11	हुई	_	VM	X	_	11	VM	_	_
 12	गईरा	_	NNP	X	_	13	obj	_	_
 13	ऐहड़ा	_	VM	X	_	11	acl:relcl	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 67
 # text = कि लाइरे एवों अंगूर सट्टणें, ढब्बे नीं लग्गिरे इन्हा जो |
-1	कि	_	CC	X	_	1	ROOT	_	_
+1	कि	_	CC	X	_	1	VM	_	_
 2	लाइरे	_	NNC	X	_	5	amod	_	_
 3	एवों	_	NNPC	X	_	5	nmod	_	_
 4	अंगूर	_	NNPC	X	_	5	compound	_	_
@@ -809,7 +809,7 @@
 3	तिन्हुये	_	NNPC	X	_	4	compound	_	_
 4	हाखिआं	_	NNPC	X	_	6	nsubj	_	_
 5	निविं	_	NNPC	X	_	6	compound	_	_
-6	करुआं	_	NNP	X	_	6	ROOT	_	SpaceAfter=No
+6	करुआं	_	NNP	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 69
@@ -820,7 +820,7 @@
 4	कर	_	VM	X	_	1	conj	_	_
 5	हुई	_	VAUX	X	_	4	aux	_	_
 6	गईरी	_	VAUX	X	_	7	compound	_	_
-7	नौणीं	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
+7	नौणीं	_	NNP	X	_	7	VM	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 70
@@ -832,7 +832,7 @@
 5	पार	_	NN	X	_	6	nsubj	_	_
 6	ऐसा	_	PRP	X	_	7	det	_	_
 7	थाणेंदारणी	_	VM	X	_	8	nsubj	_	_
-8	जो	_	PRP	X	_	8	ROOT	_	SpaceAfter=No
+8	जो	_	PRP	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 71
@@ -841,7 +841,7 @@
 2	लोड़ी	_	JJ	X	_	5	advcl	_	_
 3	हुआं	_	NN	X	_	4	compound	_	_
 4	सघणां	_	NNPC	X	_	5	nsubj	_	_
-5	पाया	_	VM	X	_	5	ROOT	_	_
+5	पाया	_	VM	X	_	5	VM	_	_
 6	पैहले	_	VAUX	X	_	5	aux	_	SpaceAfter=No
 7	,	_	SYM	SYM	_	9	punct	_	_
 8	फेरी	_	PRP	X	_	9	compound	_	_
@@ -853,7 +853,7 @@
 1	तू	_	NNP	X	_	2	compound	_	_
 2	हे	_	NN	X	_	4	nmod	_	_
 3	जाण	_	NNPC	X	_	4	compound	_	_
-4	देऊआ	_	NNP	X	_	4	ROOT	_	SpaceAfter=No
+4	देऊआ	_	NNP	X	_	4	VM	_	SpaceAfter=No
 5	,	_	SYM	SYM	_	4	punct	_	_
 6	क्या	_	WQ	X	_	9	advmod	_	_
 7	हूंगा	_	NNPC	X	_	9	compound	_	_
@@ -870,7 +870,7 @@
 4	न्याह्ली	_	NNP	X	_	6	compound	_	_
 5	लयां	_	NN	X	_	6	compound	_	_
 6	मुंजो	_	NN	X	_	7	obj	_	_
-7	बड़िये	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	बड़िये	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 74
@@ -883,7 +883,7 @@
 6	आपणें	_	NNP	X	_	7	compound	_	_
 7	झोले	_	NN	X	_	9	obl	_	_
 8	अंदर	_	NST	X	_	7	mark	_	_
-9	ऊ	_	JJ	X	_	9	ROOT	_	SpaceAfter=No
+9	ऊ	_	JJ	X	_	9	VM	_	SpaceAfter=No
 10	?	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 75
@@ -892,19 +892,19 @@
 2	क्या	_	WQ	X	_	5	advmod	_	_
 3	एथी	_	NNPC	X	_	4	amod	_	_
 4	ठाणेंदारण	_	NN	X	_	5	obj	_	_
-5	लग्गिरी	_	VM	X	_	5	ROOT	_	SpaceAfter=No
+5	लग्गिरी	_	VM	X	_	5	VM	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 76
 # text = दसूं हाऊँ तुज्जो ? 
 1	दसूं	_	NN	X	_	2	compound	_	_
 2	हाऊँ	_	VM	X	_	3	obj	_	_
-3	तुज्जो	_	NNP	X	_	3	ROOT	_	SpaceAfter=No
+3	तुज्जो	_	NNP	X	_	3	VM	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 77
 # text = तें क्या आप्पू साहीं बूझिरी हाऊँ ?  
-1	तें	_	NN	X	_	1	ROOT	_	_
+1	तें	_	NN	X	_	1	VM	_	_
 2	क्या	_	WQ	X	_	3	det	_	_
 3	आप्पू	_	NNP	X	_	1	conj	_	_
 4	साहीं	_	VM	X	_	5	advmod	_	_
@@ -916,7 +916,7 @@
 # text = बस करयाँ हो, जादा नीं गलाणां।
 1	बस	_	NNC	X	_	3	nsubj	_	_
 2	करयाँ	_	NN	X	_	3	compound	_	_
-3	हो	_	VM	X	_	3	ROOT	_	SpaceAfter=No
+3	हो	_	VM	X	_	3	VM	_	SpaceAfter=No
 4	,	_	SYM	SYM	_	3	punct	_	_
 5	जादा	_	NNPC	X	_	7	nsubj	_	_
 6	नीं	_	NNPC	X	_	7	compound	_	_
@@ -934,7 +934,7 @@
 7	झुहड़ू	_	NN	X	_	8	obj	_	_
 8	तिकरा	_	VM	X	_	10	nsubj	_	_
 9	जो	_	PRP	X	_	10	obj	_	_
-10	घुमदी	_	VM	X	_	10	ROOT	_	SpaceAfter=No
+10	घुमदी	_	VM	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 80
@@ -948,7 +948,7 @@
 7	आजकले	_	VM	X	_	8	amod	_	_
 8	तेरी	_	NNP	X	_	10	compound	_	_
 9	गाई	_	NN	X	_	10	compound	_	_
-10	रा	_	NNP	X	_	10	ROOT	_	SpaceAfter=No
+10	रा	_	NNP	X	_	10	VM	_	SpaceAfter=No
 11	,	_	SYM	SYM	_	13	punct	_	_
 12	क्या	_	WQ	X	_	13	advmod	_	_
 13	गल्ल	_	NN	X	_	10	conj	_	SpaceAfter=No
@@ -970,7 +970,7 @@
 4	बुझहाँ	_	NNPC	X	_	5	nmod	_	_
 5	मौत	_	NN	X	_	7	nsubj	_	_
 6	लग्गी	_	JJ	X	_	7	compound	_	_
-7	आउंदी	_	VM	X	_	7	ROOT	_	SpaceAfter=No
+7	आउंदी	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 83
@@ -982,7 +982,7 @@
 5	करदा	_	NNPC	X	_	6	compound	_	_
 6	मांह	_	NN	X	_	8	nsubj	_	_
 7	ते	_	VM	X	_	6	case	_	_
-8	ता	_	VM	X	_	8	ROOT	_	SpaceAfter=No
+8	ता	_	VM	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 84
@@ -990,7 +990,7 @@
 1	फूल	_	NNC	X	_	2	compound	_	_
 2	पातरा	_	NN	X	_	4	nsubj	_	_
 3	केंने	_	PRP	X	_	4	nsubj	_	_
-4	भरी	_	VM	X	_	4	ROOT	_	_
+4	भरी	_	VM	X	_	4	VM	_	_
 5	गईरा	_	NN	X	_	4	aux	_	_
 6	था	_	VM	X	_	5	aux:pass	_	SpaceAfter=No
 7	|	_	PUNCT	SYM	_	4	punct	_	_
@@ -1002,7 +1002,7 @@
 3	क्या	_	WQ	X	_	4	advmod	_	_
 4	हुआ	_	VM	X	_	6	acl	_	_
 5	हूंगा	_	VAUX	X	_	6	compound	_	_
-6	इन्हाओ	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
+6	इन्हाओ	_	PRP	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 86
@@ -1017,14 +1017,14 @@
 8	,	_	SYM	SYM	_	9	punct	_	_
 9	भितरा	_	NN	X	_	6	conj	_	_
 10	ते	_	PSP	X	_	9	case	_	_
-11	लुगलुग्गी	_	VM	X	_	11	ROOT	_	SpaceAfter=No
+11	लुगलुग्गी	_	VM	X	_	11	VM	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 87
 # text = आवा खोड़ खेलदे ।
 1	आवा	_	NNPC	X	_	2	compound	_	_
 2	खोड़	_	NN	X	_	3	nsubj	_	_
-3	खेलदे	_	VM	X	_	3	ROOT	_	SpaceAfter=No
+3	खेलदे	_	VM	X	_	3	VM	_	SpaceAfter=No
 4	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 88
@@ -1032,7 +1032,7 @@
 1	ए	_	NNPC	X	_	3	compound	_	_
 2	दाड़न	_	NNP	X	_	3	compound	_	_
 3	किह्यां	_	NN	X	_	4	nsubj	_	_
-4	सुक्की	_	VM	X	_	4	ROOT	_	_
+4	सुक्की	_	VM	X	_	4	VM	_	_
 5	गई	_	VM	X	_	4	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	4	punct	_	_
 
@@ -1045,7 +1045,7 @@
 5	केहड़ी	_	NN	X	_	6	nsubj	_	_
 6	बणी	_	VM	X	_	8	compound	_	_
 7	री	_	VAUX	X	_	6	dep	_	_
-8	भुज्जी	_	NNP	X	_	8	ROOT	_	SpaceAfter=No
+8	भुज्जी	_	NNP	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 
@@ -1053,7 +1053,7 @@
 # text =तुस्सा री गाई कि बासिरी आज एड्डी।
 1	तुस्सा	_	NN	X	_	3	compound	_	_
 2	री	_	VM	X	_	3	compound	_	_
-3	गाई	_	NN	X	_	3	ROOT	_	_
+3	गाई	_	NN	X	_	3	VM	_	_
 4	कि	_	CC	X	_	7	mark	_	_
 5	बासिरी	_	NNP	X	_	7	nsubj	_	_
 6	आज	_	NN	X	_	7	obl	_	_
@@ -1071,7 +1071,7 @@
 7	तेथी	_	NNP	X	_	9	nmod	_	_
 8	ते	_	NN	X	_	7	case	_	_
 9	अंतर्ध्यान	_	NN	X	_	10	compound	_	_
-10	हुई	_	VM	X	_	10	ROOT	_	_
+10	हुई	_	VM	X	_	10	VM	_	_
 11	गई	_	VAUX	X	_	10	aux	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
@@ -1079,7 +1079,7 @@
 # text =देख्यां पौंदी हो मठिये, चिफला हुईरा बाहर ओटा|
 1	देख्यां	_	NN	X	_	3	nsubj	_	_
 2	पौंदी	_	NN	X	_	3	compound	_	_
-3	हो	_	VM	X	_	3	ROOT	_	_
+3	हो	_	VM	X	_	3	VM	_	_
 4	मठिये	_	VAUX	X	_	3	aux	_	SpaceAfter=No
 5	,	_	SYM	SYM	_	4	punct	_	_
 6	चिफला	_	NNP	X	_	7	compound	_	_
@@ -1090,7 +1090,7 @@
 # sent_id = 93
 # text =समज हे नि आओ मुंजो क्या करणां क्या नईं |
 1	समज	_	JJ	X	_	2	compound	_	_
-2	हे	_	NNPC	X	_	2	ROOT	_	_
+2	हे	_	NNPC	X	_	2	VM	_	_
 3	नि	_	NNP	X	_	5	amod	_	_
 4	आओ	_	NNPC	X	_	5	compound	_	_
 5	मुंजो	_	NNP	X	_	2	nmod	_	_
@@ -1112,7 +1112,7 @@
 8	टुआया	_	VM	X	_	11	nsubj	_	_
 9	कि	_	CC	X	_	10	mark	_	_
 10	नईं	_	NN	X	_	8	obj	_	_
-11	ऐसे	_	PRP	X	_	11	ROOT	_	SpaceAfter=No
+11	ऐसे	_	PRP	X	_	11	VM	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 95
@@ -1124,7 +1124,7 @@
 5	चाह	_	NNPC	X	_	6	obj	_	_
 6	लाईरी	_	NNPC	X	_	7	amod	_	_
 7	बणांणीं	_	JJ	X	_	8	compound	_	_
-8	धीरा	_	NNP	X	_	8	ROOT	_	SpaceAfter=No
+8	धीरा	_	NNP	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 96
@@ -1133,7 +1133,7 @@
 2	चार	_	QC	X	_	4	nummod	_	_
 3	पुल्ए	_	NNC	X	_	4	amod	_	_
 4	काड्डी	_	NN	X	_	5	obj	_	_
-5	दे	_	VM	X	_	5	ROOT	_	_
+5	दे	_	VM	X	_	5	VM	_	_
 6	घा	_	VAUX	X	_	5	aux	_	_
 7	रे	_	VAUX	X	_	6	aux:pass	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -1149,7 +1149,7 @@
 7	ए	_	NNPC	X	_	8	compound	_	_
 8	नीं	_	NNP	X	_	3	conj	_	_
 9	ही	_	RP	X	_	8	dep	_	_
-10	हई	_	VM	X	_	10	ROOT	_	SpaceAfter=No
+10	हई	_	VM	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 
