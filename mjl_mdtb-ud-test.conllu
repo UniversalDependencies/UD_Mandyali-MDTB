@@ -264,7 +264,7 @@
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 23
-# text =ओ ता केस समझाणीं से ।
+# text =ओ ता केस समझाणीं से।
 1	ओ	_	NNP	X	_	4	nmod	_	_
 2	ता	_	NNPC	X	_	1	dep	_	_
 3	केस	_	NN	X	_	4	compound	_	_
@@ -309,7 +309,7 @@
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 27
-# text =केसी रा बी कोई स्यापा नि तेज्जो ।
+# text =केसी रा बी कोई स्यापा नि तेज्जो।
 1	केसी	_	JJ	X	_	3	compound	_	_
 2	रा	_	NN	X	_	3	compound	_	_
 3	बी	_	RP	X	_	4	compound	_	_
@@ -317,7 +317,7 @@
 5	स्यापा	_	JJ	X	_	7	obj	_	_
 6	नि	_	NNPC	X	_	7	advmod	_	_
 7	तेज्जो	_	NNP	X	_	7	VM	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	7	punct	_	_
+8	। _	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 28
 # text =आपणें लोड़ी डाम्बर भरीरे, बालक रहो रोंदे।
@@ -368,7 +368,7 @@
 4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 33
-# text =कदी नीं तू करदा मदद मेरी ।
+# text =कदी नीं तू करदा मदद मेरी।
 1	कदी	_	NNP	X	_	6	nsubj	_	_
 2	नीं	_	NNPC	X	_	5	compound	_	_
 3	तू	_	NNPC	X	_	5	compound	_	_
@@ -504,7 +504,7 @@
 9	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 45
-# text =क्या, गड्डी चलाई लई तू ?
+# text =क्या, गड्डी चलाई लई तू?
 1	क्या	_	WQ	X	_	6	advmod	_	SpaceAfter=No
 2	,	_	SYM	SYM	_	1	punct	_	_
 3	गड्डी	_	NNPC	X	_	4	compound	_	_
