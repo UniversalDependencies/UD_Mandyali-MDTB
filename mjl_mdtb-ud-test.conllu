@@ -126,8 +126,8 @@
 4	बाहर	_	NST	X	_	4	VM	_	_
 5	थी	_	VM	X	_	4	cop	_	_
 6	लग्गिरि	_	NN	X	_	11	nmod	_	SpaceAfter=No
-7	,	_	SYM	SYM	_	8	punct	_	_
-8	सुआड़	_	NN	X	_	6	conj	_	_
+7	,	_	PUNCT	SYM	_	8	punct	_	_
+8	सुआड़	_	NOUN	X	_	6	NN	_	_
 9	था	_	VM	X	_	6	cop	_	_
 10	लाईरा	_	JJ	X	_	11	compound	_	_
 11	सुआरणा	_	NN	X	_	4	nmod	_	SpaceAfter=No
