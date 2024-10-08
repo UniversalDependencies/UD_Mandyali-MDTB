@@ -23,7 +23,7 @@
 10 ।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 3
-# text = सुत्तिरा ए हया अज्जे तिकर ?
+# text = सुत्तिरा ए हया अज्जे तिकर?
 1	सुत्तिरा	_	NNPC	X	_	3	compound	_	_
 2	ए	_	NNPC	X	_	3	compound	_	_
 3	हया	_	NNPC	X	_	5	nsubj	_	_
