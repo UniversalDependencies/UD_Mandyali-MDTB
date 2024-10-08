@@ -119,7 +119,7 @@
 13 ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
-# text = भ्यागा जे री बाहर थी लग्गिरि ,सुआड़ था लाईरा सुआरणा।
+# text = भ्यागा जे री बाहर थी लग्गिरि ,सुआ था लाईरा सुआरणा।
 1	भ्यागा	_	NN	X	_	3	amod	_	_
 2	जे	_	NNP	X	_	3	compound	_	_
 3	री	_	RP	X	_	4	compound	_	_
@@ -127,7 +127,7 @@
 5	थी	_	VM	X	_	4	cop	_	_
 6	लग्गिरि	_	NN	X	_	11	nmod	_	SpaceAfter=No
 7	,	_	PUNCT	SYM	_	8	punct	_	_
-8	सुआड़	_	NOUN	X	_	6	NN	_	_
+8	सुआ	_	NOUN	X	_	6	NN	_	_
 9	था	_	VM	X	_	6	cop	_	_
 10 लाईरा	_	JJ	X	_	11	compound	_	_
 11 सुआरणा	_	NN	X	_	4	nmod	_	SpaceAfter=No
