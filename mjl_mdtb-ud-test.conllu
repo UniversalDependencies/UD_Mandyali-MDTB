@@ -100,7 +100,7 @@
 9	स्वेटरा	_	NN	X	_	5	conj	_	_
 10	लाईरी	_	NNPC	X	_	5	conj	_	_
 11	गुंदणीं	_	VM	X	_	11	ROOT	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	11	punct	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 9
 # text = दिल करहां जे रोज़ आपणी हिमाचली बोली मंझ किछ ना किछ लिखूं ।
@@ -116,7 +116,7 @@
 10	ना	_	NNPC	X	_	9	dep	_	_
 11	किछ	_	NNP	X	_	12	obj	_	_
 12	लिखूं	_	NN	X	_	12	ROOT	_	SpaceAfter=No
-13	।	_	SYM	SYM	_	12	punct	_	_
+13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
 # text = भ्यागा जे री बाहर थी लग्गिरि ,सुआड़ था लाईरा सुआरणा।
@@ -131,7 +131,7 @@
 9	था	_	VM	X	_	6	cop	_	_
 10	लाईरा	_	JJ	X	_	11	compound	_	_
 11	सुआरणा	_	NN	X	_	4	nmod	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	4	punct	_	_
+12	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 11
 # text = माहणुआं स्वभाव कदी बदलोणा कोए पता निहां |
@@ -142,7 +142,7 @@
 5	कोए	_	NNP	X	_	7	compound	_	_
 6	पता	_	NNPC	X	_	7	compound	_	_
 7	निहां	_	NNPC	X	_	8	nsubj	_	SpaceAfter=No
-8	|	_	JJ	X	_	8	ROOT	_	_
+8	|	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 12
 # text = देऊ कमरुनागा जो आसे बड्डा देऊ बोल्हाए। 
@@ -153,7 +153,7 @@
 5	बड्डा	_	NN	X	_	6	compound	_	_
 6	देऊ	_	NN	X	_	7	compound	_	_
 7	बोल्हाए	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 13
 # text = मैं सोचया तुस्से आपणी बोबो रे घराओ जांदे लगी रे ।
@@ -167,7 +167,7 @@
 8	जांदे	_	NN	X	_	9	obj	_	_
 9	लगी	_	VM	X	_	9	ROOT	_	_
 10	रे	_	VAUX	X	_	9	aux	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	9	punct	_	_
+11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 15
 # text = ऐसी बागर हुई सारा घर झुंणकी जाया करो।
@@ -179,7 +179,7 @@
 6	झुंणकी	_	NN	X	_	6	ROOT	_	_
 7	जाया	_	VM	X	_	6	aux:pass	_	_
 8	करो	_	VAUX	X	_	7	aux:pass	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	6	punct	_	_
+9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
 # text = इन्ना डाला बुटेआं री बझहा ते ही लग्गिरी बगदी ए ठंडी बागर।
@@ -195,7 +195,7 @@
 10	ए	_	NNPC	X	_	12	compound	_	_
 11	ठंडी	_	JJ	X	_	12	compound	_	_
 12	बागर	_	NNP	X	_	12	ROOT	_	SpaceAfter=No
-13	।	_	SYM	SYM	_	12	punct	_	_
+13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 17
 # text = अगले मीहने तिकर जाणें हुई हालात साफ।
@@ -206,7 +206,7 @@
 5	हुई	_	VM	X	_	6	acl	_	_
 6	हालात	_	NN	X	_	7	nsubj	_	_
 7	साफ	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 18
 # text = लोका जो भी ऐब्बे ईधी बारे सोचणां छाडडी देणा चाहये।
@@ -220,7 +220,7 @@
 8	छाडडी	_	VM	X	_	9	amod	_	_
 9	देणा	_	NN	X	_	10	obj	_	_
 10	चाहये	_	VM	X	_	10	ROOT	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 19
 # text = आपणां नईं ता आपणें बाल बच्चेयाँ बारे ता सोच मया।
@@ -234,7 +234,7 @@
 8	ता	_	QF	X	_	6	dep	_	_
 9	सोच	_	NN	X	_	10	obj	_	_
 10	मया	_	VM	X	_	10	ROOT	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 20
 # text =आज केहड़ा हा जिऊ तुसारा ?
@@ -243,7 +243,7 @@
 3	हा	_	NNPC	X	_	3	ROOT	_	_
 4	जिऊ	_	NNPC	X	_	5	compound	_	_
 5	तुसारा	_	NNP	X	_	3	acl:relcl	_	SpaceAfter=No
-6	?	_	SYM	SYM	_	3	punct	_	_
+6	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 21
 # text =आज ता भयागाए उठी गईरे मठे।
@@ -253,7 +253,7 @@
 4	उठी	_	VM	X	_	3	aux	_	_
 5	गईरे	_	NN	X	_	6	obj	_	_
 6	मठे	_	VM	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 22
 # text =तुआर जे आ आज।
@@ -261,7 +261,7 @@
 2	जे	_	NNP	X	_	3	nsubj	_	_
 3	आ	_	VM	X	_	3	ROOT	_	_
 4	आज	_	VAUX	X	_	3	aux	_	SpaceAfter=No
-5	।	_	SYM	SYM	_	3	punct	_	_
+5	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 23
 # text =ओ ता केस समझाणीं से ।
@@ -270,7 +270,7 @@
 3	केस	_	NN	X	_	4	compound	_	_
 4	समझाणीं	_	NNP	X	_	4	ROOT	_	_
 5	से	_	PSP	X	_	4	case	_	SpaceAfter=No
-6	।	_	SYM	SYM	_	4	punct	_	_ 
+6	।	_	PUNCT	SYM	_	4	punct	_	_ 
 
 # sent_id = 24
 # text =आसारी ता बित्ति गयी उमर ।
@@ -279,7 +279,7 @@
 3	बित्ति	_	NN	X	_	5	obj	_	_
 4	गयी	_	VM	X	_	3	aux:pass	_	_
 5	उमर	_	VAUX	X	_	5	ROOT	_	SpaceAfter=No
-6	।	_	SYM	SYM	_	5	punct	_	_
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 25
 # text =क्या करिए, सब्बी रा ऐहड़ा ए हा।
@@ -291,7 +291,7 @@
 6	ऐहड़ा	_	NNPC	X	_	2	conj	_	_
 7	ए	_	NNPC	X	_	8	compound	_	_
 8	हा	_	VM	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 26
 # text =सेवों तराऐ जण लघिरे साँझके जे सकुला रे मदाना पत्ते खेलदे।
@@ -306,7 +306,7 @@
 9	मदाना	_	NNC	X	_	10	compound	_	_
 10	पत्ते	_	NN	X	_	11	obj	_	_
 11	खेलदे	_	VM	X	_	11	ROOT	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	11	punct	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 27
 # text =केसी रा बी कोई स्यापा नि तेज्जो ।
@@ -317,7 +317,7 @@
 5	स्यापा	_	JJ	X	_	7	obj	_	_
 6	नि	_	NNPC	X	_	7	advmod	_	_
 7	तेज्जो	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 28
 # text =आपणें लोड़ी डाम्बर भरीरे, बालक रहो रोंदे।
@@ -329,7 +329,7 @@
 6	बालक	_	NN	X	_	7	compound	_	_
 7	रहो	_	NNPC	X	_	4	conj	_	_
 8	रोंदे	_	VM	X	_	7	aux	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	4	punct	_	_
+9	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 29
 # text =चूल्हे पर तरमेहड़ा रखीरा पाणीं रा।
@@ -339,7 +339,7 @@
 4	रखीरा	_	NNP	X	_	5	obj	_	_
 5	पाणीं	_	JJ	X	_	5	ROOT	_	_
 6	रा	_	VM	X	_	5	aux	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 30
 # text =तप्पेया नीं पाणीं अज्जे?
@@ -347,7 +347,7 @@
 2	नीं	_	NNPC	X	_	3	obj	_	_
 3	पाणीं	_	NNPC	X	_	4	compound	_	_
 4	अज्जे	_	NN	X	_	4	ROOT	_	SpaceAfter=No
-5	?	_	SYM	SYM	_	4	punct	_	_
+5	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 31
 # text = भयागा जे री क्या लग्गिरी थी ता।
@@ -358,14 +358,14 @@
 5	लग्गिरी	_	JJ	X	_	5	ROOT	_	_
 6	थी	_	VM	X	_	5	cop	_	_
 7	ता	_	VAUX	X	_	5	cop	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	5	punct	_	_
+8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 32
 # text =गाई दुही दित्ती?
 1	गाई	_	NN	X	_	2	compound	_	_
 2	दुही	_	NN	X	_	3	obj	_	_
 3	दित्ती	_	NNP	X	_	3	ROOT	_	SpaceAfter=No
-4	?	_	SYM	SYM	_	3	punct	_	_
+4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 33
 # text =कदी नीं तू करदा मदद मेरी ।
@@ -375,7 +375,7 @@
 4	करदा	_	NNPC	X	_	5	compound	_	_
 5	मदद	_	NN	X	_	6	obj	_	_
 6	मेरी	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 34
 # text =ड्रम लाईरा भरना पाणीं केंने तिने।
@@ -385,7 +385,7 @@
 4	पाणीं	_	NN	X	_	5	compound	_	_
 5	केंने	_	JJ	X	_	6	nsubj	_	_
 6	तिने	_	VM	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 35
 # text =त्र्याय गाइयाँ लग्गिरी चरदी खाड्डा  रे कनारे।
@@ -396,7 +396,7 @@
 5	खाड्डा	_	NN	X	_	7	obj	_	_
 6	रे	_	VM	X	_	5	case	_	_
 7	कनारे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 36
 # text =हाऊँ चलिरा मछिआं मारदा।
@@ -404,7 +404,7 @@
 2	चलिरा	_	NNPC	X	_	4	compound	_	_
 3	मछिआं	_	NNPC	X	_	4	compound	_	_
 4	मारदा	_	NNP	X	_	4	ROOT	_	SpaceAfter=No
-5	।	_	SYM	SYM	_	4	punct	_	_
+5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 37
 # text =एस सवाला रे ता सब्बे जवाब गलत थे।
@@ -416,7 +416,7 @@
 6	जवाब	_	NN	X	_	7	nsubj	_	_
 7	गलत	_	JJ	X	_	7	ROOT	_	_
 8	थे	_	VM	X	_	7	cop	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	7	punct	_	_
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 38
 # text =मेरे लग्गिरी बड्डी भारी सिरा पीड़।
@@ -426,7 +426,7 @@
 4	भारी	_	JJ	X	_	5	amod	_	_
 5	सिरा	_	VM	X	_	6	compound	_	_
 6	पीड़	_	VAUX	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 39
 # text = ग्लान्दा देख्या मेरे के हो।
@@ -435,7 +435,7 @@
 3	मेरे	_	PRP	X	_	5	obl	_	_
 4	के	_	PSP	X	_	3	case	_	_
 5	हो	_	VM	X	_	5	ROOT	_	SpaceAfter=No
-6	।	_	SYM	SYM	_	5	punct	_	_
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 40
 # text =देख्यां भुलदा हो काल, एथी पूज्या लोड़ी सात बजे।
@@ -449,7 +449,7 @@
 8	लोड़ी	_	JJ	X	_	10	nsubj	_	_
 9	सात	_	QC	X	_	10	nummod	_	_
 10	बजे	_	NN	X	_	10	ROOT	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 41
 # text =काल भाई केंने हुई गयी मेरी थोड़ी जे।
@@ -461,7 +461,7 @@
 6	मेरी	_	PRP	X	_	8	nsubj	_	_
 7	थोड़ी	_	QF	X	_	8	compound	_	_
 8	जे	_	VM	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 42
 # text =मारा जो खड़ी गया था से आपणें ताऊ जो।
@@ -474,7 +474,7 @@
 7	आपणें	_	NN	X	_	8	compound	_	_
 8	ताऊ	_	NN	X	_	9	nsubj	_	_
 9	जो	_	PRP	X	_	9	ROOT	_	SpaceAfter=No
-10	।	_	SYM	SYM	_	9	punct	_	_
+10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 43
 # text = भाभी काल अच्छा जे सूट पहनुआं पूजजी गईरी थी ब्याह जो।
@@ -489,7 +489,7 @@
 9	थी	_	VAUX	X	_	8	aux	_	_
 10	ब्याह	_	NN	X	_	11	nsubj	_	_
 11	जो	_	PRP	X	_	11	ROOT	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	11	punct	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 44
 # text =देखे, क्या बांकी चिड़ी बैठी छापरा पर।
@@ -501,7 +501,7 @@
 6	बैठी	_	VM	X	_	7	compound	_	_
 7	छापरा	_	NN	X	_	4	nmod	_	_
 8	पर	_	PSP	X	_	7	case	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	4	punct	_	_
+9	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 45
 # text =क्या, गड्डी चलाई लई तू ?
@@ -511,7 +511,7 @@
 4	चलाई	_	NNP	X	_	5	compound	_	_
 5	लई	_	VAUX	X	_	6	obj	_	_
 6	तू	_	VAUX	X	_	6	ROOT	_	SpaceAfter=No
-7	?	_	SYM	SYM	_	6	punct	_	_
+7	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 46
 # text =बड्डा भारी गलांईँ तेसारी सासु।
@@ -520,7 +520,7 @@
 3	गलांईँ	_	NNPC	X	_	5	nsubj	_	_
 4	तेसारी	_	JJ	X	_	5	compound	_	_
 5	सासु	_	VM	X	_	5	ROOT	_	SpaceAfter=No
-6	।	_	SYM	SYM	_	5	punct	_	_
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 47
 # text =किछ न किछ करदे रेहणां चाहिए।
@@ -530,7 +530,7 @@
 4	करदे	_	VM	X	_	5	obj	_	_
 5	रेहणां	_	VM	X	_	5	ROOT	_	_
 6	चाहिए	_	VAUX	X	_	5	aux	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 48
 # text =कोई चीज नहीं हई इस संसारा मंझ जिधि पर सुरजा रे तापा रा असर नही हुन्दा हूंगा।
@@ -551,7 +551,7 @@
 15	नही	_	VM	X	_	16	amod	_	_
 16	हुन्दा	_	VAUX	X	_	17	obj	_	_
 17	हूंगा	_	VM	X	_	17	ROOT	_	SpaceAfter=No
-18	।	_	SYM	SYM	_	17	punct	_	_
+18	।	_	PUNCT	SYM	_	17	punct	_	_
 
 # sent_id = 49
 # text =भतेरी गड्डियां चलिरि ओरे परे जाणें कठ्ठे।
@@ -562,7 +562,7 @@
 5	परे	_	VAUX	X	_	6	amod	_	_
 6	जाणें	_	NNP	X	_	7	obj	_	_
 7	कठ्ठे	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 50
 # text =भगवाना रा ध्यान बी हुआंआ करना कद्दी कद्दी आम्मा।
@@ -575,7 +575,7 @@
 7	कद्दी	_	NNPC	X	_	9	compound	_	_
 8	कद्दी	_	NNPC	X	_	9	compound	_	_
 9	आम्मा	_	NNP	X	_	9	ROOT	_	SpaceAfter=No
-10	।	_	SYM	SYM	_	9	punct	_	_
+10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 51
 # text =सच झूठ गलानां छाडडी दे स्याणींये।
@@ -585,7 +585,7 @@
 4	छाडडी	_	VM	X	_	4	ROOT	_	_
 5	दे	_	VM	X	_	4	aux	_	_
 6	स्याणींये	_	VAUX	X	_	5	aux:pass	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	4	punct	_	_
+7	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 52
 # text =फेरी बोलाहीं जे मुंजो लग्गाएँ धरेर बुरे।
@@ -596,14 +596,14 @@
 5	लग्गाएँ	_	JJ	X	_	7	obj	_	_
 6	धरेर	_	JJ	X	_	7	compound	_	_
 7	बुरे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 53
 # text =केहड़ा गईरा तेरे ?
 1	केहड़ा	_	NNP	X	_	2	compound	_	_
 2	गईरा	_	NNP	X	_	3	obj	_	_
 3	तेरे	_	VM	X	_	3	ROOT	_	SpaceAfter=No
-4	?	_	SYM	SYM	_	3	punct	_	_
+4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 54
 # text =एक ता ए बोरू हुयीरा गरका बड्डा भारी दुज्जे कांना पीछे कांग तेरी ।
@@ -620,7 +620,7 @@
 11	पीछे	_	NST	X	_	10	case	_	_
 12	कांग	_	NN	X	_	13	compound	_	_
 13	तेरी	_	VM	X	_	13	ROOT	_	SpaceAfter=No
-14	।	_	SYM	SYM	_	13	punct	_	_
+14	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 55
 # text =से बड्डा लोटा रखयाँ भरूंआं आज पाणीं रा मेरे सराणें। 
@@ -634,7 +634,7 @@
 8	रा	_	NNP	X	_	7	aux	_	_
 9	मेरे	_	PRP	X	_	7	conj	_	_
 10	सराणें	_	VM	X	_	7	nmod	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	7	punct	_	_
+11	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 56
 # text =सोख ता नीं लग्गी ओ मथेया तुज्जो ?
@@ -645,7 +645,7 @@
 5	ओ	_	NNPC	X	_	6	compound	_	_
 6	मथेया	_	NNPC	X	_	7	obj	_	_
 7	तुज्जो	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
-8	?	_	SYM	SYM	_	7	punct	_	_
+8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 57
 # text =पराल हूंगा तेब्बे ता मांजरियां बी बणांगे।
@@ -656,7 +656,7 @@
 5	मांजरियां	_	NN	X	_	7	nsubj	_	_
 6	बी	_	RP	X	_	7	obj	_	_
 7	बणांगे	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 58
 # text =चार पाया तुस्से आम्बा रा ऐसा बारी ?
@@ -667,7 +667,7 @@
 5	रा	_	NN	X	_	7	nsubj	_	_
 6	ऐसा	_	DEM	X	_	7	advmod	_	_
 7	बारी	_	NN	X	_	7	ROOT	_	SpaceAfter=No
-8	?	_	SYM	SYM	_	7	punct	_	_
+8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 59
 # text =नईं बड़यो , तिंना ध्याड़े गाभरु था आईरा दुई मीह्ने री छुट्टी। 
@@ -683,7 +683,7 @@
 10	मीह्ने	_	NNP	X	_	12	compound	_	_
 11	री	_	NNPC	X	_	12	compound	_	_
 12	छुट्टी	_	NNP	X	_	12	ROOT	_	SpaceAfter=No
-13	।	_	SYM	SYM	_	12	punct	_	_
+13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 60
 # text =तेसरे ब्याह री गल्ला बाता जो रहे पईरे। दौड़ दड़वाई ओ बस।
@@ -700,7 +700,7 @@
 11	दड़वाई	_	NN	X	_	13	nsubj	_	_
 12	ओ	_	NNPC	X	_	13	compound	_	_
 13	बस	_	VAUX	X	_	5	conj	_	SpaceAfter=No
-14	।	_	SYM	SYM	_	5	punct	_	_
+14	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 61
 # text =कद्दही लग्या ब्याह तेसरे भांणजू रा?
@@ -710,7 +710,7 @@
 4	तेसरे	_	NNPC	X	_	5	compound	_	_
 5	भांणजू	_	VM	X	_	5	ROOT	_	_
 6	रा	_	VAUX	X	_	5	aux	_	SpaceAfter=No
-7	?	_	SYM	SYM	_	5	punct	_	_
+7	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 62
 # text =बस, लग्गी गया नुरात्रे मंझा।
@@ -720,7 +720,7 @@
 4	गया	_	VM	X	_	3	aux:pass	_	_
 5	नुरात्रे	_	NNPC	X	_	6	nsubj	_	_
 6	मंझा	_	VM	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 63
 # text =भादर मीह्ने नी हुन्दा पेनणां लाल सूट मठिये, डैणींयाँ बणी जाहिं जनानां। 
@@ -737,7 +737,7 @@
 11	बणी	_	VM	X	_	8	conj	_	_
 12	जाहिं	_	JJ	X	_	11	aux:pass	_	_
 13	जनानां	_	NNP	X	_	11	aux	_	SpaceAfter=No
-14	।	_	SYM	SYM	_	8	punct	_	_
+14	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 64
 # text =घा रा भारा ल्याउणां मां हो भाभी डियूण्ड पिसणीं।
@@ -750,7 +750,7 @@
 7	भाभी	_	NNPC	X	_	8	amod	_	_
 8	डियूण्ड	_	NN	X	_	9	compound	_	_
 9	पिसणीं	_	VM	X	_	9	ROOT	_	SpaceAfter=No
-10	।	_	SYM	SYM	_	9	punct	_	_
+10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 65
 # text =मास्टरा भेंजियाँ रा हे जिम्मा नीं हुंदे मठे, घरा बी पऊँआंए पढ़ाणें एवों।
@@ -768,7 +768,7 @@
 12	पऊँआंए	_	NNPC	X	_	14	compound	_	_
 13	पढ़ाणें	_	NNP	X	_	14	compound	_	_
 14	एवों	_	NN	X	_	8	conj	_	SpaceAfter=No
-15	।	_	SYM	SYM	_	5	punct	_	_
+15	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 66
 # text =ओ मठिये, एहड़ी की चमकिरी तू आज, क्या हुई गईरा ऐहड़ा।
@@ -785,7 +785,7 @@
 11	हुई	_	VM	X	_	11	ROOT	_	_
 12	गईरा	_	NNP	X	_	13	obj	_	_
 13	ऐहड़ा	_	VM	X	_	11	acl:relcl	_	SpaceAfter=No
-14	।	_	SYM	SYM	_	11	punct	_	_
+14	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 67
 # text = कि लाइरे एवों अंगूर सट्टणें, ढब्बे नीं लग्गिरे इन्हा जो |
@@ -800,7 +800,7 @@
 9	लग्गिरे	_	NNPC	X	_	10	compound	_	_
 10	इन्हा	_	NNP	X	_	5	conj	_	_
 11	जो	_	PRP	X	_	12	nsubj	_	SpaceAfter=No
-12	|	_	NN	X	_	5	acl:relcl	_	_
+12	|	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 68
 # text = धोरे हांडणां तिन्हुये हाखिआं निविं करुआं।
@@ -810,7 +810,7 @@
 4	हाखिआं	_	NNPC	X	_	6	nsubj	_	_
 5	निविं	_	NNPC	X	_	6	compound	_	_
 6	करुआं	_	NNP	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 69
 # text = अम्मा, कितनी कर हुई गईरी नौणीं ?
@@ -821,7 +821,7 @@
 5	हुई	_	VAUX	X	_	4	aux	_	_
 6	गईरी	_	VAUX	X	_	7	compound	_	_
 7	नौणीं	_	NNP	X	_	7	ROOT	_	SpaceAfter=No
-8	?	_	SYM	SYM	_	7	punct	_	_
+8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 70
 # text = घिऊ लोड़ी थिया बोले पार ऐसा थाणेंदारणी जो ।
@@ -833,7 +833,7 @@
 6	ऐसा	_	PRP	X	_	7	det	_	_
 7	थाणेंदारणी	_	VM	X	_	8	nsubj	_	_
 8	जो	_	PRP	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 71
 # text = सीरा लोड़ी हुआं सघणां पाया पैहले , फेरी बणहां। 
@@ -846,7 +846,7 @@
 7	,	_	SYM	SYM	_	9	punct	_	_
 8	फेरी	_	PRP	X	_	9	compound	_	_
 9	बणहां	_	VM	X	_	5	conj	_	SpaceAfter=No
-10	।	_	SYM	SYM	_	5	punct	_	_
+10	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 72
 # text = तू हे जाण देऊआ, क्या हूंगा एस मठे रा।
@@ -860,7 +860,7 @@
 8	एस	_	NNPC	X	_	9	nsubj	_	_
 9	मठे	_	VM	X	_	4	conj	_	_
 10	रा	_	VAUX	X	_	9	aux	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	4	punct	_	_
+11	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 73
 # text = धीरा हो, न्याह्ली लयां मुंजो बड़िये।
@@ -871,7 +871,7 @@
 5	लयां	_	NN	X	_	6	compound	_	_
 6	मुंजो	_	NN	X	_	7	obj	_	_
 7	बड़िये	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 74
 # text =ए क्या चल्याईरा तें एस आपणें झोले अंदर ऊ ?
@@ -884,7 +884,7 @@
 7	झोले	_	NN	X	_	9	obl	_	_
 8	अंदर	_	NST	X	_	7	mark	_	_
 9	ऊ	_	JJ	X	_	9	ROOT	_	SpaceAfter=No
-10	?	_	SYM	SYM	_	9	punct	_	_
+10	?	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 75
 # text =तू क्या एथी ठाणेंदारण लग्गिरी ? 
@@ -893,14 +893,14 @@
 3	एथी	_	NNPC	X	_	4	amod	_	_
 4	ठाणेंदारण	_	NN	X	_	5	obj	_	_
 5	लग्गिरी	_	VM	X	_	5	ROOT	_	SpaceAfter=No
-6	?	_	SYM	SYM	_	5	punct	_	_
+6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 76
 # text = दसूं हाऊँ तुज्जो ? 
 1	दसूं	_	NN	X	_	2	compound	_	_
 2	हाऊँ	_	VM	X	_	3	obj	_	_
 3	तुज्जो	_	NNP	X	_	3	ROOT	_	SpaceAfter=No
-4	?	_	SYM	SYM	_	3	punct	_	_
+4	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 77
 # text = तें क्या आप्पू साहीं बूझिरी हाऊँ ?  
@@ -910,7 +910,7 @@
 4	साहीं	_	VM	X	_	5	advmod	_	_
 5	बूझिरी	_	VM	X	_	3	nmod	_	_
 6	हाऊँ	_	VM	X	_	5	aux	_	SpaceAfter=No
-7	?	_	SYM	SYM	_	1	punct	_	_
+7	?	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 78
 # text = बस करयाँ हो, जादा नीं गलाणां।
@@ -921,7 +921,7 @@
 5	जादा	_	NNPC	X	_	7	nsubj	_	_
 6	नीं	_	NNPC	X	_	7	compound	_	_
 7	गलाणां	_	NNP	X	_	3	acl:relcl	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	3	punct	_	_
+8	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 79
 # text =ओ जाहांई से ध्याड़ खाडा पारले झुहड़ू तिकरा जो घुमदी। 
@@ -935,7 +935,7 @@
 8	तिकरा	_	VM	X	_	10	nsubj	_	_
 9	जो	_	PRP	X	_	10	obj	_	_
 10	घुमदी	_	VM	X	_	10	ROOT	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 80
 # text =सकुंतला, बडा पतला दूध हुईरा आजकले तेरी गाई रा , क्या गल्ल ?
@@ -952,7 +952,7 @@
 11	,	_	SYM	SYM	_	13	punct	_	_
 12	क्या	_	WQ	X	_	13	advmod	_	_
 13	गल्ल	_	NN	X	_	10	conj	_	SpaceAfter=No
-14	?	_	SYM	SYM	_	10	punct	_	_
+14	?	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 81
 # text = ऐहड़ा नीं करे मठिये |
@@ -960,7 +960,7 @@
 2	नीं	_	NN	X	_	3	compound	_	_
 3	करे	_	VM	X	_	5	advcl	_	_
 4	मठिये	_	JJ	X	_	5	nsubj	_	SpaceAfter=No
-5	|	_	NN	X	_	5	ROOT	_	_
+5	|	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 82
 # text = सांझ लग्गी हुंदी बुझहाँ मौत लग्गी आउंदी।
@@ -971,7 +971,7 @@
 5	मौत	_	NN	X	_	7	nsubj	_	_
 6	लग्गी	_	JJ	X	_	7	compound	_	_
 7	आउंदी	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 83
 # text = गलचुट्टू नीं भरी हुआ करदा मांह ते ता।
@@ -983,7 +983,7 @@
 6	मांह	_	NN	X	_	8	nsubj	_	_
 7	ते	_	VM	X	_	6	case	_	_
 8	ता	_	VM	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 84
 # text = फूल पातरा केंने भरी गईरा था |
@@ -993,7 +993,7 @@
 4	भरी	_	VM	X	_	4	ROOT	_	_
 5	गईरा	_	NN	X	_	4	aux	_	_
 6	था	_	VM	X	_	5	aux:pass	_	SpaceAfter=No
-7	|	_	NN	X	_	4	punct	_	_
+7	|	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 85
 # text = पता नहीं क्या हुआ हूंगा इन्हाओ।
@@ -1003,7 +1003,7 @@
 4	हुआ	_	VM	X	_	6	acl	_	_
 5	हूंगा	_	VAUX	X	_	6	compound	_	_
 6	इन्हाओ	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 86
 # text = बाहरा ते देखणेंओ धोरी बांकी हरी हरी, भितरा ते लुगलुग्गी ।
@@ -1018,14 +1018,14 @@
 9	भितरा	_	NN	X	_	6	conj	_	_
 10	ते	_	PSP	X	_	9	case	_	_
 11	लुगलुग्गी	_	VM	X	_	11	ROOT	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	11	punct	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 87
 # text = आवा खोड़ खेलदे ।
 1	आवा	_	NNPC	X	_	2	compound	_	_
 2	खोड़	_	NN	X	_	3	nsubj	_	_
 3	खेलदे	_	VM	X	_	3	ROOT	_	SpaceAfter=No
-4	।	_	SYM	SYM	_	3	punct	_	_
+4	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 88
 # text = ए दाड़न किह्यां सुक्की गई?
@@ -1034,7 +1034,7 @@
 3	किह्यां	_	NN	X	_	4	nsubj	_	_
 4	सुक्की	_	VM	X	_	4	ROOT	_	_
 5	गई	_	VM	X	_	4	aux:pass	_	SpaceAfter=No
-6	?	_	SYM	SYM	_	4	punct	_	_
+6	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 89
 # text = आहां, दस्स भला केहड़ी बणी री भुज्जी।
@@ -1046,7 +1046,7 @@
 6	बणी	_	VM	X	_	8	compound	_	_
 7	री	_	VAUX	X	_	6	dep	_	_
 8	भुज्जी	_	NNP	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 
 # sent_id = 90
@@ -1058,7 +1058,7 @@
 5	बासिरी	_	NNP	X	_	7	nsubj	_	_
 6	आज	_	NN	X	_	7	obl	_	_
 7	एड्डी	_	NNP	X	_	3	nmod	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	3	punct	_	_
+8	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 91
 # text =दुर्गा माता तिन्हा त्जो बचाणें बाद तेथी ते अंतर्ध्यान हुई गई।
@@ -1073,7 +1073,7 @@
 9	अंतर्ध्यान	_	NN	X	_	10	compound	_	_
 10	हुई	_	VM	X	_	10	ROOT	_	_
 11	गई	_	VAUX	X	_	10	aux	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	10	punct	_	_
+12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 92
 # text =देख्यां पौंदी हो मठिये, चिफला हुईरा बाहर ओटा|
@@ -1098,7 +1098,7 @@
 7	करणां	_	NNPC	X	_	5	conj	_	_
 8	क्या	_	WQ	X	_	9	advmod	_	_
 9	नईं	_	NNPC	X	_	10	compound	_	SpaceAfter=No
-10	|	_	NN	X	_	5	conj	_	_
+10	|	_	PUNCT	X	_	5	punct	_	_
 
 # sent_id = 94
 # text = ऐसा न्हूसा जो पूछा भला, दूद टुआया कि नईं ऐसे।
@@ -1113,7 +1113,7 @@
 9	कि	_	CC	X	_	10	mark	_	_
 10	नईं	_	NN	X	_	8	obj	_	_
 11	ऐसे	_	PRP	X	_	11	ROOT	_	SpaceAfter=No
-12	।	_	SYM	SYM	_	11	punct	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 95
 # text = बैठ धख जे, चाह लाईरी बणांणीं धीरा।
@@ -1125,7 +1125,7 @@
 6	लाईरी	_	NNPC	X	_	7	amod	_	_
 7	बणांणीं	_	JJ	X	_	8	compound	_	_
 8	धीरा	_	NNP	X	_	8	ROOT	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	8	punct	_	_
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 96
 # text =दुई चार पुल्ए काड्डी दे घा रे । 
@@ -1136,7 +1136,7 @@
 5	दे	_	VM	X	_	5	ROOT	_	_
 6	घा	_	VAUX	X	_	5	aux	_	_
 7	रे	_	VAUX	X	_	6	aux:pass	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	5	punct	_	_
+8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 97
 # text =बड्डी भारी गलांहांई से , चुफदी ए नीं ही हई।
@@ -1150,10 +1150,7 @@
 8	नीं	_	NNP	X	_	3	conj	_	_
 9	ही	_	RP	X	_	8	dep	_	_
 10	हई	_	VM	X	_	10	ROOT	_	SpaceAfter=No
-11	।	_	SYM	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 
-# text =
 
-# sent_id = 102
-# text =
