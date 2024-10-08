@@ -1048,7 +1048,6 @@
 8	भुज्जी	_	NNP	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-
 # sent_id = 90
 # text =तुस्सा री गाई कि बासिरी आज एड्डी।
 1	तुस्सा	_	NN	X	_	3	compound	_	_
@@ -1151,4 +1150,4 @@
 8	नीं	_	NNP	X	_	3	conj	_	_
 9	ही	_	RP	X	_	8	dep	_	_
 10 हई	_	VERB	X	_	10	VM	_	SpaceAfter=No
-11 ।	_	PUNCT	SYM	_	10	punct	_	_
+11 । _	PUNCT	SYM	_	10	punct	_	_
