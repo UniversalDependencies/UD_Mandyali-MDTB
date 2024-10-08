@@ -1,6 +1,6 @@
 # sent_id = 1
 # text = से जे जम्मिरा, तेस मरणां जरूर।
-1	से	_	PSP	X	_	1	ROOT	_	_
+1	से	_	VERB	X	_	1	VM	_	_
 2	जे	_	NNPC	X	_	3	compound	_	_
 3	जम्मिरा	_	NNP	X	_	7	nsubj	_	SpaceAfter=No
 4	,	_	PUNCT	SYM	_	6	punct	_	_
