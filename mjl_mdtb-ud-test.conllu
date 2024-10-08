@@ -1139,7 +1139,7 @@
 8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 97
-# text = बड्डी भारी गलांहांई से , चुफदी ए नीं ही हई ।
+# text = बड्डी भारी गलांहांई से,चुफदी ए नीं ही हई ।
 1	बड्डी	_	NNP	X	_	10	nsubj	_	_
 2	भारी	_	JJ	X	_	3	amod	_	_
 3	गलांहांई	_	NN	X	_	10	obl	_	_
@@ -1149,5 +1149,5 @@
 7	ए	_	NNPC	X	_	8	compound	_	_
 8	नीं	_	NNP	X	_	3	conj	_	_
 9	ही	_	RP	X	_	8	dep	_	_
-10	हई	_	VM	X	_	10	VM	_	SpaceAfter=No
+10	हई	_	VERB	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
