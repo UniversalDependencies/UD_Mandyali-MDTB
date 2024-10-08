@@ -1,5 +1,5 @@
 # sent_id = 1
-# text = से जे जम्मिरा, तेस मरणां जरूर।
+# text = से जे जम्मिरा, तेस मरणां जरूर ।
 1	से	_	VERB	X	_	1	VM	_	_
 2	जे	_	NNPC	X	_	3	compound	_	_
 3	जम्मिरा	_	NNP	X	_	7	nsubj	_	SpaceAfter=No
@@ -10,7 +10,7 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 2
-# text = लम्मियां उमरा केसी केसी जो हे देआँ परमेसर बी।
+# text = लम्मियां उमरा केसी केसी जो हे देआँ परमेसर बी ।
 1	लम्मियां	_	NN	X	_	4	compound	_	_
 2	उमरा	_	NNPC	X	_	4	compound	_	_
 3	केसी	_	JJ	X	_	4	compound	_	_
@@ -20,7 +20,7 @@
 7	देआँ	_	NN	X	_	8	compound	_	_
 8	परमेसर	_	NN	X	_	9	obj	_	_
 9	बी	_	VERB	X	_	9	VM	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	9	punct	_	_
+10 ।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 3
 # text = सुत्तिरा ए हया अज्जे तिकर ?
@@ -32,7 +32,7 @@
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 4
-# text = मण्डयाली मंझ लिखणे रा बौहत मज़ा आहां।
+# text = मण्डयाली मंझ लिखणे रा बौहत मज़ा आहां ।
 1	मण्डयाली	_	JJ	X	_	2	compound	_	_
 2	मंझ	_	NN	X	_	7	nsubj	_	_
 3	लिखणे	_	VM	X	_	6	amod	_	_
@@ -46,7 +46,7 @@
 # text = गल्ल सुण मेरी, माहणू बणुंआ रह।
 1	गल्ल	_	NNC	X	_	3	compound	_	_
 2	सुण	_	NN	X	_	3	compound	_	_
-3	मेरी	_	PRP	X	_	7	nsubj	_	_
+3	मेरी	_	PRP	X	_	7	nsubj	_	SpaceAfter=No
 4	,	_	SYM	SYM	_	6	punct	_	_
 5	माहणू	_	NNPC	X	_	6	compound	_	_
 6	बणुंआ	_	NN	X	_	3	conj	_	_
