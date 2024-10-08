@@ -237,9 +237,9 @@
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 20
-# text =आज केहड़ा हा जिऊ तुसारा?
+# text =आज केहा हा जिऊ तुसारा?
 1	आज	_	NN	X	_	3	obl	_	_
-2	केहड़ा	_	NNP	X	_	3	compound	_	_
+2	केहा	_	NNP	X	_	3	compound	_	_
 3	हा	_	NNPC	X	_	3	VM	_	_
 4	जिऊ	_	NNPC	X	_	5	compound	_	_
 5	तुसारा	_	NNP	X	_	3	acl:relcl	_	SpaceAfter=No
@@ -282,13 +282,13 @@
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 25
-# text =क्या करिए, सब्बी रा ऐहड़ा ए हा।
+# text =क्या करिए, सब्बी रा ऐहा ए हा।
 1	क्या	_	WQ	X	_	8	advmod	_	_
 2	करिए	_	NNP	X	_	8	nsubj	_	SpaceAfter=No
 3	,	_	SYM	SYM	_	2	punct	_	_
 4	सब्बी	_	NN	X	_	2	conj	_	_
 5	रा	_	NNPC	X	_	2	conj	_	_
-6	ऐहड़ा	_	NNPC	X	_	2	conj	_	_
+6	ऐहा	_	NNPC	X	_	2	conj	_	_
 7	ए	_	NNPC	X	_	8	compound	_	_
 8	हा	_	VM	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
@@ -320,9 +320,9 @@
 8	। _	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 28
-# text =आपणें लोड़ी डाम्बर भरीरे, बालक रहो रोंदे।
+# text =आपणें लोरे डाम्बर भरीरे, बालक रहो रोंदे।
 1	आपणें	_	NN	X	_	2	compound	_	_
-2	लोड़ी	_	JJ	X	_	4	advcl	_	_
+2	लोरे	_	JJ	X	_	4	advcl	_	_
 3	डाम्बर	_	NNC	X	_	4	compound	_	_
 4	भरीरे	_	NN	X	_	4	VM	_	SpaceAfter=No
 5	,	_	SYM	SYM	_	4	punct	_	_
@@ -332,10 +332,10 @@
 9	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 29
-# text =चूल्हे पर तरमेहड़ा रखीरा पाणीं रा।
+# text =चूल्हे पर तरमेहरा रखीरा पाणीं रा।
 1	चूल्हे	_	NN	X	_	5	obl	_	_
 2	पर	_	PSP	X	_	1	case	_	_
-3	तरमेहड़ा	_	NNP	X	_	4	compound	_	_
+3	तरमेहरा	_	NNP	X	_	4	compound	_	_
 4	रखीरा	_	NNP	X	_	5	obj	_	_
 5	पाणीं	_	JJ	X	_	5	VM	_	_
 6	रा	_	VM	X	_	5	aux	_	SpaceAfter=No
@@ -419,13 +419,13 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 38
-# text =मेरे लग्गिरी बड्डी भारी सिरा पीड़।
+# text =मेरे लग्गिरी बड्डी भारी सिरा पीरा।
 1	मेरे	_	PRP	X	_	3	nmod	_	_
 2	लग्गिरी	_	JJ	X	_	3	amod	_	_
 3	बड्डी	_	NN	X	_	5	nsubj	_	_
 4	भारी	_	JJ	X	_	5	amod	_	_
 5	सिरा	_	VM	X	_	6	compound	_	_
-6	पीड़	_	VAUX	X	_	6	VM	_	SpaceAfter=No
+6	पीर	_	VAUX	X	_	6	VM	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 39
@@ -438,7 +438,7 @@
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 40
-# text =देख्यां भुलदा हो काल, एथी पूज्या लोड़ी सात बजे।
+# text =देख्यां भुलदा हो काल, एथी पूज्या लोरी सात बजे।
 1	देख्यां	_	NN	X	_	2	obj	_	_
 2	भुलदा	_	VM	X	_	10	advcl	_	_
 3	हो	_	VAUX	X	_	2	aux	_	_
@@ -446,28 +446,28 @@
 5	,	_	SYM	SYM	_	7	punct	_	_
 6	एथी	_	NNPC	X	_	7	amod	_	_
 7	पूज्या	_	NN	X	_	4	conj	_	_
-8	लोड़ी	_	JJ	X	_	10	nsubj	_	_
+8	लोरी	_	JJ	X	_	10	nsubj	_	_
 9	सात	_	QC	X	_	10	nummod	_	_
 10	बजे	_	NN	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 41
-# text =काल भाई केंने हुई गयी मेरी थोड़ी जे।
+# text =काल भाई केंने हुई गयी मेरी थोरी जे।
 1	काल	_	NNC	X	_	2	compound	_	_
 2	भाई	_	NN	X	_	4	nsubj	_	_
 3	केंने	_	PRP	X	_	4	obj	_	_
 4	हुई	_	VM	X	_	6	acl	_	_
 5	गयी	_	VAUX	X	_	4	aux:pass	_	_
 6	मेरी	_	PRP	X	_	8	nsubj	_	_
-7	थोड़ी	_	QF	X	_	8	compound	_	_
+7	थोरी	_	QF	X	_	8	compound	_	_
 8	जे	_	VM	X	_	8	VM	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 42
-# text =मारा जो खड़ी गया था से आपणें ताऊ जो।
+# text =मारा जो खरी गया था से आपणें ताऊ जो।
 1	मारा	_	NNP	X	_	9	nsubj	_	_
 2	जो	_	PRP	X	_	4	nsubj	_	_
-3	खड़ी	_	JJ	X	_	4	compound	_	_
+3	खरी	_	JJ	X	_	4	compound	_	_
 4	गया	_	VM	X	_	1	acl:relcl	_	_
 5	था	_	VAUX	X	_	4	aux	_	_
 6	से	_	PSP	X	_	4	mark	_	_
@@ -492,12 +492,12 @@
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 44
-# text =देखे, क्या बांकी चिड़ी बैठी छापरा पर।
+# text =देखे, क्या बांकी चिरी बैठी छापरा पर।
 1	देखे	_	VM	X	_	1	VM	_	SpaceAfter=No
 2	,	_	SYM	SYM	_	1	punct	_	_
 3	क्या	_	WQ	X	_	4	det	_	_
 4	बांकी	_	NNP	X	_	1	conj	_	_
-5	चिड़ी	_	JJ	X	_	7	compound	_	_
+5	चिरी	_	JJ	X	_	7	compound	_	_
 6	बैठी	_	VM	X	_	7	compound	_	_
 7	छापरा	_	NN	X	_	4	nmod	_	_
 8	पर	_	PSP	X	_	7	case	_	SpaceAfter=No
@@ -599,8 +599,8 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 53
-# text =केहड़ा गईरा तेरे?
-1	केहड़ा	_	NNP	X	_	2	compound	_	_
+# text =केह गईरा तेरे?
+1	केह	_	NNP	X	_	2	compound	_	_
 2	गईरा	_	NNP	X	_	3	obj	_	_
 3	तेरे	_	VM	X	_	3	VM	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	3	punct	_	_
@@ -670,12 +670,12 @@
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 59
-# text =नईं बड़यो , तिंना ध्याड़े गाभरु था आईरा दुई मीह्ने री छुट्टी। 
+# text =नईं बय , तिंना ध्यारी गाभरु था आईरा दुई मीह्ने री छुट्टी। 
 1	नईं	_	NNPC	X	_	2	compound	_	_
-2	बड़यो	_	NNP	X	_	12	nsubj	_	SpaceAfter=No
+2	बय	_	NNP	X	_	12	nsubj	_	SpaceAfter=No
 3	,	_	SYM	SYM	_	6	punct	_	_
 4	तिंना	_	NNPC	X	_	6	compound	_	_
-5	ध्याड़े	_	NNPC	X	_	6	compound	_	_
+5	ध्यारी	_	NNPC	X	_	6	compound	_	_
 6	गाभरु	_	NN	X	_	2	conj	_	_
 7	था	_	VM	X	_	6	cop	_	_
 8	आईरा	_	NN	X	_	9	nmod	_	_
@@ -686,7 +686,7 @@
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 60
-# text =तेसरे ब्याह री गल्ला बाता जो रहे पईरे। दौड़ दड़वाई ओ बस।
+# text =तेसरे ब्याह री गल्ला बाता जो रहे पईरे। दौरी दवाई ओ बस।
 1	तेसरे	_	QO	X	_	4	amod	_	_
 2	ब्याह	_	NN	X	_	3	compound	_	_
 3	री	_	NNPC	X	_	4	compound	_	_
@@ -696,8 +696,8 @@
 7	रहे	_	VM	X	_	11	acl:relcl	_	_
 8	पईरे	_	VAUX	X	_	7	aux	_	_
 9	।	_	SYM	SYM	_	13	advmod	_	_
-10	दौड़	_	NNPC	X	_	11	compound	_	_
-11	दड़वाई	_	NN	X	_	13	nsubj	_	_
+10	दौरी	_	NNPC	X	_	11	compound	_	_
+11	दवाई	_	NN	X	_	13	nsubj	_	_
 12	ओ	_	NNPC	X	_	13	compound	_	_
 13	बस	_	VAUX	X	_	5	conj	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -753,7 +753,7 @@
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 65
-# text =मास्टरा भेंजियाँ रा हे जिम्मा नीं हुंदे मठे, घरा बी पऊँआंए पढ़ाणें एवों।
+# text =मास्टरा भेंजियाँ रा हे जिम्मा नीं हुंदे मठे, घरा बी पऊँआंए पढ़ा एवों।
 1	मास्टरा	_	NNP	X	_	5	compound	_	_
 2	भेंजियाँ	_	NN	X	_	5	compound	_	_
 3	रा	_	NNPC	X	_	5	compound	_	_
@@ -766,16 +766,16 @@
 10	घरा	_	JJ	X	_	14	compound	_	_
 11	बी	_	NNPC	X	_	12	compound	_	_
 12	पऊँआंए	_	NNPC	X	_	14	compound	_	_
-13	पढ़ाणें	_	NNP	X	_	14	compound	_	_
+13	पढ़ा	_	NNP	X	_	14	compound	_	_
 14	एवों	_	NN	X	_	8	conj	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 66
-# text =ओ मठिये, एहड़ी की चमकिरी तू आज, क्या हुई गईरा ऐहड़ा।
+# text =ओ मठिये, एह की चमकिरी तू आज, क्या हुई गईरा ऐहा।
 1	ओ	_	NNPC	X	_	2	compound	_	_
 2	मठिये	_	NNP	X	_	8	nmod	_	SpaceAfter=No
 3	,	_	SYM	SYM	_	4	punct	_	_
-4	एहड़ी	_	NNP	X	_	2	conj	_	_
+4	एह	_	NNP	X	_	2	conj	_	_
 5	की	_	PSP	X	_	4	case	_	_
 6	चमकिरी	_	NN	X	_	7	compound	_	_
 7	तू	_	NNP	X	_	8	compound	_	_
@@ -784,7 +784,7 @@
 10	क्या	_	WQ	X	_	11	advmod	_	_
 11	हुई	_	VM	X	_	11	VM	_	_
 12	गईरा	_	NNP	X	_	13	obj	_	_
-13	ऐहड़ा	_	VM	X	_	11	acl:relcl	_	SpaceAfter=No
+13	ऐहा	_	VM	X	_	11	acl:relcl	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 67
@@ -824,9 +824,9 @@
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 70
-# text = घिऊ लोड़ी थिया बोले पार ऐसा थाणेंदारणी जो।
+# text = घिऊ लोरी थिया बोले पार ऐसा थाणेंदारणी जो।
 1	घिऊ	_	NN	X	_	2	compound	_	_
-2	लोड़ी	_	JJ	X	_	8	nmod	_	_
+2	लोरी	_	JJ	X	_	8	nmod	_	_
 3	थिया	_	JJ	X	_	2	aux	_	_
 4	बोले	_	NNC	X	_	5	compound	_	_
 5	पार	_	NN	X	_	6	nsubj	_	_
@@ -836,9 +836,9 @@
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 71
-# text = सीरा लोड़ी हुआं सघणां पाया पैहले , फेरी बणहां। 
+# text = सीरा लोरी हुआं सघणां पाया पैहले , फेरी बणहां। 
 1	सीरा	_	NN	X	_	2	compound	_	_
-2	लोड़ी	_	JJ	X	_	5	advcl	_	_
+2	लोरी	_	JJ	X	_	5	advcl	_	_
 3	हुआं	_	NN	X	_	4	compound	_	_
 4	सघणां	_	NNPC	X	_	5	nsubj	_	_
 5	पाया	_	VM	X	_	5	VM	_	_
@@ -863,14 +863,14 @@
 11	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 73
-# text = धीरा हो, न्याह्ली लयां मुंजो बड़िये।
+# text = धीरा हो, न्याह्ली लयां मुंजो बये।
 1	धीरा	_	NNP	X	_	2	compound	_	_
 2	हो	_	VM	X	_	7	advcl	_	SpaceAfter=No
 3	,	_	SYM	SYM	_	2	punct	_	_
 4	न्याह्ली	_	NNP	X	_	6	compound	_	_
 5	लयां	_	NN	X	_	6	compound	_	_
 6	मुंजो	_	NN	X	_	7	obj	_	_
-7	बड़िये	_	VM	X	_	7	VM	_	SpaceAfter=No
+7	बये	_	VM	X	_	7	VM	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 74
@@ -924,14 +924,14 @@
 8	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 79
-# text =ओ जाहांई से ध्याड़ खाडा पारले झुहड़ू तिकरा जो घुमदी। 
+# text =ओ जाहांई से ध्या खाडा पारले झुह तिकरा जो घुमदी। 
 1	ओ	_	NNP	X	_	2	amod	_	_
 2	जाहांई	_	NN	X	_	10	obl	_	_
 3	से	_	PSP	X	_	2	case	_	_
-4	ध्याड़	_	NN	X	_	5	compound	_	_
+4	ध्या	_	NN	X	_	5	compound	_	_
 5	खाडा	_	NNPC	X	_	6	obj	_	_
 6	पारले	_	NN	X	_	7	amod	_	_
-7	झुहड़ू	_	NN	X	_	8	obj	_	_
+7	झुह	_	NN	X	_	8	obj	_	_
 8	तिकरा	_	VM	X	_	10	nsubj	_	_
 9	जो	_	PRP	X	_	10	obj	_	_
 10	घुमदी	_	VM	X	_	10	VM	_	SpaceAfter=No
@@ -955,8 +955,8 @@
 14	?	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 81
-# text = ऐहड़ा नीं करे मठिये।
-1	ऐहड़ा	_	PRP	X	_	3	nsubj	_	_
+# text = ऐह नीं करे मठिये।
+1	ऐह	_	PRP	X	_	3	nsubj	_	_
 2	नीं	_	NN	X	_	3	compound	_	_
 3	करे	_	VM	X	_	5	advcl	_	_
 4	मठिये	_	JJ	X	_	5	nsubj	_	SpaceAfter=No
@@ -1021,28 +1021,28 @@
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 87
-# text = आवा खोड़ खेलदे।
+# text = आवा खो खेलदे।
 1	आवा	_	NNPC	X	_	2	compound	_	_
-2	खोड़	_	NN	X	_	3	nsubj	_	_
+2	खो	_	NN	X	_	3	nsubj	_	_
 3	खेलदे	_	VM	X	_	3	VM	_	SpaceAfter=No
 4	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 88
-# text = ए दाड़न किह्यां सुक्की गई?
+# text = ए दान किह्यां सुक्की गई?
 1	ए	_	NNPC	X	_	3	compound	_	_
-2	दाड़न	_	NNP	X	_	3	compound	_	_
+2	दान	_	NNP	X	_	3	compound	_	_
 3	किह्यां	_	NN	X	_	4	nsubj	_	_
 4	सुक्की	_	VM	X	_	4	VM	_	_
 5	गई	_	VM	X	_	4	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 89
-# text = आहां, दस्स भला केहड़ी बणी री भुज्जी।
+# text = आहां, दस्स भला केह बणी री भुज्जी।
 1	आहां	_	PRP	X	_	8	obl	_	SpaceAfter=No
 2	,	_	SYM	SYM	_	1	punct	_	_
 3	दस्स	_	NN	X	_	5	compound	_	_
 4	भला	_	JJ	X	_	5	compound	_	_
-5	केहड़ी	_	NN	X	_	6	nsubj	_	_
+5	केह	_	NN	X	_	6	nsubj	_	_
 6	बणी	_	VM	X	_	8	compound	_	_
 7	री	_	VAUX	X	_	6	dep	_	_
 8	भुज्जी	_	NNP	X	_	8	VM	_	SpaceAfter=No
