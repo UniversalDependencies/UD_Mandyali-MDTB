@@ -29,7 +29,7 @@
 3	हया	_	NNPC	X	_	5	nsubj	_	_
 4	अज्जे	_	JJ	X	_	5	compound	_	_
 5	तिकर	_	VM	X	_	5	ROOT	_	SpaceAfter=No
-6	?	_	SYM	SYM	_	5	punct	_	_
+6	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 4
 # text = मण्डयाली मंझ लिखणे रा बौहत मज़ा आहां।
@@ -40,7 +40,7 @@
 5	बौहत	_	NNPC	X	_	6	compound	_	_
 6	मज़ा	_	NNP	X	_	7	nsubj	_	_
 7	आहां	_	PRP	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 5
 # text = गल्ल सुण मेरी, माहणू बणुंआ रह।
@@ -51,7 +51,7 @@
 5	माहणू	_	NNPC	X	_	6	compound	_	_
 6	बणुंआ	_	NN	X	_	3	conj	_	_
 7	रह	_	VM	X	_	7	ROOT	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	7	punct	_	_
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 6
 # text = जे आसारे पिता होररी जीऊंदे रहे हुंदे ता एस महीने री त्र्या तरीका जो आपने ब्याह री पजाहवीं सालगिरह म्णांदे।
@@ -75,7 +75,7 @@
 18	पजाहवीं	_	NNPC	X	_	20	compound	_	_
 19	सालगिरह	_	NNPC	X	_	20	compound	_	_
 20	म्णांदे	_	NNP	X	_	20	ROOT	_	SpaceAfter=No
-21	।	_	SYM	SYM	_	20	punct	_	_
+21	।	_	PUNCT	SYM	_	20	punct	_	_
 
 # sent_id = 7
 # text = बोहत बोहत बधाई जी तुस्सा जो।
@@ -85,7 +85,7 @@
 4	जी	_	NNPC	X	_	5	compound	_	_
 5	तुस्सा	_	NNP	X	_	6	nsubj	_	_
 6	जो	_	PRP	X	_	6	ROOT	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 8
 # text = नऊंईँ नऊंईँ नानी बणींरी हांऊं, तेस कठ्ठे स्वेटरा लाईरी गुंदणीं ।
@@ -94,7 +94,7 @@
 3	नानी	_	JJ	X	_	4	amod	_	_
 4	बणींरी	_	NNPC	X	_	5	compound	_	_
 5	हांऊं	_	NNP	X	_	11	nsubj	_	SpaceAfter=No
-6	,	_	SYM	SYM	_	9	punct	_	_
+6	,	_	PUNCT	SYM	_	9	punct	_	_
 7	तेस	_	NN	X	_	9	compound	_	_
 8	कठ्ठे	_	NNPC	X	_	9	compound	_	_
 9	स्वेटरा	_	NN	X	_	5	conj	_	_
