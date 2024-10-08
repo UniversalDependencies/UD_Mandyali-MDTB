@@ -115,7 +115,7 @@
 9	किछ	_	NNP	X	_	12	nsubj	_	_
 10	ना	_	NNPC	X	_	9	dep	_	_
 11	किछ	_	NNP	X	_	12	obj	_	_
-12	लिखूं	_	NN	X	_	12	VM	_	SpaceAfter=No
+12	लिखूं	_	NOUN	X	_	12	NN	_	SpaceAfter=No
 13 ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 10
