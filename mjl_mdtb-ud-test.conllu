@@ -1116,7 +1116,7 @@
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 95
-# text = बैठ धख जे, चाह लाईरी बणांणीं धीरा।
+# text = बैठ धख जे, चाह लाईरी बणांणीं धीरा ।
 1	बैठ	_	NNP	X	_	3	compound	_	_
 2	धख	_	NNPC	X	_	3	compound	_	_
 3	जे	_	NNP	X	_	8	nsubj	_	SpaceAfter=No
@@ -1128,7 +1128,7 @@
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 96
-# text =दुई चार पुल्ए काड्डी दे घा रे । 
+# text = दुई चार पुल्ए काड्डी दे घा रे । 
 1	दुई	_	NNP	X	_	5	iobj	_	_
 2	चार	_	QC	X	_	4	nummod	_	_
 3	पुल्ए	_	NNC	X	_	4	amod	_	_
@@ -1139,7 +1139,7 @@
 8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 97
-# text =बड्डी भारी गलांहांई से , चुफदी ए नीं ही हई।
+# text = बड्डी भारी गलांहांई से , चुफदी ए नीं ही हई ।
 1	बड्डी	_	NNP	X	_	10	nsubj	_	_
 2	भारी	_	JJ	X	_	3	amod	_	_
 3	गलांहांई	_	NN	X	_	10	obl	_	_
@@ -1151,6 +1151,3 @@
 9	ही	_	RP	X	_	8	dep	_	_
 10	हई	_	VM	X	_	10	VM	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
-
-
-
