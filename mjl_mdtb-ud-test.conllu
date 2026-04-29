@@ -195,13 +195,13 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 15
-# text = कोई  पैंती मिनटां तिकर घळाटी चलदी रेह्यी।
-1	कोई	_	PRON	PRP	_	2	det	_	_
+# text = पर पैंती मिनटां तिकर घळाटी चलदी रेह्यी।
+1	पर	_	PRON	PRP	_	2	det	_	_
 2	पैंती	_	NOUN	NN	_	6	nsubj	_	_
 3	मिनटां	_	PROPN	NNPC	_	5	compound	_	_
 4	तिकर	_	PROPN	NNPC	_	5	compound	_	_
 5	घळाटी	_	PROPN	NNP	_	6	nsubj	_	_
-6	चलदी	_	VERB	VM	_	0	root	_	_
+6	चलदी	_	VERB	VM	_	0	root	_	SpaceAfter=No
 7	रेह्यी।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
