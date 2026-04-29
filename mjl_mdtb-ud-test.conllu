@@ -159,11 +159,11 @@
 4	प्रधान	_	NOUN	NN	_	13	compound	_	_
 5	तिन्हा	_	PRON	PRP	_	2	nsubj	_	_
 6	तीन	_	NUM	QC	_	7	nummod	_	_
-7	बड्डे	_	ADJ	JJ	_	7	amod	_	_
+7	बड्डे	_	ADJ	JJ	_	8	amod	_	_
 8	खूह्आं	_	NOUN	NN	_	13	obl	_	_
 9	पर	_	ADP	PSP	_	7	case	_	_
-10	1	_	NUM	QCC	_	10	compound	_	_
-11	हज़ार	_	NUM	QC	_	11	nummod	_	_
+10	1	_	NUM	QCC	_	11	numod	_	_
+11	हज़ार	_	NUM	QC	_	12	nummod	_	_
 12	रूपेइये	_	NOUN	NN	_	15	obj	_	_
 13	खर्च	_	NOUN	NN	_	15	compound	_	_
 14	लगीरा	_	AUX	VAUX	_	15	aux	_	_
