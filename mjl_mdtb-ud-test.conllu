@@ -482,7 +482,7 @@
 7	बरखा	_	NOUN	NN	_	8	compound	_	_
 8	लगी	_	VERB	VM	_	1	obj	_	_
 9	गईरी	_	ADJ	JJ	_	10	compound	_	_
-10	पौंदी	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
+10	पौंदी	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 35
