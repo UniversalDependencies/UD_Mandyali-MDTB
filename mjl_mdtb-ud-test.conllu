@@ -29,16 +29,16 @@
 
 # sent_id = 3
 # text = दुर्गा माता तिन्हा जो बचाणे ते बाद तेथी ते झटचारे छपत हुई गई!
-1	दुर्गा	_	PROPN	NNPC	_	3	compound	_	_
-2	माता	_	PROPN	NNPC	_	3	compound	_	_
-3	तिन्हा	_	PROPN	NNP	_	12	nsubj	_	_
-4	जो	_	PRON	PRP	_	5	nsubj	_	_
+1	दुर्गा	_	PROPN	NNP	_	2	nmod	_	_
+2	माता	_	NOUN	NN	_	12	nsubj	_	_
+3	तिन्हा	_	NUM	QC	_	5	iobj	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
 5	बचाणे	_	VERB	VM	_	12	obl	_	_
 6	ते	_	ADP	PSP	_	5	mark	_	_
-7	बाद	_	ADV	NST	_	5	mark	_	_
-8	तेथी	_	NOUN	NN	_	10	nmod	_	_
-9	ते	_	PUNCT	SYM	_	8	punct	_	_
-10	झटचारे	_	NOUN	NN	_	12	nsubj	_	_
+7	बाद	_	ADV	PSP	_	5	mark	_	_
+8	तेथी	_	PRON	PRP	_	12	obl	_	_
+9	ते	_	ADP	PSP	_	8	case	_	_
+10	झटचारे	_	ADV	RB	_	12	advmod	_	_
 11	छपत	_	NOUN	NN	_	12	compound	_	_
 12	हुई	_	VERB	VM	_	0	root	_	_
 13	गई	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
