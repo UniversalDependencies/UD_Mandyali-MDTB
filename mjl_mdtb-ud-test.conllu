@@ -486,19 +486,19 @@
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 35
-# text = सफ़रा रे दौरान से राजकुमार प्रिंस हैरी रे दफ़्तरा बी गया था ।
-1	सफ़रा	_	PROPN	NNP	_	10	obl	_	_
+# text = सफ़रा रे दौरान से राजकुमार प्रिंस हैरी रे दफ़्तरा बी गया था।
+1	सफ़रा	_	NOUN	NN	_	10	obl	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
 3	दौरान	_	ADP	NST	_	1	case	_	_
 4	से	_	ADP	PSP	_	1	case	_	_
-5	राजकुमार	_	PROPN	NNPC	_	9	compound	_	_
-6	प्रिंस	_	PROPN	NNPC	_	9	compound	_	_
-7	हैरी	_	PROPN	NNPC	_	9	compound	_	_
+5	राजकुमार	_	PROPN	NNPC	_	7	compound	_	_
+6	प्रिंस	_	PROPN	NNPC	_	7	compound	_	_
+7	हैरी	_	PROPN	NNPC	_	10	nsubj	_	_
 8	रे	_	PROPN	NNPC	_	9	compound	_	_
-9	दफ़्तरा	_	PROPN	NNP	_	10	nsubj	_	_
+9	दफ़्तरा	_	NOUN	NN	_	10	obl	_	_
 10	बी	_	VERB	VM	_	0	root	_	_
 11	गया	_	AUX	VAUX	_	10	aux	_	_
-12	था	_	AUX	VAUX	_	10	aux:pass	_	_
+12	था	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 36
