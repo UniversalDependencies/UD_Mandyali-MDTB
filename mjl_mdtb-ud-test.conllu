@@ -157,7 +157,7 @@
 2	दसेया	_	VERB	VM	_	0	root	_	_
 3	जे	_	CCONJ	CC	_	13	mark	_	_
 4	प्रधान	_	NOUN	NN	_	13	compound	_	_
-5	तिन्हा	_	PRON	PRP	_	2	nsubj	_	_
+5	तिन्हा	_	PRON	PRP	_	15	nsubj	_	_
 6	तीन	_	NUM	QC	_	7	nummod	_	_
 7	बड्डे	_	ADJ	JJ	_	8	amod	_	_
 8	खूह्आं	_	NOUN	NN	_	13	obl	_	_
@@ -167,7 +167,7 @@
 12	रूपेइये	_	NOUN	NN	_	15	obj	_	_
 13	खर्च	_	NOUN	NN	_	15	compound	_	_
 14	लगीरा	_	AUX	VAUX	_	15	aux	_	_
-15	करदा	_	VERB	VM	_	2	root	_	SpaceAfter=No
+15	करदा	_	VERB	VM	_	2	advcl	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	15	punct	_	_
 
 # sent_id = 13
