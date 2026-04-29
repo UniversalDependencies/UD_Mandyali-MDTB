@@ -473,16 +473,16 @@
 
 # sent_id = 34
 # text = ऐड़ा लगीरे दसदे जे गाँवा विच बरखा लगी गईरी पौंदी।
-1	ऐड़ा	_	PROPN	NNPC	_	7	compound	_	_
-2	लगीरे	_	PROPN	NNPC	_	7	compound	_	_
-3	दसदे	_	PROPN	NNPC	_	7	compound	_	_
-4	जे	_	PROPN	NNPC	_	7	compound	_	_
-5	गाँवा	_	PROPN	NNPC	_	7	compound	_	_
-6	विच	_	PROPN	NNPC	_	7	compound	_	_
-7	बरखा	_	PROPN	NNP	_	8	nsubj	_	_
-8	लगी	_	VERB	VM	_	0	root	_	_
-9	गईरी	_	PROPN	NNPC	_	10	compound	_	_
-10	पौंदी	_	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
+1	ऐड़ा	_	PRON	PRP	_	3	nsubj	_	_
+2	लगीरे	_	AUX	VAUX	_	3	compound	_	_
+3	दसदे	_	VERB	VM	_	0	root	_	_
+4	जे	_	SCONJ	CC	_	8	mark	_	_
+5	गाँवा	_	NOUN	NN	_	8	obl	_	_
+6	विच	_	ADP	PSP	_	5	case	_	_
+7	बरखा	_	NOUN	NN	_	8	compound	_	_
+8	लगी	_	VERB	VM	_	1	obj	_	_
+9	गईरी	_	ADJ	JJ	_	10	compound	_	_
+10	पौंदी	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 35
