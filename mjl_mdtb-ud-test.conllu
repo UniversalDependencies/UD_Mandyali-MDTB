@@ -261,7 +261,7 @@
 10	,	_	PUNCT	SYM	_	11	punct	_	_
 11	2025	_	PROPN	NNP	_	16	obj	_	_
 12	जो	_	ADP	PSP	_	11	case	_	_
-13  सभीरी _	NOUN	NN	_	16	obj	_	_
+13  सभीरी  _	NOUN	NN	_	16	obj	_	_
 14	ते	_	ADP	PSP	_	13	case	_	_
 15	पास	_	ADJ	JJ	_	16	compound	_	_
 16	करी	_	VERB	VM	_	0	root	_	_
