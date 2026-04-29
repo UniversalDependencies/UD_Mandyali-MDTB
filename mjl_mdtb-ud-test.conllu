@@ -90,16 +90,16 @@
 
 # sent_id = 7
 # text = लोकां जो हुण एस बारे विच डर छाडी देणा चहिए।
-1	लोकां	_	PROPN	NNPC	_	2	compound	_	_
-2	जो	_	PRON	PRP	_	10	nsubj	_	_
-3	हुण	_	PROPN	NNPC	_	4	compound	_	_
-4	एस	_	PROPN	NNP	_	8	nmod	_	_
-5	बारे	_	PROPN	NNPC	_	8	compound	_	_
-6	विच	_	PROPN	NNPC	_	8	compound	_	_
-7	डर	_	PROPN	NNPC	_	8	compound	_	_
-8	छाडी	_	PROPN	NNP	_	10	nsubj	_	_
-9	देणा	_	PROPN	NNP	_	10	obj	_	_
-10	चहिए	_	VERB	VM	_	0	root	_	SpaceAfter=No
+1	लोकां	_	NOUN	NN	_	8	nsubj	_	_
+2	जो	_	ADP	PSP	_	1	case	_	_
+3	हुण	_	ADV	RB	_	4	advmod	_	_
+4	एस	_	PRON	PRP	_	8	obl	_	_
+5	बारे	_	ADP	PSP	_	4	case	_	_
+6	विच	_	ADP	PSP	_	4	case	_	_
+7	डर	_	NOUN	NN	_	8	obj	_	_
+8	छाडी	_	VERB	VM	_	0	root	_	_
+9	देणा	_	AUX	VAUX	_	8	aux	_	_
+10	चहिए	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 8
@@ -107,14 +107,14 @@
 1	डॉक्टर	_	NOUN	NNC	_	3	compound	_	_
 2	बी	_	PROPN	NNPC	_	3	compound	_	_
 3	रंगराजन	_	PROPN	NNP	_	11	nsubj	_	_
-4	कने	_	ADJ	JJ	_	8	amod	_	_
+4	कने	_	CCONJ	CC	_	8	cc	_	_
 5	डॉक्टर	_	NOUN	NNC	_	8	compound	_	_
 6	के	_	PROPN	NNPC	_	8	compound	_	_
 7	पी	_	PROPN	NNPC	_	8	compound	_	_
-8	शर्मा	_	PROPN	NNP	_	11	nsubj	_	_
+8	शर्मा	_	PROPN	NNP	_	3	conj	_	_
 9	बड़े	_	ADJ	JJ	_	11	amod	_	_
 10	खरे	_	PROPN	NNPC	_	11	compound	_	_
-11	माहणू	_	PROPN	NNP	_	0	root	_	_
+11	माहणू	_	NOUN	NN	_	0	root	_	_
 12	हे	_	AUX	VM	_	11	cop	_	_
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
