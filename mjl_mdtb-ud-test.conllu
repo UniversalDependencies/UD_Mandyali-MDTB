@@ -77,15 +77,15 @@
 1	अगले	_	ADJ	JJ	_	3	amod	_	_
 2	चार	_	NUM	QC	_	3	nummod	_	_
 3	सालां	_	NOUN	NN	_	11	obl	_	_
-4	ते	_	PART	RP	_	3	dep	_	_
+4	ते	_	ADP	PSP	_	3	case	_	_
 5	बाद	_	ADP	NST	_	3	case	_	_
-6	एस	_	PROPN	NNP	_	11	obl	_	_
+6	एस	_	PROPN	PRP	_	11	obl	_	_
 7	बारे	_	ADP	PSP	_	6	case	_	_
-8	विच	_	NOUN	NNC	_	9	compound	_	_
+8	विच	_	ADP	PSP	_	9	case	_	_
 9	हालत	_	NOUN	NN	_	11	nsubj	_	_
 10	साफ़	_	ADJ	JJ	_	11	compound	_	_
 11	हुई	_	VERB	VM	_	0	root	_	_
-12	जाणी	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+12	जाणी	_	AUX	VM	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 7
