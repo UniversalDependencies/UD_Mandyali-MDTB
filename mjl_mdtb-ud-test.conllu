@@ -280,7 +280,7 @@
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 21
-# text = टापरू री  जगहा पर पक्के कमरे बणाया हो ।
+# text = टापरू री  जगहा पर पक्के कमरे बणाया हो।
 1	टापरू	_	PROPN	NNPC	_	3	compound	_	_
 2	री	_	PROPN	NNPC	_	3	compound	_	_
 3	जगहा	_	PROPN	NNP	_	7	obl	_	_
@@ -292,7 +292,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 22
-# text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां ।
+# text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां।
 1	स्टेडियमा	_	PROPN	NNPC	_	12	compound	_	_
 2	विच	_	PROPN	NNPC	_	12	compound	_	_
 3	हुण	_	PROPN	NNPC	_	12	compound	_	_
@@ -356,7 +356,7 @@
 9	कित्तीरी	_	PROPN	NNP	_	0	root	_	_
 
 # sent_id = 26
-# text = बल्कि मंत्रिमंडला विच एह हिस्सेदारी 40 प्रतिशत हुई सकईं ।
+# text = बल्कि मंत्रिमंडला विच एह हिस्सेदारी 40 प्रतिशत हुई सकईं।
 1	बल्कि	_	SCONJ	CC	_	8	mark	_	_
 2	मंत्रिमंडला	_	PROPN	NNPC	_	5	compound	_	_
 3	विच	_	PROPN	NNPC	_	5	compound	_	_
@@ -365,7 +365,7 @@
 6	40	_	NUM	QC	_	7	nummod	_	_
 7	प्रतिशत	_	NOUN	NN	_	8	xcomp	_	_
 8	हुई	_	VERB	VM	_	0	root	_	_
-9	सकईं	_	AUX	VAUX	_	8	aux	_	_
+9	सकईं	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 27
