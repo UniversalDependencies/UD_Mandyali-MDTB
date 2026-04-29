@@ -391,15 +391,15 @@
 3	तिन्हे	_	PROPN	NNPC	_	6	compound	_	_
 4	तेस	_	PROPN	NNPC	_	6	compound	_	_
 5	रिंकू	_	PROPN	NNPC	_	6	compound	_	_
-6	चौहाना	_	PROPN	NNP	_	14	nsubj	_	_
+6	चौहाना	_	PROPN	NNP	_	13	obj	_	_
 7	जो	_	PROPN	NNPC	_	8	compound	_	_
 8	धरैंस	_	PROPN	NNP	_	14	nsubj	_	_
 9	रखणे	_	PROPN	NNPC	_	12	compound	_	_
-10	री	_	PROPN	NNPC	_	12	compound	_	_
+10	री	_	ADP	PSP	_	9	mark	_	_
 11	सलाह	_	PROPN	NNPC	_	12	compound	_	_
-12	बी	_	PROPN	NNP	_	14	nsubj	_	_
-13	देई	_	PROPN	NNP	_	14	obl	_	_
-14	दीती	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	बी	_	ADP	PSP	_	9	mark	_	_
+13	देई	_	VERB	VM	_	0	root	_	_
+14	दीती	_	VERB	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 29
