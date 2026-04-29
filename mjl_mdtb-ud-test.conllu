@@ -152,22 +152,22 @@
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 12
-# text = तिन्हे  दसेया जे प्रधान तिन्हा तीन बड्डे खूह्आं पर 19 हज़ार रूपेइये खर्च लगीरा करदा।
-1	तिन्हे	_	PROPN	NNPC	_	5	compound	_	_
-2	दसेया	_	PROPN	NNPC	_	5	compound	_	_
-3	जे	_	PROPN	NNPC	_	5	compound	_	_
-4	प्रधान	_	PROPN	NNPC	_	5	compound	_	_
-5	तिन्हा	_	PROPN	NNP	_	15	nsubj	_	_
-6	तीन	_	NUM	QC	_	8	nummod	_	_
-7	बड्डे	_	PROPN	NNPC	_	8	compound	_	_
-8	खूह्आं	_	PROPN	NNP	_	15	obl	_	_
-9	पर	_	ADP	PSP	_	8	case	_	_
-10	19	_	NUM	QCC	_	11	compound	_	_
-11	हज़ार	_	NUM	QC	_	12	nummod	_	_
+# text = तिन्हे  दसेया जे प्रधान तिन्हा तीन बड्डे खूह्आं पर 1 हज़ार रूपेइये खर्च लगीरा करदा।
+1	तिन्हे	_	PROPN	PRP	_	2	nsubj	_	_
+2	दसेया	_	VERB	VM	_	0	root	_	_
+3	जे	_	CCONJ	CC	_	13	mark	_	_
+4	प्रधान	_	NOUN	NN	_	13	compound	_	_
+5	तिन्हा	_	PRON	PRP	_	2	nsubj	_	_
+6	तीन	_	NUM	QC	_	7	nummod	_	_
+7	बड्डे	_	ADJ	JJ	_	7	amod	_	_
+8	खूह्आं	_	NOUN	NN	_	13	obl	_	_
+9	पर	_	ADP	PSP	_	7	case	_	_
+10	1	_	NUM	QCC	_	10	compound	_	_
+11	हज़ार	_	NUM	QC	_	11	nummod	_	_
 12	रूपेइये	_	NOUN	NN	_	15	obj	_	_
 13	खर्च	_	NOUN	NN	_	15	compound	_	_
-14	लगीरा	_	PROPN	NNP	_	15	nsubj	_	_
-15	करदा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+14	लगीरा	_	AUX	VAUX	_	15	aux	_	_
+15	करदा	_	VERB	VM	_	2	root	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	15	punct	_	_
 
 # sent_id = 13
