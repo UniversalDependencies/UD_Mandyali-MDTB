@@ -292,7 +292,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 22
-# text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां।
+# text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां ।
 1	स्टेडियमा	_	PROPN	NNPC	_	12	compound	_	_
 2	विच	_	PROPN	NNPC	_	12	compound	_	_
 3	हुण	_	PROPN	NNPC	_	12	compound	_	_
@@ -308,14 +308,14 @@
 13  ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 23
-# text = एसते बाद कांगड़े विच 5 कने 6 तरीका जो तिन्हा लोकां कने मिलणा हा ।
+# text = एसते बाद कांगड़े विच 5 कने 8 तरीका जो तिन्हा लोकां कने मिलणा हा ।
 1	एसते	_	PROPN	PRP	_	13	obl	_	_
 2	बाद	_	ADP	NST	_	1	case	_	_
 3	कांगड़े	_	PROPN	NNP	_	13	nmod	_	_
 4	विच	_	ADP	PSP	_	5	case	_	_
 5	5	_	NUM	QC	_	8	nmod	_	_
 6	कने	_	CCONJ	CC	_	9	cc	_	_
-7	6	_	NUM	QC	_	7	conj	_	_
+7	8	_	NUM	QC	_	5	conj	_	_
 8	तरीका	_	NOUN	NN	_	13	obl	_	_
 9	जो	_	ADP	PSP	_	10	case	_	_
 10	तिन्हा	_	PROPN	PRP	_	13	nsubj	_	_
