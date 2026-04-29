@@ -308,7 +308,7 @@
 13  ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 23
-# text = एसते बाद कांगड़े विच 5 कने 8 तरीका जो तिन्हा लोकां कने मिलणा हा ।
+# text = एसते बाद कांगड़े विच 5 कने 8 तरीका जो तिन्हा लोकां कने मिलणा हा।
 1	एसते	_	PROPN	PRP	_	13	obl	_	_
 2	बाद	_	ADP	NST	_	1	case	_	_
 3	कांगड़े	_	PROPN	NNP	_	13	nmod	_	_
@@ -340,7 +340,7 @@
 11	गल्ला	_	PROPN	NNP	_	14	obl	_	_
 12	पर	_	ADP	PSP	_	11	case	_	_
 13	मुखरी	_	ADJ	JJ	_	14	compound	_	_
-14	जाऐं	_	VERB	VM	_	0	root	_	_
+14	जाऐं	_	VERB	VM	_	0	root	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 25
