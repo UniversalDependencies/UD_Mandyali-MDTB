@@ -202,7 +202,7 @@
 4	तिकर	_	ADP	PSP	_	3	case	_	_
 5	घळाटी	_	NOUN	NN	_	6	obj	_	_
 6	चलदी	_	VERB	VM	_	0	root	_	_
-7	रेह्यी	_	AUX	VAUX	_	6 aux _ SpaceAfter=No
+7	रेह्यी	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 9	|	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
