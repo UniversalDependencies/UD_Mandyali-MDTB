@@ -202,8 +202,8 @@
 4	तिकर	_	ADP	PSP	_	3	case	_	_
 5	घळाटी	_	NOUN	NN	_	6	obj	_	_
 6	चलदी	_	VERB	VM	_	0	root	_	_
-7	रेह्यी	_	AUX	_	VAUX	_	6 -SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
+7	रेह्यी	_	AUX	VAUX	_	6 -SpaceAfter=No
+9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
 # text = एस कारण सरकारा जो रेडियो कम्पनिया ते मिलणे वाळे पैसे विच 8 प्रतिशता रा फ़ायदा हुआ।
