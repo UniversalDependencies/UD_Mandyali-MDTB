@@ -202,8 +202,8 @@
 4	तिकर	_	ADP	PSP	_	3	case	_	_
 5	घळाटी	_	NOUN	NN	_	6	obj	_	_
 6	चलदी	_	VERB	VM	_	0	root	_	_
-7	रेह्यी	_	AUX	VAUX	_	6	aux	 _	SpaceAfter=No
-9	|	_	PUNCT	SYM	_	6	punct	_	_
+7	रेह्यी	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
 # text = एस कारण सरकारा जो रेडियो कम्पनिया ते मिलणे वाळे पैसे विच 15 प्रतिशता रा फ़ायदा हुआ।
@@ -248,27 +248,25 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 19
-# text = प्रधान जी  ए सनीचरवारा जो मुख्यमंत्री ग्राम सड़क निर्माण योजना , 2020 जो सभीरी सहमती ते पास करी दित्ता।
-1	प्रधान	_	NOUN	NNC	_	4	compound	_	_
-2	जी	_	PROPN	NNPC	_	4	compound	_	_
-3	ए	_	PROPN	NNPC	_	4	compound	_	_
-4	सनीचरवारा	_	PROPN	NNP	_	5	nmod	_	_
-5	जो	_	PRON	PRP	_	12	nsubj	_	_
-6	मुख्यमंत्री	_	PROPN	NNPC	_	12	compound	_	_
-7	ग्राम	_	PROPN	NNPC	_	12	compound	_	_
-8	सड़क	_	PROPN	NNPC	_	12	compound	_	_
-9	निर्माण	_	PROPN	NNPC	_	12	compound	_	_
-10	योजना	_	PROPN	NNPC	_	12	compound	_	_
-11	,	_	PUNCT	SYM	_	12	punct	_	_
-12	2020	_	PROPN	NNP	_	0	root	_	_
-13	जो	_	PRON	PRP	_	19	nsubj	_	_
-14	सभीरी	_	PROPN	NNPC	_	19	compound	_	_
-15	सहमती	_	PROPN	NNPC	_	19	compound	_	_
-16	ते	_	PROPN	NNPC	_	19	compound	_	_
-17	पास	_	PROPN	NNPC	_	19	compound	_	_
-18	करी	_	PROPN	NNPC	_	19	compound	_	_
-19	दित्ता	_	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
-20	।	_	PUNCT	SYM	_	4	punct	_	_
+# text = प्रधाना ए सनीचरवारा जो मुख्यमंत्री ग्राम सड़क निर्माण योजना , 2025 जो सभीरी ते पास करी दित्ता।
+1	प्रधाना	_	NOUN	NN	_	2	compound	_	_
+2	ए	_	NOUN	NN	_	16	nsubj	_	_
+3	सनीचरवारा	_	PROPN	NNP	_	16	obj	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
+5	मुख्यमंत्री	_	PROPN	NNPC	_	11	compound	_	_
+6	ग्राम	_	PROPN	NNPC	_	11	compound	_	_
+7	सड़क	_	PROPN	NNPC	_	11	compound	_	_
+8	निर्माण	_	PROPN	NNPC	_	11	compound	_	_
+9	योजना	_	PROPN	NNPC	_	11	compound	_	_
+10	,	_	PUNCT	SYM	_	11	punct	_	_
+11	2025	_	PROPN	NNP	_	16	obj	_	_
+12	जो	_	ADP	PSP	_	11	case	_	_
+13	सभीरी 	_	NOUN	NN	_	16	obj	_	_
+14	ते	_	ADP	PSP	_	13	case	_	_
+15	पास	_	ADJ	JJ	_	16	compound	_	_
+16	करी	_	VERB	VM	_	0	root	_	_
+17	दित्ता	_	AUX	VAUX	_	16	aux	_	SpaceAfter=No
+18	।	_	PUNCT	SYM	_	16	punct	_	_
 
 # sent_id = 20
 # text = धन्नुए री ऐ दूजी बड्डी कमाई थी।
