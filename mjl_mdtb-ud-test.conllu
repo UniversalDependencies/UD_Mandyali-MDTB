@@ -562,11 +562,11 @@
 2	जनानीए	_	PROPN	NNP	_	12	nsubj	_	_
 3	मेरे	_	PRON	PRP	_	5	nmod	_	_
 4	कने	_	ADJ	JJ	_	5	amod	_	_
-5	कमरे	_	NOUN	NN	_	12	nsubj	_	_
+5	कमरे	_	NOUN	NN	_	12	obl	_	_
 6	विच	_	PROPN	NNPC	_	10	compound	_	_
 7	खरे	_	PUNCT	SYM	_	10	punct	_	_
 8	ढंगा	_	PROPN	NNPC	_	10	compound	_	_
-9	के	_	ADP	PSP	_	10	case	_	_
+9	के	_	ADP	PSP	_	8	case	_	_
 10	गल्ल	_	NOUN	NN	_	12	obj	_	_
 11	नी	_	ADP	PSP	_	8	case	_	_
 12	किती	_	VERB	VM	_	0	root	_	SpaceAfter=No
