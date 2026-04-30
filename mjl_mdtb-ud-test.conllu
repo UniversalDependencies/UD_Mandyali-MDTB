@@ -521,15 +521,15 @@
 
 # sent_id = 37
 # text = जातरा विच लगभग पंजाह जातरू तिन्हा कने थे।
-1	जातरा	_	PROPN	NNPC	_	2	compound	_	_
-2	विच	_	PROPN	NNP	_	7	nsubj	_	_
-3	लगभग	_	PART	RP	_	6	dep	_	_
-4	पंजाह	_	PROPN	NNPC	_	6	compound	_	_
-5	जातरू	_	PROPN	NNPC	_	6	compound	_	_
-6	तिन्हा	_	PROPN	NNP	_	7	nsubj	_	_
-7	कने	_	VERB	VM	_	0	root	_	_
-8	थे	_	AUX	VM	_	7	aux	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
+1	जातरा	_	NOUN	NN	_	8	obl	_	_
+2	विच	_	ADP	PSP	_	1	case	_	_
+3	लगभग	_	PART	RP	_	4	dep	_	_
+4	50	_	NUM	QC	_	5	nummod	_	_
+5	जातरू	_	NOUN	NN	_	8	nsubj	_	_
+6	तिह्नां	_	PRON	PRP	_	8	obl	_	_
+7	कने	_	ADP	VST	_	6	case	_	_
+8	थे	_	VERB	VM	_	0	root	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 38
 # text = मुंजो कताब पढ़ने कठे ऐनका री ज़रूरत पौंईं ।
