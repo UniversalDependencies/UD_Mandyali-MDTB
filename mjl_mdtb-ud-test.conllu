@@ -598,19 +598,19 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 43
-# text = पता नी मुआ तोपदा बी लगीरा कि चली गया घरा जो!
-1	पता	_	NOUN	NN	_	6	compound	_	_
-2	नी	_	PART	RP	_	6	dep	_	_
-3	मुआ	_	PROPN	NNPC	_	6	compound	_	_
-4	तोपदा	_	PROPN	NNPC	_	6	compound	_	_
-5	बी	_	PUNCT	SYM	_	6	punct	_	_
-6	लगीरा	_	PROPN	NNP	_	8	obj	_	_
-7	कि	_	SCONJ	CC	_	6	mark	_	_
-8	चली	_	VERB	VM	_	0	root	_	_
-9	गया	_	AUX	VAUX	_	8	aux:pass	_	_
-10	घरा	_	NOUN	NN	_	8	obj	_	_
-11	जो	_	PRON	PRP	_	8	obj	_	SpaceAfter=No
-12	!	_	PUNCT	SYM	_	10	punct	_	_
+# text = पता नी मुआ तोपदा बी लगीरा कि चली गया घरा जो।
+1	पता	_	NOUN	NN	_	6	nsubj	_	_
+2	नी	_	PART	NEG	_	6	advmod	_	_
+3	मुआ	_	ADV	RB	_	4	advcl	_	_
+4	तोपदा	_	VERB	VM	_	6	advcl	_	_
+5	बी	_	PART	RP	_	6	advmod	_	_
+6	लगीरा	_	VERB	VM	_	0	root	_	_
+7	कि	_	SCONJ	CC	_	8	mark	_	_
+8	चली	_	VERB	VM	_	6	ccomp	_	_
+9	गया	_	AUX	VAUX	_	8	aux	_	_
+10	घरा	_	NOUN	NN	_	8	obl	_	_
+11	जो	_	PRON	PRP	_	10	nmod	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 44
 # text = तेसरी आमा गाँवा री प्रधान ही ।
