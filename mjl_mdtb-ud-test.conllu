@@ -666,12 +666,12 @@
 14	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 48
-# text = बज़ार त्वारा जो बन्द रहां ।
-1	बज़ार	_	NOUN	NN	_	2	nmod	_	_
-2	त्वारा	_	PROPN	NNP	_	5	nsubj	_	_
+# text = बज़ार त्वारा जो बन्द रहां।
+1	बज़ार	_	NOUN	NN	_	5	nmod	_	_
+2	त्वारा	_	ADP	PSP	_	3	case	_	_
 3	जो	_	PRON	PRP	_	5	nsubj	_	_
 4	बन्द	_	ADJ	JJ	_	5	xcomp	_	_
-5	रहां	_	VERB	VM	_	0	root	_	_
+5	रहां	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 49
