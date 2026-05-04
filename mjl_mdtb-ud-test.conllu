@@ -1109,11 +1109,11 @@
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 83
-# text = ऐड़ा बोलऐं जे , चोरी री सबते ज़ादा शिकायतां इन्हा लोका री थी!
+# text = ऐड़ा बोलऐं जे , चोरी री सबते ज़ादा शिकायतां इन्हा लोका री थी ।
 1	ऐड़ा	_	ADV	RB	_	2	advmod	_	_
 2	बोलऐं	_	VERB	VM	_	0	root	_	_
 3	जे	_	SCONJ	IN	_	12	mark	_	_
-4	,	_	PUNCT	SYM	_	2	punct	_	_
+4	,	_	PUNCT	SYM	_	12	punct	_	_
 5	चोरी	_	NOUN	NN	_	9	nmod	_	_
 6	री	_	ADP	PSP	_	5	case	_	_
 7	सबते	_	ADV	RB	_	8	advmod	_	_
@@ -1121,9 +1121,8 @@
 9	शिकायतां	_	NOUN	NN	_	12	nsubj	_	_
 10	इन्हा	_	DET	DEM	_	11	det	_	_
 11	लोका	_	NOUN	NN	_	9	nmod	_	_
-12	री	_	AUX	VAUX	_	2	ccomp	_	SpaceAfter=No
-13	थी	_	ADP	PSP	_	9	case	_	_
-14	!	_	PUNCT	SYM	_	2	punct	_	_
+12	थी	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 84
 # text = इदी कठे ज़िला स्तरा पर एक बड्डी योजना बणाई गईरी ।
@@ -1362,7 +1361,7 @@
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 105
-# text = तुसे कोई बांकी झे कताब लगीरे पढ़दे क्या ?
+# text = तुसे कोई बांकी कताब झे लगीरे पढ़दे क्या ?
 1	तुसे	_	PRON	PRP	_	7	nsubj	_	_
 2	कोई	_	DET	DET	_	4	det	_	_
 3	बांकी	_	ADJ	JJ	_	4	amod	_	_
