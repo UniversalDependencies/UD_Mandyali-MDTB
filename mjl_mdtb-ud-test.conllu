@@ -943,10 +943,10 @@
 # sent_id = 70
 # text = धौलाधार ता धरती रा सरग हा ।
 1	धौलाधार	_	PROPN	NNP	_	6	nsubj	_	_
-2	ता	_	PART	RP	_	1	dep	_	_
-3	धरती	_	PROPN	NNPC	_	5	compound	_	_
-4	रा	_	PROPN	NNPC	_	5	compound	_	_
-5	सरग	_	PROPN	NNP	_	6	nsubj	_	_
+2	ता	_	PART	RP	_	1	discourse	_	_
+3	धरती	_	NOUN	NN	_	5	nmod	_	_
+4	रा	_	ADP	PSP	_	3	case	_	_
+5	सरग	_	NOUN	NN	_	6	xcomp	_	_
 6	हा	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -955,21 +955,21 @@
 1	से	_	ADP	PSP	_	2	case	_	_
 2	नदी	_	NOUN	NN	_	5	nsubj	_	_
 3	नीले	_	ADJ	JJ	_	4	amod	_	_
-4	रंगा	_	NOUN	NN	_	5	nsubj	_	_
+4	रंगा	_	NOUN	NN	_	5	xcomp	_	_
 5	री	_	VERB	VM	_	0	root	_	_
-6	ही	_	PART	RP	_	5	dep	_	_
+6	ही	_	PART	RP	_	5	discourse	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 72
 # text = अमरिका री पाकिस्तान नीति ढिल्ली पई गई ऐबे ।
-1	अमरिका	_	PROPN	NNP	_	7	nsubj	_	_
-2	री	_	PROPN	NNPC	_	3	compound	_	_
+1	अमरिका	_	PROPN	NNP	_	4	nmod	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
 3	पाकिस्तान	_	PROPN	NNP	_	4	nmod	_	_
-4	नीति	_	PROPN	NNP	_	7	nsubj	_	_
-5	ढिल्ली	_	PROPN	NNP	_	6	nmod	_	_
-6	पई	_	PROPN	NNP	_	7	obl	_	_
+4	नीति	_	NOUN	NN	_	7	nsubj	_	_
+5	ढिल्ली	_	ADJ	JJ	_	7	xcomp	_	_
+6	पई	_	AUX	VAUX	_	7	aux	_	_
 7	गई	_	VERB	VM	_	0	root	_	_
-8	ऐबे	_	PUNCT	SYM	_	7	aux	_	_
+8	ऐबे	_	AUX	VAUX	_	7	aux	_	_
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 73
@@ -1070,11 +1070,11 @@
 
 # sent_id = 80
 # text = यों लोक ता बडा भारी काम करऐं ।
-1	यों	_	PRON	PRP	_	7	nsubj	_	_
+1	यों	_	DET	DEM	_	2	det	_	_
 2	लोक	_	NOUN	NN	_	7	nsubj	_	_
-3	ता	_	PUNCT	SYM	_	4	punct	_	_
+3	ता	_	PART	RP	_	2	discourse	_	_
 4	बडा	_	ADJ	JJ	_	6	amod	_	_
-5	भारी	_	ADJ	JJ	_	4	amod	_	_
+5	भारी	_	ADJ	JJ	_	6	amod	_	_
 6	काम	_	NOUN	NN	_	7	obj	_	_
 7	करऐं	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
@@ -1110,20 +1110,20 @@
 
 # sent_id = 83
 # text = ऐड़ा बोलऐं जे , चोरी री सबते ज़ादा शिकायतां इन्हा लोका री थी!
-1	ऐड़ा	_	PROPN	NNP	_	2	nsubj	_	_
+1	ऐड़ा	_	ADV	RB	_	2	advmod	_	_
 2	बोलऐं	_	VERB	VM	_	0	root	_	_
-3	जे	_	PUNCT	SYM	_	2	punct	_	_
-4	,	_	PUNCT	SYM	_	8	punct	_	_
-5	चोरी	_	NOUN	NNC	_	8	compound	_	_
-6	री	_	PROPN	NNPC	_	8	compound	_	_
-7	सबते	_	PROPN	NNPC	_	8	compound	_	_
-8	ज़ादा	_	PROPN	NNP	_	9	nmod	_	_
+3	जे	_	SCONJ	IN	_	12	mark	_	_
+4	,	_	PUNCT	SYM	_	2	punct	_	_
+5	चोरी	_	NOUN	NN	_	9	nmod	_	_
+6	री	_	ADP	PSP	_	5	case	_	_
+7	सबते	_	ADV	RB	_	8	advmod	_	_
+8	ज़ादा	_	ADV	RB	_	9	advmod	_	_
 9	शिकायतां	_	NOUN	NN	_	12	nsubj	_	_
-10	इन्हा	_	PROPN	NNP	_	12	nsubj	_	_
-11	लोका	_	NOUN	NN	_	12	compound	_	_
-12	री	_	PROPN	NNP	_	2	obl	_	_
-13	थी	_	AUX	VM	_	12	cop	_	SpaceAfter=No
-14	!	_	PUNCT	SYM	_	12	punct	_	_
+10	इन्हा	_	DET	DEM	_	11	det	_	_
+11	लोका	_	NOUN	NN	_	9	nmod	_	_
+12	थी	_	AUX	VAUX	_	2	ccomp	_	SpaceAfter=No
+13	री	_	ADP	PSP	_	11	case	_	_
+14	!	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 84
 # text = इदी कठे ज़िला स्तरा पर एक बड्डी योजना बणाई गईरी ।
@@ -1196,11 +1196,11 @@
 # sent_id = 89
 # text = मैं बिल्ली जो काल रोटी बी दीती ।
 1	मैं	_	PRON	PRP	_	7	nsubj	_	_
-2	बिल्ली	_	NOUN	NN	_	7	obj	_	_
-3	जो	_	DET	DEM	_	4	det	_	_
-4	काल	_	NOUN	NN	_	5	nmod	_	_
+2	बिल्ली	_	NOUN	NN	_	7	iobj	_	_
+3	जो	_	ADP	PSP	_	2	case	_	_
+4	काल	_	ADV	RB	_	7	advmod	_	_
 5	रोटी	_	NOUN	NN	_	7	obj	_	_
-6	बी	_	NOUN	NN	_	7	obj	_	_
+6	बी	_	PART	RP	_	7	discourse	_	_
 7	दीती	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
@@ -1264,8 +1264,8 @@
 # text = आओ एक कहाणी सुणांऊं ।
 1	आओ	_	VERB	VM	_	0	root	_	_
 2	एक	_	NUM	QC	_	3	nummod	_	_
-3	कहाणी	_	NOUN	NN	_	1	nsubj	_	_
-4	सुणांऊं	_	PROPN	NNP	_	1	nsubj	_	_
+3	कहाणी	_	NOUN	NN	_	4	obj	_	_
+4	सुणांऊं	_	VERB	VM	_	1	xcomp	_	_
 5	।	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 96
@@ -1282,11 +1282,11 @@
 
 # sent_id = 97
 # text = रामें खाणा खाणे ते बाद पाणी पीता।
-1	रामें	_	PROPN	NNPC	_	3	compound	_	_
-2	खाणा	_	PROPN	NNPC	_	3	compound	_	_
-3	खाणे	_	PROPN	NNP	_	7	obl	_	_
-4	ते	_	PUNCT	SYM	_	3	dep	_	_
-5	बाद	_	ADP	NST	_	3	case	_	_
+1	रामें	_	PROPN	NNP	_	7	nsubj	_	_
+2	खाणा	_	NOUN	NN	_	3	obj	_	_
+3	खाणे	_	VERB	VM	_	7	advcl	_	_
+4	ते	_	ADP	PSP	_	5	case	_	_
+5	बाद	_	NOUN	NN	_	3	obl	_	_
 6	पाणी	_	NOUN	NN	_	7	obj	_	_
 7	पीता	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
