@@ -3187,7 +3187,7 @@
 # sent_id = 270
 # text = ओ आरा ! यों खरे लच्छण नी हे तेरे ।
 1	ओ	_	INTJ	INJ	_	2	discourse	_	_
-2	आरा	_	NOUN	NN	_	8	nsubj	_	_
+2	आरा	_	NOUN	NN	_	8	vocative	_	_
 3	!	_	PUNCT	SYM	_	2	punct	_	_
 4	यों	_	ADV	RB	_	6	advmod	_	_
 5	खरे	_	ADJ	JJ	_	6	amod	_	_
@@ -3273,13 +3273,13 @@
 # sent_id = 279
 # text = इन्हां प्रोग्रामां रा दोहरा फायदा आसारे मठेया  जो हुआँ ।
 1	इन्हां	_	DET	DEM	_	2	det	_	_
-2	प्रोग्रामां	_	NOUN	NN	_	5	compound	_	_
+2	प्रोग्रामां	_	NOUN	NN	_	5	nmod	_	_
 3	रा	_	ADP	PSP	_	2	case	_	_
 4	दोहरा	_	ADJ	JJ	_	5	amod	_	_
 5	फायदा	_	NOUN	NN	_	9	nsubj	_	_
 6	आसारे	_	NOUN	NN	_	7	nmod	_	_
-7	मठेया	_	NOUN	NN	_	5	nmod	_	_
-8	जो	_	PRON	PRP	_	7	case	_	_
+7	मठेया	_	NOUN	NN	_	5	obl	_	_
+8	जो	_	ADP	PSP	_	7	case	_	_
 9	हुआँ	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
@@ -3315,25 +3315,25 @@
 
 # sent_id = 283
 # text = ओ मुईए तिने पखलें माहणुएं तेस स्याणें जो जवाब दित्ता।
-1	ओ	_	PROPN	NNPC	_	7	compound	_	_
-2	मुईए	_	PROPN	NNPC	_	7	compound	_	_
-3	तिने	_	PROPN	NNPC	_	7	compound	_	_
-4	पखलें	_	PROPN	NNPC	_	7	compound	_	_
-5	माहणुएं	_	PROPN	NNPC	_	7	compound	_	_
-6	तेस	_	PROPN	NNPC	_	7	compound	_	_
-7	स्याणें	_	PROPN	NNP	_	9	nmod	_	_
-8	जो	_	DET	DEM	_	9	det	_	_
-9	जवाब	_	NOUN	NN	_	10	nmod	_	_
-10	दित्ता	_	NOUN	NN	_	0	root	_	SpaceAfter=No
+1	ओ	_	DET	DEM	_	5	det	_	_
+2	मुईए	_	ADJ	JJ	_	5	amod	_	_
+3	तिने	_	DET	DEM	_	5	det	_	_
+4	पखलें	_	ADJ	JJ	_	5	amod	_	_
+5	माहणुएं	_	NOUN	NN	_	10	nsubj	_	_
+6	तेस	_	DET	DEM	_	7	det	_	_
+7	स्याणें	_	NOUN	NN	_	10	iobj	_	_
+8	जो	_	ADP	PSP	_	7	case	_	_
+9	जवाब	_	NOUN	NN	_	10	obj	_	_
+10	दित्ता	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 284
 # text = क्या तुसा बले मोबाईल फोन नी हा ?
-1	क्या	_	PRON	WQ	_	7	obl	_	_
+1	क्या	_	PRON	WQ	_	7	advmod	_	_
 2	तुसा	_	PRON	PRP	_	7	nsubj	_	_
-3	बले	_	ADV	RB	_	5	advmod	_	_
+3	बले	_	ADV	RB	_	7	advmod	_	_
 4	मोबाईल	_	NOUN	NN	_	5	compound	_	_
-5	फोन	_	NOUN	NN	_	7	nsubj	_	_
+5	फोन	_	NOUN	NN	_	7	obj	_	_
 6	नी	_	PART	NEG	_	7	advmod	_	_
 7	हा	_	VERB	VM	_	0	root	_	_
 8	?	_	PUNCT	SYM	_	7	punct	_	_
