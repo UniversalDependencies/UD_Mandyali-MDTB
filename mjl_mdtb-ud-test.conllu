@@ -777,11 +777,11 @@
 
 # sent_id = 57
 # text = तेथी तेसरी बेटी रा ब्याह हा ।
-1	तेथी	_	PROPN	NNPC	_	2	compound	_	_
-2	तेसरी	_	PROPN	NNP	_	6	nsubj	_	_
+1	तेथी	_	ADV	RB	_	6	advmod	_	_
+2	तेसरी	_	ADJ	JJ	_	3	amod	_	_
 3	बेटी	_	NOUN	NN	_	5	nmod	_	_
-4	रा	_	PROPN	NNPC	_	5	compound	_	_
-5	ब्याह	_	PROPN	NNP	_	6	nsubj	_	_
+4	रा	_	ADP	PSP	_	3	case	_	_
+5	ब्याह	_	NOUN	NN	_	6	nsubj	_	_
 6	हा	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -817,14 +817,14 @@
 
 # sent_id = 61
 # text = हुण मन्दर कने मस्जिदा रे मुद्दे जो लोक महत्त्व नी देंदे।
-1	हुण	_	PROPN	NNPC	_	6	compound	_	_
-2	मन्दर	_	PROPN	NNPC	_	6	compound	_	_
-3	कने	_	PROPN	NNPC	_	6	compound	_	_
-4	मस्जिदा	_	PROPN	NNPC	_	6	compound	_	_
-5	रे	_	PROPN	NNPC	_	6	compound	_	_
-6	मुद्दे	_	PROPN	NNP	_	11	nsubj	_	_
-7	जो	_	PRON	PRP	_	11	nsubj	_	_
-8	लोक	_	NOUN	NNC	_	9	compound	_	_
+1	हुण	_	ADV	RB	_	11	advmod	_	_
+2	मन्दर	_	NOUN	NN	_	6	nmod	_	_
+3	कने	_	CCONJ	CC	_	6	cc	_	_
+4	मस्जिदा	_	NOUN	NN	_	2	conj	_	_
+5	रे	_	PRON	PRP	_	6	case	_	_
+6	मुद्दे	_	NOUN	NN	_	11	obl	_	_
+7	जो	_	PRON	PRP	_	6	det	_	_
+8	लोक	_	NOUN	NN	_	11	nsubj	_	_
 9	महत्त्व	_	NOUN	NN	_	11	obj	_	_
 10	नी	_	PART	NEG	_	11	advmod	_	_
 11	देंदे	_	VERB	VM	_	0	root	_	SpaceAfter=No
@@ -846,21 +846,21 @@
 
 # sent_id = 63
 # text = कटोचां री राजधानी हुणें रे कारण पुराणे जमाने विच ऐसा जगहा रा बड़ा महत्व था ।
-1	कटोचां	_	PROPN	NNPC	_	6	compound	_	_
-2	री	_	PROPN	NNPC	_	6	compound	_	_
-3	राजधानी	_	PROPN	NNPC	_	6	compound	_	_
-4	हुणें	_	PROPN	NNPC	_	6	compound	_	_
-5	रे	_	PROPN	NNPC	_	6	compound	_	_
-6	कारण	_	PROPN	NNP	_	14	nmod	_	_
-7	पुराणे	_	PROPN	NNPC	_	9	compound	_	_
-8	जमाने	_	PROPN	NNPC	_	9	compound	_	_
-9	विच	_	PROPN	NNP	_	14	nsubj	_	_
+1	कटोचां	_	PROPN	NNP	_	3	nmod	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
+3	राजधानी	_	NOUN	NN	_	6	nmod	_	_
+4	हुणें	_	NOUN	NN	_	3	nmod	_	_
+5	रे	_	ADP	PSP	_	4	case	_	_
+6	कारण	_	NOUN	NN	_	14	obl	_	_
+7	पुराणे	_	ADJ	JJ	_	8	amod	_	_
+8	जमाने	_	NOUN	NN	_	14	obl	_	_
+9	विच	_	ADP	PSP	_	8	case	_	_
 10	ऐसा	_	DET	DEM	_	11	det	_	_
 11	जगहा	_	NOUN	NN	_	14	nsubj	_	_
-12	रा	_	PUNCT	SYM	_	13	punct	_	_
+12	रा	_	ADP	PSP	_	14	case	_	_
 13	बड़ा	_	ADJ	JJ	_	14	amod	_	_
 14	महत्व	_	NOUN	NN	_	0	root	_	_
-15	था	_	AUX	VM	_	14	cop	_	_
+15	था	_	AUX	VAUX	_	14	cop	_	_
 16	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 64
