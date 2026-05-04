@@ -1498,16 +1498,16 @@
 
 # sent_id = 116
 # text = माओ  बाबा री जिम्मेदारी हुई आपणे बच्चेयां री हिफाजत करना ।
-1	माओ	_	PROPN	NNPC	_	4	compound	_	_
-2	बाबा	_	PROPN	NNPC	_	4	compound	_	_
-3	री	_	PROPN	NNPC	_	4	compound	_	_
-4	जिम्मेदारी	_	PROPN	NNP	_	5	nsubj	_	_
+1	माओ	_	NOUN	NN	_	4	nmod	_	_
+2	बाबा	_	NOUN	NN	_	1	compound	_	_
+3	री	_	ADP	PSP	_	1	case	_	_
+4	जिम्मेदारी	_	NOUN	NN	_	5	nsubj	_	_
 5	हुई	_	VERB	VM	_	0	root	_	_
-6	आपणे	_	PRON	PRP	_	10	nsubj	_	_
-7	बच्चेयां	_	NOUN	NN	_	10	nsubj	_	_
-8	री	_	INTJ	INJ	_	9	amod	_	_
-9	हिफाजत	_	NOUN	NN	_	10	compound	_	_
-10	करना	_	VERB	VM	_	5	advcl	_	_
+6	आपणे	_	DET	PRP$	_	7	det:poss	_	_
+7	बच्चेयां	_	NOUN	NN	_	9	nmod	_	_
+8	री	_	ADP	PSP	_	7	case	_	_
+9	हिफाजत	_	NOUN	NN	_	10	obj	_	_
+10	करना	_	VERB	VM	_	5	ccomp	_	_
 11	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 117
@@ -1546,23 +1546,23 @@
 6	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 120
-# text = आई गया मेरा लाल स्कूला ते !
-1	आई	_	VERB	VM	_	6	advcl	_	_
-2	गया	_	AUX	VAUX	_	1	aux:pass	_	_
-3	मेरा	_	PRON	PRP	_	5	nmod	_	_
-4	लाल	_	NOUN	NNC	_	5	compound	_	_
-5	स्कूला	_	NOUN	NN	_	6	nsubj	_	_
-6	ते	_	VERB	VM	_	0	root	_	_
-7	!	_	PUNCT	SYM	_	6	punct	_	_
+# text = आई गया मेरा मट्ठा  स्कूला ते !
+1	आई	_	VERB	VM	_	0	root	_	_
+2	गया	_	AUX	VAUX	_	1	aux	_	_
+3	मेरा	_	DET	PRP$	_	4	det:poss	_	_
+4	मट्ठा 	_	NOUN	NN	_	1	nsubj	_	_
+5	स्कूल	_	NOUN	NN	_	1	obl	_	_
+6	ते	_	ADP	PSP	_	5	case	_	_
+7	!	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 121
 # text = तुजो ऐस मौके रा फायदा लैणा चहिए ।
-1	तुजो	_	PROPN	NNP	_	7	nsubj	_	_
+1	तुजो	_	PRON	PRP	_	7	nsubj	_	_
 2	ऐस	_	DET	DEM	_	3	det	_	_
-3	मौके	_	NOUN	NN	_	7	obj	_	_
-4	रा	_	NOUN	NNC	_	5	compound	_	_
-5	फायदा	_	NOUN	NN	_	7	obj	_	_
-6	लैणा	_	NOUN	NN	_	7	acl	_	_
+3	मौके	_	NOUN	NN	_	5	nmod	_	_
+4	रा	_	ADP	PSP	_	3	case	_	_
+5	फायदा	_	NOUN	NN	_	6	obj	_	_
+6	लैणा	_	VERB	VM	_	7	xcomp	_	_
 7	चहिए	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
