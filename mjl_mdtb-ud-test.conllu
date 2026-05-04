@@ -1704,7 +1704,7 @@
 6	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 135
-# text = ऐतौ आपणा हे घर  समझा।
+# text = ऐतौ आपणा हे घर  समझा ।
 1	ऐतौ	_	ADV	RB	_	4	advmod	_	_
 2	आपणा	_	DET	PRP$	_	3	det:poss	_	_
 3	घर	_	NOUN	NN	_	4	obj	_	_
