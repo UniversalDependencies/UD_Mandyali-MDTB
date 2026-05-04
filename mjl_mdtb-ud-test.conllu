@@ -1396,17 +1396,17 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 108
-# text = ध्याड़ा लगी गया घरदा, तुजो घरौ  जाणा चहिए ।
-1  ध्याड़ा	_	PROPN	NNP	_	2	nsubj	_	_
-2	लगी	_	VERB	VM	_	4	acl	_	_
+# text = ध्याड़ा लगी गया घरदा, तुजो घरौ जाणा चहिए ।
+1	ध्याड़ा	_	NOUN	NN	_	2	nsubj	_	_
+2	लगी	_	VERB	VM	_	0	root	_	_
 3	गया	_	AUX	VAUX	_	2	aux	_	_
-4	घरदा	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
-5	,	_	PUNCT	SYM	_	9	punct	_	_
+4	घरदा	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
+5	,	_	PUNCT	SYM	_	2	punct	_	_
 6	तुजो	_	PRON	PRP	_	8	nsubj	_	_
 7	घरौ	_	NOUN	NN	_	8	obl	_	_
-8	जाणा	_	VERB	VM	_	9	csubj	_	_
-9	चहिए	_	VERB	VM	_	0	root	_	_
-10	।	_	PUNCT	SYM	_	9	punct	_	_
+8	जाणा	_	VERB	VM	_	2	parataxis	_	_
+9	चहिए	_	AUX	VAUX	_	8	aux	_	_
+10	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 109
 # text = मुंजो तुसा के मिलमिलु बड़ी भारी खुसी हुई आज ।
@@ -3375,5 +3375,4 @@
 7	नी	_	PART	NEG	_	6	advmod	_	_
 8	हुन्दे	_	AUX	VM	_	6	cop	_	_
 9	थे	_	AUX	VM	_	6	aux	_	_
-10	।	_	PUNCT	SYM	_	6	punct	_	_
-                                   
+10	।	_	PUNCT	SYM	_	6	punct	_	
