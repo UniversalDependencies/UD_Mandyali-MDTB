@@ -2570,10 +2570,10 @@
 
 # sent_id = 211
 # text = तुसे हार बड़ा छैळ बणांऐं ।
-1	तुसे	_	CCONJ	CC	_	5	cc	_	_
-2	हार	_	NOUN	NN	_	5	nsubj	_	_
+1	तुसे	_	PRON	PRP	_	5	nsubj	_	_
+2	हार	_	NOUN	NN	_	5	obj	_	_
 3	बड़ा	_	ADJ	JJ	_	4	amod	_	_
-4	छैळ	_	NOUN	NN	_	5	nsubj	_	_
+4	छैळ	_	NOUN	NN	_	2	nmod	_	_
 5	बणांऐं	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -2623,22 +2623,22 @@
 6	!	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 216
-# text = कमरे विच बछाण बी बच्छयाई दित्ता।
-1	कमरे	_	NOUN	NN	_	6	nmod	_	_
-2	विच	_	PROPN	NNPC	_	6	compound	_	_
-3	बछाण	_	PROPN	NNPC	_	6	compound	_	_
-4	बी	_	PROPN	NNPC	_	6	compound	_	_
-5	बच्छयाई	_	PROPN	NNPC	_	6	compound	_	_
-6	दित्ता	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	1	punct	_	_
+# text = कमरे विच बछाण बी बच्छयाई दित्ता ।
+1	कमरे	_	NOUN	NN	_	6	obl	_	_
+2	विच	_	ADP	PSP	_	1	case	_	_
+3	बछाण	_	NOUN	NN	_	6	obj	_	_
+4	बी	_	PART	RP	_	3	dep	_	_
+5	बच्छयाई	_	VERB	VM	_	6	compound	_	_
+6	दित्ता	_	VERB	VM	_	0	root	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 217
 # text = राजा राणी  दोनों तेथी हे स्वाणें हो ।
-1	राजा	_	PROPN	NNPC	_	2	compound	_	_
-2	राणी	_	PROPN	NNP	_	7	nsubj	_	_
-3	दोनों	_	NUM	QC	_	4	nummod	_	_
+1	राजा	_	NOUN	NN	_	2	compound	_	_
+2	राणी	_	NOUN	NN	_	7	nsubj	_	_
+3	दोनों	_	NUM	QC	_	2	nummod	_	_
 4	तेथी	_	NOUN	NN	_	7	obl	_	_
-5	हे	_	AUX	VM	_	4	case	_	_
+5	हे	_	PART	RP	_	4	dep	_	_
 6	स्वाणें	_	NOUN	NN	_	7	xcomp	_	_
 7	हो	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
@@ -2688,21 +2688,22 @@
 # sent_id = 222
 # text = सारी गल्ल तेसा जो सुणाई दित्ती !
 1	सारी	_	DET	QF	_	2	det	_	_
-2	गल्ल	_	NOUN	NN	_	3	nsubj	_	_
-3	तेसा	_	PROPN	NNP	_	0	root	_	_
+2	गल्ल	_	NOUN	NN	_	3	obj	_	_
+3	तेसा	_	VERB	VM	_	0	root	_	_
 4	जो	_	PRON	PRP	_	3	nsubj	_	_
-5	सुणाई	_	PROPN	NNPC	_	6	compound	_	_
-6	दित्ती	_	PROPN	NNP	_	3	nmod	_	_
+5	सुणाई	_	VERB	VM	_	3	compound	_	_
+6	दित्ती	_	AUX	VAUX	_	5	aux	_	_
 7	!	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 223
 # text = तेथी मुंजो कोई मुस्कल नी हुणी।
-1	तेथी	_	PROPN	NNPC	_	2	compound	_	_
-2	मुंजो	_	PROPN	NNP	_	4	nsubj	_	_
-3	कोई	_	PRON	PRP	_	4	nsubj	_	_
+1	तेथी	_	ADV	RB	_	4	advmod	_	_
+2	मुंजो	_	PRON	PRP	_	4	nsubj	_	_
+3	कोई	_	DET	DET	_	4	det	_	_
 4	मुस्कल	_	NOUN	NN	_	0	root	_	_
-5	नी	_	PART	RP	_	4	dep	_	_
-6	हुणी।	_	PUNCT	SYM	_	4	punct	_	_
+5	नी	_	PART	NEG	_	4	advmod	_	_
+6	हुणी	_	AUX	VM	_	4	cop	_	_
+7	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 224
 # text = बाकी मैं सम्हाळी लैह्ंगी।
@@ -2714,11 +2715,11 @@
 
 # sent_id = 225
 # text = तेजो क्या खुरक लगीरी  !
-1	तेजो	_	PROPN	NNP	_	4	nmod	_	_
-2	क्या	_	PRON	WQ	_	1	obl	_	_
-3	खुरक	_	PROPN	NNPC	_	4	compound	_	_
+1	तेजो	_	NOUN	NN	_	4	nmod	_	_
+2	क्या	_	PRON	WQ	_	4	det	_	_
+3	खुरक	_	NOUN	NN	_	4	compound	_	_
 4	लगीरी	_	NOUN	NN	_	0	root	_	_
-5	!	_	PUNCT	SYM	_	1	punct	_	_
+5	!	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 226
 # text = जेबे तेसरी हाख खुल्ली , से पताला विच पुज्जी गईरा था।
@@ -2778,15 +2779,15 @@
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 231
-# text = इतणा गलाई के मच्छी मुड़ी के चली गई!
+# text = इतणा गलाई के मच्छी मुड़ी के चली गई !
 1	इतणा	_	ADJ	JJ	_	2	amod	_	_
 2	गलाई	_	NOUN	NN	_	4	nmod	_	_
 3	के	_	ADP	PSP	_	2	case	_	_
-4	मच्छी	_	NOUN	NN	_	5	obj	_	_
+4	मच्छी	_	NOUN	NN	_	7	nsubj	_	_
 5	मुड़ी	_	VERB	VM	_	7	advcl	_	_
 6	के	_	ADP	PSP	_	5	mark	_	_
 7	चली	_	VERB	VM	_	0	root	_	_
-8	गई	_	AUX	VAUX	_	7	aux:pass	_	SpaceAfter=No
+8	गई	_	AUX	VAUX	_	7	aux	_	_
 9	!	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 232
@@ -2879,9 +2880,9 @@
 # sent_id = 240
 # text = से ता बडी हे बांकी थी ।
 1	से	_	ADP	PSP	_	5	case	_	_
-2	ता	_	PART	RP	_	3	dep	_	_
+2	ता	_	PART	RP	_	5	discourse	_	_
 3	बडी	_	ADJ	JJ	_	5	amod	_	_
-4	हे	_	PUNCT	SYM	_	5	cc	_	_
+4	हे	_	PART	RP	_	5	discourse	_	_
 5	बांकी	_	NOUN	NN	_	0	root	_	_
 6	थी	_	AUX	VM	_	5	cop	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -2986,11 +2987,11 @@
 1	भ्यागा	_	PROPN	NNPC	_	4	compound	_	_
 2	-	_	PUNCT	SYM	_	4	punct	_	_
 3	संझा	_	PROPN	NNPC	_	4	compound	_	_
-4	घरा	_	PROPN	NNP	_	5	nmod	_	_
-5	रोज	_	NOUN	NN	_	9	obl	_	_
-6	हे	_	PUNCT	SYM	_	5	punct	_	_
+4	घरा	_	NOUN	NN	_	5	nmod	_	_
+5	रोज	_	ADV	RB	_	9	advmod	_	_
+6	हे	_	PART	RP	_	5	dep	_	_
 7	पूजा	_	NOUN	NN	_	9	nsubj	_	_
-8	हुणीं	_	NOUN	NN	_	9	nsubj	_	_
+8	हुणीं	_	AUX	VAUX	_	9	aux	_	_
 9	चहिये	_	VERB	VM	_	0	root	_	_
 10	!	_	PUNCT	SYM	_	9	punct	_	_
 
