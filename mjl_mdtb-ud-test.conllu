@@ -1398,14 +1398,14 @@
 
 # sent_id = 108
 # text = ध्याड़ा लगी गया घरदा, तुजो घरौ  जाणा चहिए ।
-1	ध्याड़ा	_	PROPN	NNP	_	2	nsubj	_	_
+	ध्याड़ा	_	PROPN	NNP	_	2	nsubj	_	_
 2	लगी	_	VERB	VM	_	4	acl	_	_
 3	गया	_	AUX	VAUX	_	2	aux	_	_
-4	घरदा	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
-5	,	_	PUNCT	SYM	_	4	punct	_	_
-6	तुजो	_	PROPN	NNPC	_	8	compound	_	_
-7	घरौ	_	PROPN	NNPC	_	8	compound	_	_
-8	जाणा	_	PROPN	NNP	_	9	nsubj	_	_
+4	घरदा	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
+5	,	_	PUNCT	SYM	_	9	punct	_	_
+6	तुजो	_	PRON	PRP	_	8	nsubj	_	_
+7	घरौ	_	NOUN	NN	_	8	obl	_	_
+8	जाणा	_	VERB	VM	_	9	csubj	_	_
 9	चहिए	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
@@ -1428,23 +1428,23 @@
 2	करूआं	_	PART	RP	_	1	dep	_	_
 3	कई	_	DET	QF	_	4	det	_	_
 4	लोकां	_	NOUN	NN	_	6	nmod	_	_
-5	री	_	PUNCT	SYM	_	4	case	_	_
-6	मौत	_	NOUN	NN	_	7	compound	_	_
+5	री	_	ADP	PSP	_	4	case	_	_
+6	मौत	_	NOUN	NN	_	7	nsubj	_	_
 7	हुई	_	VERB	VM	_	0	root	_	_
 8	गई	_	AUX	VAUX	_	7	aux	_	_
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 111
 # text = हांऊ तुसा री अच्छाई जो कदी नी भुली सकदा ।
-1	हांऊ	_	PROPN	NNPC	_	4	compound	_	_
-2	तुसा	_	PROPN	NNPC	_	4	compound	_	_
-3	री	_	PROPN	NNPC	_	4	compound	_	_
-4	अच्छाई	_	PROPN	NNP	_	8	nsubj	_	_
-5	जो	_	PRON	PRP	_	8	nsubj	_	_
-6	कदी	_	NOUN	NN	_	8	obj	_	_
-7	नी	_	INTJ	INJ	_	8	acl	_	_
+1	हांऊ	_	PRON	PRP	_	8	nsubj	_	_
+2	तुसा	_	PRON	PRP	_	4	nmod	_	_
+3	री	_	ADP	PSP	_	2	case	_	_
+4	अच्छाई	_	NOUN	NN	_	8	obj	_	_
+5	जो	_	SCONJ	IN	_	8	mark	_	_
+6	कदी	_	ADV	RB	_	8	advmod	_	_
+7	नी	_	PART	NEG	_	8	advmod	_	_
 8	भुली	_	VERB	VM	_	0	root	_	_
-9	सकदा	_	PUNCT	SYM	_	8	punct	_	_
+9	सकदा	_	AUX	VAUX	_	8	aux	_	_
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 112
@@ -1460,17 +1460,17 @@
 
 # sent_id = 113
 # text = क्या तुसे ऐसा फोटु मंझा रे माहणुंआ जो पचाणी सकएं ?
-1	क्या	_	PRON	WQ	_	2	obl	_	_
-2	तुसे	_	VERB	VM	_	0	root	_	_
+1	क्या	_	ADV	WQ	_	2	advmod	_	_
+2	तुसे	_	PRON	PRP	_	10	nsubj	_	_
 3	ऐसा	_	DET	DEM	_	4	det	_	_
-4	फोटु	_	NOUN	NN	_	2	nsubj	_	_
-5	मंझा	_	ADJ	JJ	_	7	amod	_	_
-6	रे	_	PROPN	NNPC	_	7	compound	_	_
-7	माहणुंआ	_	NOUN	NN	_	10	nsubj	_	_
-8	जो	_	PRON	PRP	_	10	nsubj	_	_
-9	पचाणी	_	NOUN	NN	_	10	compound	_	_
-10	सकएं	_	VERB	VM	_	4	acl:relcl	_	_
-11	?	_	PUNCT	SYM	_	2	punct	_	_
+4	फोटु	_	NOUN	NN	_	10	obj	_	_
+5	मंझा	_	NOUN	NN	_	7	nmod	_	_
+6	रे	_	ADP	PSP	_	5	case	_	_
+7	माहणुंआ	_	NOUN	NN	_	4	nmod	_	_
+8	जो	_	SCONJ	IN	_	10	mark	_	_
+9	पचाणी	_	VERB	VM	_	10	xcomp	_	_
+10	सकएं	_	VERB	VM	_	0	root	_	_
+11	?	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 114
 # text = से चलि पईरा अमरीका जो !
