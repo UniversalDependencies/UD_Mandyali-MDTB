@@ -1423,8 +1423,8 @@
 
 # sent_id = 110
 # text = लड़ाई करूआं कई लोकां री मौत हुई गई ।
-1	लड़ाई	_	NOUN	NN	_	7	nsubj	_	_
-2	करूआं	_	PART	RP	_	1	dep	_	_
+1	लड़ाई	_	NOUN	NN	_	7	obl	_	_
+2	करूआं	_	ADP	PSP	_	1	case	_	_
 3	कई	_	DET	QF	_	4	det	_	_
 4	लोकां	_	NOUN	NN	_	6	nmod	_	_
 5	री	_	ADP	PSP	_	4	case	_	_
@@ -1482,19 +1482,19 @@
 
 # sent_id = 115
 # text = आसौ आपणे  वातावरणा जो दूषित नी करने री पूरी कोशिश करनी चहिये ।
-1	आसौ	_	PROPN	NNP	_	3	nsubj	_	_
+1	आसौ	_	PRON	PRP	_	11	nsubj	_	_
 2	आपणे	_	PRON	PRP	_	3	nmod	_	_
-3	वातावरणा	_	NOUN	NN	_	0	root	_	_
-4	जो	_	PRON	PRP	_	11	nsubj	_	_
-5	दूषित	_	ADJ	JJ	_	7	compound	_	_
+3	वातावरणा	_	NOUN	NN	_	7	obj	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
+5	दूषित	_	ADJ	JJ	_	7	xcomp	_	_
 6	नी	_	PART	NEG	_	7	advmod	_	_
-7	करने	_	VERB	VM	_	10	nmod	_	_
+7	करने	_	VERB	VM	_	10	xcomp	_	_
 8	री	_	ADP	PSP	_	7	mark	_	_
 9	पूरी	_	ADJ	JJ	_	10	amod	_	_
-10	कोशिश	_	NOUN	NN	_	11	compound	_	_
-11	करनी	_	VERB	VM	_	3	acl:relcl	_	_
+10	कोशिश	_	NOUN	NN	_	11	obj	_	_
+11	करनी	_	VERB	VM	_	0	root	_	_
 12	चहिये	_	AUX	VAUX	_	11	aux	_	_
-13	।	_	PUNCT	SYM	_	3	punct	_	_
+13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 116
 # text = माओ  बाबा री जिम्मेदारी हुई आपणे बच्चेयां री हिफाजत करना ।
