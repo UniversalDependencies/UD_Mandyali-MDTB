@@ -3365,14 +3365,14 @@
 14	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 287
-# text = आसा रे  जमाने ता स्कूल नेडे नी हुन्दे थे ।
-1	आसा	_	NOUN	NN	_	3	compound	_	_
+# text = आसा रे जमाने ता स्कूल नेडे नी हुन्दे थे ।
+1	आसा	_	NOUN	NN	_	3	nmod	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
-3	जमाने	_	NOUN	NN	_	6	nmod	_	_
-4	ता	_	PART	RP	_	6	dep	_	_
+3	जमाने	_	NOUN	NN	_	6	obl	_	_
+4	ता	_	PART	RP	_	6	advmod	_	_
 5	स्कूल	_	NOUN	NN	_	6	nsubj	_	_
 6	नेडे	_	ADJ	JJ	_	0	root	_	_
 7	नी	_	PART	NEG	_	6	advmod	_	_
 8	हुन्दे	_	AUX	VM	_	6	cop	_	_
 9	थे	_	AUX	VM	_	6	aux	_	_
-10	।	_	PUNCT	SYM	_	6	punct	_	
+10	।	_	PUNCT	SYM	_	6	punct	_	_
