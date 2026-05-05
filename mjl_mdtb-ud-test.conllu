@@ -22,16 +22,17 @@
 2	आपणे	_	PRON	PRP	_	3	nmod:poss	_	_
 3	परिवारा	_	NOUN	NN	_	7	obj	_	_
 4	कठे	_	ADV	RB	_	7	advmod	_	_
-5	क्या	_	PRON	WQ	_	7	obj	_	_
-6	क्या	_	PRON	WQ	_	5	redup	_	_
+5	क्या	_	PRON	WQ	_	6	redup	_	_
+6	क्या	_	PRON	WQ	_	3	amod	_	_
 7	करना	_	VERB	VM	_	8	xcomp	_	_
 8	चहिये	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	,	_	PUNCT	SYM	_	8	punct	_	_
 10	पता	_	NOUN	NN	_	13	nsubj	_	_
-11	हा	_	AUX	VM	_	13	cop	_	_
+11	हा	_	AUX	VAUX	_	13	cop	_	_
 12	ना	_	PART	RP	_	13	discourse	_	_
 13	सबणी	_	PRON	PRP	_	8	parataxis	_	_
-14	जो।	_	PUNCT	SYM	_	8	punct	_	_
+14	जो	_	ADP	PSP	_	13	case	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 3
 # text = एक गल होर ही, जे तुसौ मनणी पौणी हो।
