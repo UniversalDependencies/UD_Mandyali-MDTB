@@ -3803,5 +3803,16 @@
 11	हुई	_	VERB	VM	_	0	root	_	_
 12	जाणां	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
+
+# sent_id = 638
+# text = किधीयो लगीरा तू चिंगदा ऐडी जोरा के।
+1	किधीयो	_	PRON	WQ	_	4	advmod	_	_
+2	लगीरा	_	AUX	VAUX	_	4	aux	_	_
+3	तू	_	PRON	PRP	_	4	nsubj	_	_
+4	चिंगदा	_	VERB	VM	_	0	root	_	_
+5	ऐडी	_	ADV	RB	_	4	advmod	_	_
+6	जोरा	_	NOUN	NN	_	5	obl	_	_
+7	के	_	ADP	PSP	_	6	case	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	4	punct	_	_
 9	थे	_	AUX	VM	_	6	aux	_	_
 10	।	_	PUNCT	SYM	_	6	punct	_	_
