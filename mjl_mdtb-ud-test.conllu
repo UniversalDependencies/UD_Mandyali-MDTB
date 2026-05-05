@@ -604,7 +604,7 @@
 6	प्रधान	_	NOUN	NN	_	9	obj	_	_
 7	राजकुमार	_	PROPN	NNP	_	9	nsubj	_	_
 8	शर्मे	_	PROPN	NNP	_	7	flat	_	_
-9	कित्तीरी	_	VERB	VM	_	0	root	_	_
+9	कित्तीरी	_	VERB	VM	_	0	root	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 43
