@@ -1955,7 +1955,7 @@
 6	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 152
-# text = ऐतौ आपणा हे घर  समझा।
+# text = ऐतौ आपणा घर समझा।
 1	ऐतौ	_	ADV	RB	_	4	advmod	_	_
 2	आपणा	_	DET	PRP$	_	3	det:poss	_	_
 3	घर	_	NOUN	NN	_	4	obj	_	_
@@ -2354,7 +2354,7 @@
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 189
-# text = मेळे विच से ग्वाई ता नी गया।
+# text = मेळे विच से ग्वाई ता गया नी।
 1	मेळे	_	NOUN	NN	_	6	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
 3	से	_	PART	RP	_	6	discourse	_	_
