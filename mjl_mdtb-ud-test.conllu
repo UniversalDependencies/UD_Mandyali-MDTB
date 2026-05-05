@@ -3371,23 +3371,23 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 281
-# text = राजु जो भेजीरा ऐ ।
+# text = राजु जो भेजीरा ऐ।
 1	राजु	_	NOUN	NN	_	4	nsubj	_	_
-2	जो	_	PRON	PRP	_	4	case	_	_
-3	भेजीरा	_	NOUN	NN	_	4	compound	_	_
+2	जो	_	ADP	PSP	_	3	case	_	_
+3	भेजीरा	_	NOUN	NN	_	4	obj	_	_
 4	ऐ	_	VERB	VM	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 282
 # text = जगहा जगहा भटकंई ऐबे ता गऊ माता।
-1	जगहा	_	PROPN	NNPC	_	7	compound	_	_
-2	जगहा	_	PROPN	NNPC	_	7	compound	_	_
-3	भटकंई	_	PROPN	NNPC	_	7	compound	_	_
-4	ऐबे	_	PROPN	NNPC	_	7	compound	_	_
-5	ता	_	PROPN	NNPC	_	7	compound	_	_
-6	गऊ	_	PROPN	NNPC	_	7	compound	_	_
-7	माता	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	7	punct	_	_
+1	जगहा	_	ADV	RB	_	3	advmod	_	_
+2	जगहा	_	ADV	RB	_	3	advmod	_	_
+3	भटकंई	_	VERB	VM	_	0	root	_	_
+4	ऐबे	_	ADV	RB	_	3	advmod	_	_
+5	ता	_	PART	RP	_	3	discourse	_	_
+6	गऊ	_	NOUN	NN	_	7	compound	_	_
+7	माता	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 283
 # text = एक कबिता विच कविए क्या बोलिरा ?
