@@ -2953,7 +2953,7 @@
 3	कोई	_	DET	DET	_	4	det	_	_
 4	मुस्कल	_	NOUN	NN	_	0	root	_	_
 5	नी	_	PART	NEG	_	4	advmod	_	_
-6	हुणी	_	AUX	VM	_	4	cop	_	_
+6	हुणी	_	AUX	VM	_	4	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 241
@@ -3782,7 +3782,7 @@
 8	,	_	PUNCT	SYM	_	10	punct	_	_
 9	पिछे	_	ADV	RB	_	10	advmod	_	_
 10	हटी	_	VERB	VM	_	6	parataxis	_	_
-11	जा	_	AUX	VAUX	_	10	aux	_	_
+11	जा	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
 12	ओ	_	PART	RP	_	10	discourse	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	6	punct	_	_
 
