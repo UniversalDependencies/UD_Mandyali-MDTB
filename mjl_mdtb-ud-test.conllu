@@ -1863,12 +1863,12 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 144
-# text = तुसा जो देखुआं से बी किछ न पुठ्ठे काम करदा रैहयां।
+# text = तुसा जो देखुआं से बिछ न पुठ्ठे काम करदा रैहयां।
 1	तुसा	_	PRON	PRP	_	11	nsubj	_	_
 2	जो	_	SCONJ	IN	_	4	mark	_	_
 3	देखुआं	_	VERB	VM	_	4	advcl	_	_
 4	से	_	AUX	VAUX	_	3	aux	_	_
-5	बी	_	PART	RP	_	11	advmod	_	_
+5	बिछ	_	PART	RP	_	11	advmod	_	_
 6	किछ	_	DET	PRP	_	9	det	_	_
 7	न	_	PART	NEG	_	6	advmod	_	_
 8	पुठ्ठे	_	ADJ	JJ	_	9	amod	_	_
@@ -1888,16 +1888,17 @@
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 146
-# text = हुण तां तेसाजो कोई अजूबा हे बचाई सकहां ।
-1	हुण	_	PROPN	NNPC	_	3	compound	_	_
-2	तां	_	PROPN	NNPC	_	3	compound	_	_
-3	तेसाजो	_	PROPN	NNP	_	8	nsubj	_	_
-4	कोई	_	PRON	PRP	_	5	nsubj	_	_
-5	अजूबा	_	PROPN	NNP	_	8	nmod	_	_
-6	हे	_	PROPN	NNPC	_	8	compound	_	_
-7	बचाई	_	PROPN	NNPC	_	8	compound	_	_
-8	सकहां	_	PROPN	NNP	_	0	root	_	_
-9	।	_	PUNCT	SYM	_	8	punct	_	_
+# text = हुण तां तेसा जो कोई अजूबा हे बचाई सकहां।
+1	हुण	_	ADV	RB	_	8	advmod	_	_
+2	तां	_	PART	RP	_	8	discourse	_	_
+3	तेसा	_	PRON	PRP	_	8	iobj	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
+5	कोई	_	DET	PRP	_	6	det	_	_
+6	अजूबा	_	NOUN	NN	_	8	nsubj	_	_
+7	हे	_	PART	RP	_	8	discourse	_	_
+8	बचाई	_	VERB	VM	_	0	root	_	_
+9	सकहां	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 147
 # text = आसा सबणी जो तेरी सेहता री चिन्ता ही ।
