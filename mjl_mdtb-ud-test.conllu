@@ -2506,7 +2506,7 @@
 5	गई	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 184
+# sent_id = 201
 # text = शहरां ते दूर ता हले बी बाछूआ ने ही डोरिया जो बाहणें रा काम करऐं ।
 1	शहरां	_	NOUN	NN	_	3	nmod	_	_
 2	ते	_	ADP	PSP	_	1	case	_	_
@@ -2525,21 +2525,21 @@
 15	करऐं	_	VERB	VM	_	0	root	_	_
 16	।	_	PUNCT	SYM	_	15	punct	_	_
 
-# sent_id = 185
+# sent_id = 202
 # text = आबादी लगीरी बधदी ।
 1	आबादी	_	NOUN	NN	_	3	nmod	_	_
 2	लगीरी	_	PROPN	NNPC	_	3	compound	_	_
 3	बधदी	_	PROPN	NNP	_	0	root	_	_
 4	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 186
+# sent_id = 203
 # text = जगहा लगीरी बिकदी ।
 1	जगहा	_	PROPN	NNPC	_	3	compound	_	_
 2	लगीरी	_	PROPN	NNPC	_	3	compound	_	_
 3	बिकदी	_	PROPN	NNP	_	0	root	_	_
 4	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 187
+# sent_id = 204
 # text = ऐसरा असर ता हवा - पाणी पर बुरा   हे पौणां ।
 1	ऐसरा	_	PROPN	NNP	_	2	nmod	_	_
 2	असर	_	NOUN	NN	_	8	nsubj	_	_
@@ -2553,7 +2553,7 @@
 10	पौणां	_	PROPN	NNP	_	8	nmod	_	_
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 188
+# sent_id = 205
 # text = मौसम लगीरा बदलदा कनै बादल फटया करंऐ ।
 1	मौसम	_	NOUN	NN	_	3	nmod	_	_
 2	लगीरा	_	ADJ	JJ	_	3	amod	_	_
@@ -2564,7 +2564,7 @@
 7	करंऐ	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 189
+# sent_id = 206
 # text = मुंजो पता लगया जे से सिर्फ हिंदी कनै अंग्रेजी ही गलाऐं होर समझऐं ।
 1	मुंजो	_	PROPN	NNP	_	3	nsubj	_	_
 2	पता	_	NOUN	NN	_	3	compound	_	_
@@ -2581,7 +2581,7 @@
 13	समझऐं	_	VERB	VM	_	0	root	_	_
 14	।	_	PUNCT	SYM	_	13	punct	_	_
 
-# sent_id = 190
+# sent_id = 207
 # text = तिन्हा  बच्चेयां कने मिलणा था जेह्ड़े  डांस सखांएं ।
 1	तिन्हा	_	NOUN	NNC	_	2	compound	_	_
 2	बच्चेयां	_	NOUN	NN	_	4	nsubj	_	_
@@ -2593,7 +2593,7 @@
 8	सखांएं	_	VERB	VM	_	4	conj	_	_
 9	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 191
+# sent_id = 208
 # text = ऐसरे गुनाहगार भी ता आसे ही हए ।
 1	ऐसरे	_	ADJ	JJ	_	2	amod	_	_
 2	गुनाहगार	_	NOUN	NN	_	7	nsubj	_	_
@@ -2604,7 +2604,7 @@
 7	हए	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 192
+# sent_id = 209
 # text = तेबे ता नौइं पीढ़ि रा ऐस पासे ध्यान ही नी जांदा ।
 1	तेबे	_	PROPN	NNPC	_	7	compound	_	_
 2	ता	_	PROPN	NNPC	_	7	compound	_	_
@@ -2619,7 +2619,7 @@
 11	जांदा	_	NOUN	NN	_	0	root	_	_
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 193
+# sent_id = 210
 # text = ऐसा बारी ता बडा हे भारी नुकसान चारों पासे हुईरा ।
 1	ऐसा	_	DET	DEM	_	2	det	_	_
 2	बारी	_	NOUN	NN	_	7	nmod	_	_
@@ -2633,7 +2633,7 @@
 10	हुईरा	_	PROPN	NNP	_	2	nmod	_	_
 11	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 194
+# sent_id = 211
 # text = भ्यागा हे तड़कैं उट्ठीरा हांऊ ।
 1	भ्यागा	_	PROPN	NNPC	_	5	compound	_	_
 2	हे	_	PUNCT	SYM	_	5	punct	_	_
@@ -2642,7 +2642,7 @@
 5	हांऊ	_	PROPN	NNP	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 195
+# sent_id = 212
 # text = से तमाखु हे पिंदा  रेह्या ।
 1	से	_	ADP	PSP	_	5	case	_	_
 2	तमाखु	_	PROPN	NNPC	_	5	compound	_	_
@@ -2651,7 +2651,7 @@
 5	रेह्या	_	PROPN	NNP	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 196
+# sent_id = 213
 # text = हल्ले ता ध्याड़ा नी घरीरा ।
 1	हल्ले	_	PROPN	NNPC	_	5	compound	_	_
 2	ता	_	PUNCT	SYM	_	5	punct	_	_
@@ -2660,7 +2660,7 @@
 5	घरीरा	_	PROPN	NNP	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 197
+# sent_id = 214
 # text = से पाणी हे पीन्दा रेह्यां ।
 1	से	_	ADP	PSP	_	2	case	_	_
 2	पाणी	_	NOUN	NN	_	0	root	_	_
@@ -2669,7 +2669,7 @@
 5	रेह्यां	_	PROPN	NNP	_	2	nmod	_	_
 6	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 198
+# sent_id = 215
 # text = लोके ता तेथी  फटफटा कुर्सियां , मेज कनै मांजे लगाई दित्ते ।
 1	लोके	_	NOUN	NN	_	10	nsubj	_	_
 2	ता	_	PART	RP	_	10	discourse	_	_
@@ -2684,7 +2684,7 @@
 11	दित्ते	_	AUX	VAUX	_	10	aux	_	_
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 199
+# sent_id = 216
 # text = वकील काळे कोट पाई के त्यार हुई गे ।
 1	वकील	_	NOUN	NN	_	7	nsubj	_	_
 2	काळे	_	PROPN	NNPC	_	4	compound	_	_
@@ -2696,7 +2696,7 @@
 8	गे	_	AUX	VAUX	_	7	aux	_	_
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 200
+# sent_id = 217
 # text = डरने री कोई ज़रूरत नी हो ।
 1	डरने	_	VERB	VM	_	4	nmod	_	_
 2	री	_	ADP	PSP	_	1	mark	_	_
@@ -2706,7 +2706,7 @@
 6	हो	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 201
+# sent_id = 218
 # text = ऐसा गल्ला जो सुणी के पटवारिया रा मुंह उतरी गया!
 1	ऐसा	_	DET	DEM	_	2	det	_	_
 2	गल्ला	_	NOUN	NN	_	9	nsubj	_	_
@@ -2720,7 +2720,7 @@
 10	गया	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	!	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 202
+# sent_id = 219
 # text = सारे लोक केथियो चलीरे  छोड़ चारे!
 1	सारे	_	DET	QF	_	4	det	_	_
 2	लोक	_	NOUN	NNC	_	4	compound	_	_
@@ -2730,7 +2730,7 @@
 6	चारे	_	VERB	VM	_	0	root	_	SpaceAfter=No
 7	!	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 203
+# sent_id = 220
 # text = ओ से जम्मणी रा बूट्टा प्रेमा रा हा ।
 1	ओ	_	PROPN	NNP	_	8	obl	_	_
 2	से	_	ADP	PSP	_	1	case	_	_
@@ -2742,7 +2742,7 @@
 8	हा	_	VERB	VM	_	0	root	_	_
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 204
+# sent_id = 221
 # text = जज्ज बुड्ढे री गल्ला सुणी के बड़ा खुश हुआ ।
 1	जज्ज	_	PROPN	NNPC	_	4	compound	_	_
 2	बुड्ढे	_	NOUN	NNC	_	4	compound	_	_
@@ -2755,7 +2755,7 @@
 9	हुआ	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 205
+# sent_id = 222
 # text = ऐसा जनानी जो क्या हुईरा,तबीत ता ठीक ही!
 1	ऐसा	_	DET	DEM	_	2	det	_	_
 2	जनानी	_	NOUN	NN	_	0	root	_	_
@@ -2767,7 +2767,7 @@
 8	ही	_	PART	RP	_	7	dep	_	SpaceAfter=No
 9	!	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 206
+# sent_id = 223
 # text = जेबे  तेसरी निन्दर खुल्ली ता सांझ हुई गईरी थी।
 1	जेबे	_	PROPN	NNPC	_	2	compound	_	_
 2	तेसरी	_	PROPN	NNP	_	7	nsubj	_	_
@@ -2780,7 +2780,7 @@
 9	थी	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 207
+# sent_id = 224
 # text = होर से करी भी क्या सकहां था !
 1	होर	_	NOUN	NN	_	3	obl	_	_
 2	से	_	ADP	PSP	_	1	case	_	_
@@ -2791,7 +2791,7 @@
 7	था	_	AUX	VM	_	6	cop	_	_
 8	!	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 208
+# sent_id = 225
 # text = आरा ऐस ते बडा ता मेरा डोरू हा ।
 1	आरा	_	PROPN	NNP	_	2	nmod	_	_
 2	ऐस	_	PRON	PRP	_	4	nsubj	_	_
@@ -2803,7 +2803,7 @@
 8	हा	_	AUX	VM	_	7	cop	_	_
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 209
+# sent_id = 226
 # text = से ता फाड़ी हुई गया!
 1	से	_	ADP	PSP	_	4	mark	_	_
 2	ता	_	PART	RP	_	4	dep	_	_
@@ -2812,7 +2812,7 @@
 5	गया	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	!	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 210
+# sent_id = 227
 # text = से गलाई के बाहर चली गया ।
 1	से	_	ADP	PSP	_	4	case	_	_
 2	गलाई	_	NOUN	NN	_	4	nmod	_	_
@@ -2822,7 +2822,7 @@
 6	गया	_	AUX	VAUX	_	5	aux	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 211
+# sent_id = 228
 # text = तुसे हार बड़ा छैळ बणांऐं ।
 1	तुसे	_	PRON	PRP	_	5	nsubj	_	_
 2	हार	_	NOUN	NN	_	5	obj	_	_
@@ -2831,7 +2831,7 @@
 5	बणांऐं	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 212
+# sent_id = 229
 # text = तिन्हा त्रीं जो रात्ती कई किस्मा रे खाणें बणाई के ख्वाए!
 1	तिन्हा	_	PROPN	NNPC	_	8	compound	_	_
 2	त्रीं	_	PROPN	NNPC	_	8	compound	_	_
@@ -2846,7 +2846,7 @@
 11	ख्वाए	_	VERB	VM	_	0	root	_	SpaceAfter=No
 12	!	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 213
+# sent_id = 230
 # text = स्यों बड़े खुश हुई गए ।
 1	स्यों	_	NOUN	NN	_	4	nsubj	_	_
 2	बड़े	_	ADJ	JJ	_	3	advmod	_	_
@@ -2855,7 +2855,7 @@
 5	गए	_	AUX	VAUX	_	4	aux	_	_
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 214
+# sent_id = 231
 # text = तेजो तेसरे घरा ते चक्की के लई आओ!
 1	तेजो	_	PROPN	NNPC	_	5	compound	_	_
 2	तेसरे	_	PROPN	NNPC	_	5	compound	_	_
@@ -2867,7 +2867,7 @@
 8	आओ	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	!	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 215
+# sent_id = 232
 # text = राजे रा दरबार लगी गया  !
 1	राजे	_	PROPN	NNPC	_	3	compound	_	_
 2	रा	_	PROPN	NNPC	_	3	compound	_	_
@@ -2876,7 +2876,7 @@
 5	गया	_	AUX	VAUX	_	4	aux	_	_
 6	!	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 216
+# sent_id = 233
 # text = कमरे विच बछाण बी बच्छयाई दित्ता ।
 1	कमरे	_	NOUN	NN	_	6	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
@@ -2886,7 +2886,7 @@
 6	दित्ता	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 217
+# sent_id = 234
 # text = राजा राणी  दोनों तेथी हे स्वाणें हो ।
 1	राजा	_	NOUN	NN	_	2	compound	_	_
 2	राणी	_	NOUN	NN	_	7	nsubj	_	_
@@ -2897,7 +2897,7 @@
 7	हो	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 218
+# sent_id = 235
 # text = बडा भारी तुफान लगीरा आऊंदा !
 1	बडा	_	ADJ	JJ	_	3	amod	_	_
 2	भारी	_	ADJ	JJ	_	1	amod	_	_
@@ -2906,7 +2906,7 @@
 5	आऊंदा	_	PROPN	NNP	_	0	root	_	_
 6	!	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 219
+# sent_id = 236
 # text = ऐस हिसाबे ता सारी  पृथ्वि हे आज  डुबी जांगी ?
 1	ऐस	_	DET	DEM	_	2	det	_	_
 2	हिसाबे	_	NOUN	NN	_	5	nsubj	_	_
@@ -2919,7 +2919,7 @@
 9	जांगी	_	VERB	VM	_	5	advcl	_	_
 10	?	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 220
+# sent_id = 237
 # text = रूकी गया से तफान बी भागे !
 1	रूकी	_	VERB	VM	_	6	advcl	_	_
 2	गया	_	NOUN	NN	_	6	obl	_	_
@@ -2929,7 +2929,7 @@
 6	भागे	_	VERB	VM	_	0	root	_	_
 7	!	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 221
+# sent_id = 238
 # text = तेसरा बाब भी नराज हुई गया ।
 1	तेसरा	_	PROPN	NNPC	_	2	compound	_	_
 2	बाब	_	PROPN	NNP	_	5	nsubj	_	_
@@ -2939,7 +2939,7 @@
 6	गया	_	AUX	VAUX	_	5	aux	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 222
+# sent_id = 239
 # text = सारी गल्ल तेसा जो सुणाई दित्ती !
 1	सारी	_	DET	QF	_	2	det	_	_
 2	गल्ल	_	NOUN	NN	_	3	obj	_	_
@@ -2949,7 +2949,7 @@
 6	दित्ती	_	AUX	VAUX	_	5	aux	_	_
 7	!	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 223
+# sent_id = 240
 # text = तेथी मुंजो कोई मुस्कल नी हुणी।
 1	तेथी	_	ADV	RB	_	4	advmod	_	_
 2	मुंजो	_	PRON	PRP	_	4	nsubj	_	_
@@ -2959,7 +2959,7 @@
 6	हुणी	_	AUX	VM	_	4	cop	_	_
 7	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 224
+# sent_id = 241
 # text = बाकी मैं सम्हाळी लैह्ंगी।
 1	बाकी	_	ADJ	JJ	_	2	amod	_	_
 2	मैं	_	PRON	PRP	_	4	nsubj	_	_
@@ -2967,7 +2967,7 @@
 4	लैह्ंगी	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 225
+# sent_id = 242
 # text = तेजो क्या खुरक लगीरी  !
 1	तेजो	_	NOUN	NN	_	4	nmod	_	_
 2	क्या	_	PRON	WQ	_	4	det	_	_
@@ -2975,7 +2975,7 @@
 4	लगीरी	_	NOUN	NN	_	0	root	_	_
 5	!	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 226
+# sent_id = 243
 # text = जेबे तेसरी हाख खुल्ली , से पताला विच पुज्जी गईरा था।
 1	जेबे	_	PROPN	NNPC	_	4	compound	_	_
 2	तेसरी	_	PROPN	NNPC	_	4	compound	_	_
@@ -2990,7 +2990,7 @@
 11	था	_	AUX	VM	_	10	cop	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 227
+# sent_id = 244
 # text = इदीरी कोई जरूरत नी हो ।
 1	इदीरी	_	ADJ	JJ	_	3	amod	_	_
 2	कोई	_	PRON	PRP	_	3	det	_	_
@@ -2999,7 +2999,7 @@
 5	हो	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 228
+# sent_id = 245
 # text = ओ ऐ ता मेरा फर्ज था ।
 1	ओ	_	INTJ	INJ	_	2	amod	_	_
 2	ऐ	_	INTJ	INJ	_	3	amod	_	_
@@ -3009,7 +3009,7 @@
 6	था	_	AUX	VM	_	5	cop	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 229
+# sent_id = 246
 # text = तुसौ जेबे भी मेरी जरूरत हुंगी तां मुंजो याद करी लया!
 1	तुसौ	_	PROPN	NNPC	_	2	compound	_	_
 2	जेबे	_	PROPN	NNP	_	6	nsubj	_	_
@@ -3024,7 +3024,7 @@
 11	लया	_	VERB	VAUX	_	10	compound	_	SpaceAfter=No
 12	!	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 230
+# sent_id = 247
 # text = से केथी ग्वाई गई ?
 1	से	_	ADP	PSP	_	4	mark	_	_
 2	केथी	_	PROPN	NNP	_	4	nsubj	_	_
@@ -3032,7 +3032,7 @@
 4	गई	_	VERB	VM	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 231
+# sent_id = 248
 # text = इतणा गलाई के मच्छी मुड़ी के चली गई !
 1	इतणा	_	ADJ	JJ	_	2	amod	_	_
 2	गलाई	_	NOUN	NN	_	4	nmod	_	_
@@ -3044,7 +3044,7 @@
 8	गई	_	AUX	VAUX	_	7	aux	_	_
 9	!	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 232
+# sent_id = 249
 # text = हांऊ थोड़ी देर परखा बैठी के कुछ सोचदा रहया!
 1	हांऊ	_	NOUN	NN	_	4	nsubj	_	_
 2	थोड़ी	_	DET	QF	_	3	det	_	_
@@ -3057,7 +3057,7 @@
 9	रहया	_	VERB	VM	_	4	conj	_	SpaceAfter=No
 10	!	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 233
+# sent_id = 250
 # text = एक बडी धार बी सुजी तुजो  !
 1	एक	_	NUM	QC	_	3	nummod	_	_
 2	बडी	_	ADJ	JJ	_	3	amod	_	_
@@ -3067,7 +3067,7 @@
 6	तुजो	_	PROPN	NNP	_	0	root	_	_
 7	!	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 234
+# sent_id = 251
 # text = ओ भाऊ ! केथियो जांदा लगीरा  तू ?
 1	ओ	_	PROPN	NNPC	_	6	compound	_	_
 2	भाऊ	_	PROPN	NNPC	_	6	compound	_	_
@@ -3078,7 +3078,7 @@
 7	तू	_	INTJ	INJ	_	0	root	_	_
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 235
+# sent_id = 252
 # text = तुसे तेसरे घरा नी जाई सकदे।
 1	तुसे	_	PRON	PRP	_	5	obl	_	_
 2	तेसरे	_	NOUN	NNC	_	3	compound	_	_
@@ -3088,7 +3088,7 @@
 6	सकदे	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 236
+# sent_id = 253
 # text = की नी जाई सकदा ?
 1	की	_	ADP	PSP	_	3	obl	_	_
 2	नी	_	PART	RP	_	3	dep	_	_
@@ -3096,7 +3096,7 @@
 4	सकदा	_	AUX	VAUX	_	3	aux	_	_
 5	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 237
+# sent_id = 254
 # text = जे तिन्हे तेसरी गल्ल नी मन्नी ता?
 1	जे	_	PROPN	NNPC	_	4	compound	_	_
 2	तिन्हे	_	PROPN	NNPC	_	4	compound	_	_
@@ -3107,7 +3107,7 @@
 7	ता	_	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 238
+# sent_id = 255
 # text = तेस जो आपु पर हे गुस्सा आया ।
 1	तेस	_	PROPN	NNPC	_	2	compound	_	_
 2	जो	_	PRON	PRP	_	7	nsubj	_	_
@@ -3118,7 +3118,7 @@
 7	आया	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 239
+# sent_id = 256
 # text = डरी के सारे हे पैह्रेदार तेथी ते नह्ठी गए ।
 1	डरी	_	NOUN	NN	_	5	nmod	_	_
 2	के	_	ADP	PSP	_	1	case	_	_
@@ -3131,7 +3131,7 @@
 9	गए	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 240
+# sent_id = 257
 # text = से ता बडी हे बांकी थी ।
 1	से	_	ADP	PSP	_	5	case	_	_
 2	ता	_	PART	RP	_	5	discourse	_	_
@@ -3141,7 +3141,7 @@
 6	थी	_	AUX	VM	_	5	cop	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 241
+# sent_id = 258
 # text = कृष्ण कन्हैया तेसा के प्यार करहां था ।
 1	कृष्ण	_	PROPN	NNPC	_	3	compound	_	_
 2	कन्हैया	_	PROPN	NNPC	_	3	compound	_	_
@@ -3152,7 +3152,7 @@
 7	था	_	AUX	VM	_	6	aux	_	_
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 242
+# sent_id = 259
 # text = मेरी मालणी रा सुर्गवास हुई गया ।
 1	मेरी	_	PRON	PRP	_	2	nmod	_	_
 2	मालणी	_	NOUN	NN	_	5	nsubj	_	_
@@ -3162,7 +3162,7 @@
 6	गया	_	AUX	VAUX	_	5	aux	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 243
+# sent_id = 260
 # text = कुब्जा मने - मने बड़ी खुश हुई !
 1	कुब्जा	_	PROPN	NNP	_	7	nsubj	_	_
 2	मने	_	VERB	VM	_	7	advcl	_	_
@@ -3173,7 +3173,7 @@
 7	हुई	_	VERB	VM	_	0	root	_	_
 8	!	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 244
+# sent_id = 261
 # text = ऐतौ आपणा ही घर समझा ।
 1	ऐतौ	_	NOUN	NNC	_	2	compound	_	_
 2	आपणा	_	NOUN	NN	_	5	nsubj	_	_
@@ -3182,7 +3182,7 @@
 5	समझा	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 245
+# sent_id = 262
 # text = तेथी से भांती - भांती रे पकवान त्यार लगीरी करदी!
 1	तेथी	_	PROPN	NNP	_	10	obl	_	_
 2	से	_	ADP	PSP	_	1	case	_	_
@@ -3196,7 +3196,7 @@
 10	करदी	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	!	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 246
+# sent_id = 263
 # text = से नियुंदरा देई कने बी हटी आया ।
 1	से	_	ADP	PSP	_	6	mark	_	_
 2	नियुंदरा	_	PROPN	NNPC	_	5	compound	_	_
@@ -3207,7 +3207,7 @@
 7	आया	_	VERB	VAUX	_	6	compound	_	_
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 247
+# sent_id = 264
 # text = तेजो ता निन्दर आई गई ।
 1	तेजो	_	PROPN	NNPC	_	3	compound	_	_
 2	ता	_	PROPN	NNPC	_	3	compound	_	_
@@ -3216,7 +3216,7 @@
 5	गई	_	AUX	VAUX	_	4	aux	_	_
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 248
+# sent_id = 265
 # text = ओ माधो ! क्या कणक बाही दित्ती?
 1	ओ	_	PROPN	NNPC	_	2	compound	_	_
 2	माधो	_	PROPN	NNP	_	5	nmod	_	_
@@ -3227,7 +3227,7 @@
 7	दित्ती	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 249
+# sent_id = 266
 # text = पता नी बरखा कदी हुणीं ?
 1	पता	_	NOUN	NN	_	3	compound	_	_
 2	नी	_	PART	RP	_	3	dep	_	_
@@ -3236,7 +3236,7 @@
 5	हुणीं	_	VERB	VM	_	0	root	_	_
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 250
+# sent_id = 267
 # text = भ्यागा - संझा घरा रोज हे पूजा हुणीं चहिये  !
 1	भ्यागा	_	PROPN	NNPC	_	4	compound	_	_
 2	-	_	PUNCT	SYM	_	4	punct	_	_
@@ -3249,7 +3249,7 @@
 9	चहिये	_	VERB	VM	_	0	root	_	_
 10	!	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 251
+# sent_id = 268
 # text = घरा सुख - शान्ति बणीं रैंही ।
 1	घरा	_	NOUN	NN	_	4	compound	_	_
 2	सुख	_	NOUN	NN	_	4	compound	_	_
@@ -3259,14 +3259,14 @@
 6	रैंही	_	AUX	VM	_	5	aux	_	_
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 252
+# sent_id = 269
 # text = केबे मुकांह ऐ ?
 1	केबे	_	PROPN	NNPC	_	3	compound	_	_
 2	मुकांह	_	PROPN	NNPC	_	3	compound	_	_
 3	ऐ	_	INTJ	INJ	_	0	root	_	_
 4	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 253
+# sent_id = 270
 # text = भ्यागा पांज बजे मुकहां ऐ ।
 1	भ्यागा	_	NOUN	NN	_	5	nmod	_	_
 2	पांज	_	NUM	QC	_	3	nummod	_	_
@@ -3275,7 +3275,7 @@
 5	ऐ	_	VERB	VM	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 254
+# sent_id = 271
 # text = तूं किधीयो लगीरा उठदा ?
 1	तूं	_	PRON	PRP	_	4	nsubj	_	_
 2	किधीयो	_	ADV	RB	_	4	advmod	_	_
@@ -3283,7 +3283,7 @@
 4	उठदा	_	VERB	VM	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 255
+# sent_id = 272
 # text = खरे - खरे बचार आसारे दमागा विच पैदा हुंए  !
 1	खरे	_	ADJ	JJC	_	6	compound	_	_
 2	-	_	PUNCT	SYM	_	6	punct	_	_
@@ -3296,7 +3296,7 @@
 9	हुंए	_	VERB	VM	_	0	root	_	_
 10	!	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 256
+# sent_id = 273
 # text = डांगरे  घा खाई बैठे की नंई ।
 1	डांगरे	_	PROPN	NNPC	_	3	compound	_	_
 2	घा	_	PROPN	NNPC	_	3	compound	_	_
@@ -3306,7 +3306,7 @@
 6	नंई	_	NOUN	NN	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 257
+# sent_id = 274
 # text = से केजो दस्सी के गईरा ?
 1	से	_	ADP	PSP	_	5	case	_	_
 2	केजो	_	PROPN	NNPC	_	3	compound	_	_
@@ -3315,7 +3315,7 @@
 5	गईरा	_	NOUN	NN	_	0	root	_	_
 6	?	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 258
+# sent_id = 275
 # text = आज नळकें पाणीं नी आऊणां हो , ऐड़ी लौसमैंट हुईरी ।
 1	आज	_	ADV	RB	_	6	advmod	_	_
 2	नळकें	_	NOUN	NN	_	3	compound	_	_
@@ -3329,7 +3329,7 @@
 10	हुईरी	_	AUX	VM	_	6	aux	_	_
 11	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 259
+# sent_id = 276
 # text = दो घड़े परखा ते लई आवा!
 1	दो	_	NUM	QC	_	2	nummod	_	_
 2	घड़े	_	NOUN	NN	_	3	obj	_	_
@@ -3339,7 +3339,7 @@
 6	आवा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 7	!	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 260
+# sent_id = 277
 # text = ऐड़ा ना जे सम्ह्ळी के चलणा।
 1	ऐड़ा	_	PROPN	NNPC	_	4	compound	_	_
 2	ना	_	PROPN	NNPC	_	4	compound	_	_
@@ -3348,7 +3348,7 @@
 5	के	_	ADP	PSP	_	4	case	_	_
 6	चलणा।	_	VERB	VM	_	0	root	_	_
 
-# sent_id = 261
+# sent_id = 278
 # text = बान्दरे ता धूं देई दीतिरा ।
 1	बान्दरे	_	PROPN	NNPC	_	5	compound	_	_
 2	ता	_	PROPN	NNPC	_	5	compound	_	_
@@ -3357,7 +3357,7 @@
 5	दीतिरा	_	PROPN	NNP	_	0	root	_	_
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 262
+# sent_id = 279
 # text = सारी फसला बरबाद करी ती मोयों ।
 1	सारी	_	DET	QF	_	2	det	_	_
 2	फसला	_	NOUN	NN	_	4	obj	_	_
@@ -3367,7 +3367,7 @@
 6	मोयों	_	NOUN	NN	_	4	obl	_	_
 7	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 263
+# sent_id = 280
 # text = खांह घट्ट हा कने लिभडां जादा तू ।
 1	खांह	_	PROPN	NNPC	_	7	compound	_	_
 2	घट्ट	_	PROPN	NNPC	_	7	compound	_	_
@@ -3378,7 +3378,7 @@
 7	तू	_	PROPN	NNP	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 264
+# sent_id = 281
 # text = राजु जो भेजीरा ऐ ।
 1	राजु	_	NOUN	NN	_	4	nsubj	_	_
 2	जो	_	PRON	PRP	_	4	case	_	_
@@ -3386,7 +3386,7 @@
 4	ऐ	_	VERB	VM	_	0	root	_	_
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 265
+# sent_id = 282
 # text = जगहा जगहा भटकंई ऐबे ता गऊ माता।
 1	जगहा	_	PROPN	NNPC	_	7	compound	_	_
 2	जगहा	_	PROPN	NNPC	_	7	compound	_	_
@@ -3397,7 +3397,7 @@
 7	माता	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 266
+# sent_id = 283
 # text = एक कबिता विच कविए क्या बोलिरा ?
 1	एक	_	NUM	QC	_	2	nummod	_	_
 2	कबिता	_	NOUN	NN	_	4	nmod	_	_
@@ -3407,7 +3407,7 @@
 6	बोलिरा	_	PROPN	NNP	_	4	nmod	_	_
 7	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 267
+# sent_id = 284
 # text = केबका आई गईरा तू ?
 1	केबका	_	PROPN	NNPC	_	3	compound	_	_
 2	आई	_	PROPN	NNPC	_	3	compound	_	_
@@ -3415,7 +3415,7 @@
 4	तू	_	PROPN	NNP	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 268
+# sent_id = 285
 # text = ओ ऐ बी ता बे मौसमी हुन्दी लगीरी ।
 1	ओ	_	PROPN	NNPC	_	8	compound	_	_
 2	ऐ	_	PROPN	NNPC	_	8	compound	_	_
@@ -3427,7 +3427,7 @@
 8	लगीरी	_	PROPN	NNP	_	0	root	_	_
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 269
+# sent_id = 286
 # text = ओरे - परेखा देखा क्या लगीरा हुन्दा ?
 1	ओरे	_	NOUN	NN	_	3	compound	_	_
 2	-	_	PUNCT	SYM	_	3	punct	_	_
@@ -3438,7 +3438,7 @@
 7	हुन्दा	_	AUX	VM	_	4	aux	_	_
 8	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 270
+# sent_id = 287
 # text = ओ आरा ! यों खरे लच्छण नी हे तेरे ।
 1	ओ	_	INTJ	INJ	_	2	discourse	_	_
 2	आरा	_	NOUN	NN	_	8	vocative	_	_
@@ -3451,7 +3451,7 @@
 9	तेरे	_	PRON	PRP	_	6	nmod	_	_
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 271
+# sent_id = 288
 # text = बरखा लगणे आऊली हो ।
 1	बरखा	_	PROPN	NNPC	_	2	compound	_	_
 2	लगणे	_	PROPN	NNP	_	4	nsubj	_	_
@@ -3459,7 +3459,7 @@
 4	हो	_	VERB	VM	_	0	root	_	_
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 272
+# sent_id = 289
 # text = चाह् बणी गईरी ता लई आवा ।
 1	चाह्	_	PROPN	NNPC	_	6	compound	_	_
 2	बणी	_	PROPN	NNPC	_	6	compound	_	_
@@ -3469,7 +3469,7 @@
 6	आवा	_	PROPN	NNP	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 273
+# sent_id = 290
 # text = चाह पी लैं तुसे ।
 1	चाह	_	VERB	VM	_	3	advcl	_	_
 2	पी	_	VERB	VM	_	3	advcl	_	_
@@ -3477,7 +3477,7 @@
 4	तुसे	_	PRON	PRP	_	3	nsubj	_	_
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 274
+# sent_id = 291
 # text = हांऊ किधीयो याद किती ?
 1	हांऊ	_	PROPN	NNPC	_	2	compound	_	_
 2	किधीयो	_	NOUN	NN	_	4	nsubj	_	_
@@ -3485,7 +3485,7 @@
 4	किती	_	VERB	VM	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 275
+# sent_id = 292
 # text = मुंजो ता  कोई मुश्कल नी हुणीं ।
 1	मुंजो	_	PRON	PRP	_	6	nsubj	_	_
 2	ता	_	PART	RP	_	1	dep	_	_
@@ -3495,7 +3495,7 @@
 6	हुणीं	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 276
+# sent_id = 293
 # text = ओ मा सम्हाळी लैणा ।
 1	ओ	_	PROPN	NNPC	_	4	compound	_	_
 2	मा	_	PROPN	NNPC	_	4	compound	_	_
@@ -3503,7 +3503,7 @@
 4	लैणा	_	PROPN	NNP	_	0	root	_	_
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 277
+# sent_id = 294
 # text = से ता ढली जो गया।
 1	से	_	ADP	PSP	_	3	mark	_	_
 2	ता	_	PART	RP	_	3	dep	_	_
@@ -3512,7 +3512,7 @@
 5	गया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 278
+# sent_id = 295
 # text = जे तुसे आपु दसगे ता हे ठीक हुणा।
 1	जे	_	SCONJ	CC	_	7	mark	_	_
 2	तुसे	_	PRON	PRP	_	4	nsubj	_	_
@@ -3524,7 +3524,7 @@
 8	हुणा	_	AUX	VM	_	7	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 279
+# sent_id = 296
 # text = इन्हां प्रोग्रामां रा दोहरा फायदा आसारे मठेया  जो हुआँ ।
 1	इन्हां	_	DET	DEM	_	2	det	_	_
 2	प्रोग्रामां	_	NOUN	NN	_	5	nmod	_	_
@@ -3537,7 +3537,7 @@
 9	हुआँ	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 280
+# sent_id = 297
 # text = सबणी रा हाल एक हे सांहईं हा ।
 1	सबणी	_	NOUN	NN	_	3	compound	_	_
 2	रा	_	ADP	PSP	_	1	case	_	_
@@ -3548,7 +3548,7 @@
 7	हा	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 281
+# sent_id = 298
 # text = ओ भाऊ ! जरा एम्बुलेन्सा जो ता सादी दे ।
 1	ओ	_	INTJ	INJ	_	2	discourse	_	_
 2	भाऊ	_	NOUN	NN	_	9	vocative	_	_
@@ -3561,13 +3561,13 @@
 9	दे	_	VERB	VM	_	0	root	_	_
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 282
+# sent_id = 299
 # text = कोई गल्ल नी।
 1	कोई	_	PRON	PRP	_	2	det	_	_
 2	गल्ल	_	NOUN	NN	_	0	root	_	_
 3	नी।	_	PART	RP	_	2	dep	_	_
 
-# sent_id = 283
+# sent_id = 300
 # text = ओ मुईए तिने पखलें माहणुएं तेस स्याणें जो जवाब दित्ता।
 1	ओ	_	DET	DEM	_	5	det	_	_
 2	मुईए	_	ADJ	JJ	_	5	amod	_	_
@@ -3581,7 +3581,7 @@
 10	दित्ता	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 284
+# sent_id = 301
 # text = क्या तुसा बले मोबाईल फोन नी हा ?
 1	क्या	_	PRON	WQ	_	7	advmod	_	_
 2	तुसा	_	PRON	PRP	_	7	nsubj	_	_
@@ -3592,7 +3592,7 @@
 7	हा	_	VERB	VM	_	0	root	_	_
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 285
+# sent_id = 302
 # text = आपणे आप एम्बुलेंस आई जांई ।
 1	आपणे	_	PRON	PRP	_	4	obl	_	_
 2	आप	_	PRON	PRP	_	4	nsubj	_	_
@@ -3601,7 +3601,7 @@
 5	जांई	_	AUX	VAUX	_	4	aux	_	_
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 286
+# sent_id = 303
 # text = मैं फौन खरीदी ता लया पर मुंजो हले तक चलाणा हे नी आऊंदा ।
 1	मैं	_	PRON	PRP	_	3	nsubj	_	_
 2	फौन	_	NOUN	NN	_	3	obj	_	_
@@ -3618,7 +3618,7 @@
 13	आऊंदा	_	VERB	VM	_	3	conj	_	_
 14	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 287
+# sent_id = 304
 # text = आसा रे जमाने ता स्कूल नेडे नी हुन्दे थे ।
 1	आसा	_	NOUN	NN	_	3	nmod	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
@@ -3629,7 +3629,7 @@
 7	नी	_	PART	NEG	_	6	advmod	_	_
 8	हुन्दे	_	AUX	VM	_	6	cop	_	_
 
-# sent_id = 68
+# sent_id = 305
 # text = अच्छा सुणा मेरी गल, मा बोलणा था तुसौ जे आसा रे घरा आया करंयें देओ ना।
 1	अच्छा	_	INTJ	INJ	_	4	discourse	_	_
 2	सुणा	_	VERB	VM	_	4	discourse	_	_
@@ -3650,7 +3650,7 @@
 17	ना	_	PART	RP	_	16	discourse	_	SpaceAfter=No
 18	।	_	PUNCT	SYM	_	16	punct	_	_
 
-# sent_id = 430
+# sent_id = 306
 # text = तू मेरी लाड़ी ही कि कोसी होरी री, तुजो नी पता जे हांऊ केड़ा हा।
 1	तू	_	PRON	PRP	_	3	nsubj	_	_
 2	मेरी	_	PRON	PRP	_	3	nmod:poss	_	_
@@ -3670,7 +3670,7 @@
 16	हा	_	AUX	VAUX	_	15	cop	_	SpaceAfter=No
 17	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 431
+# sent_id = 307
 # text = मुंजो क्या पता जे तुसे केड़े केड़े कांड कितीरे?
 1	मुंजो	_	PRON	PRP	_	3	nsubj	_	_
 2	क्या	_	PRON	WQ	_	3	det	_	_
@@ -3683,7 +3683,7 @@
 9	कितीरे	_	VERB	VM	_	3	ccomp	_	SpaceAfter=No
 10	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 580
+# sent_id = 308
 # text = ऐडी झट नी चढदी मुंजो ओए, एक बोतल होर खोल।
 1	ऐडी	_	ADV	RB	_	4	advmod	_	_
 2	झट	_	ADV	RB	_	4	advmod	_	_
@@ -3698,7 +3698,7 @@
 11	खोल	_	VERB	VM	_	4	conj	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 581
+# sent_id = 309
 # text = आरा जादा सराब पीऊंआ ना मेरा दमाग ठस हुई जां।
 1	आरा	_	ADV	RB	_	4	advmod	_	_
 2	जादा	_	ADV	RB	_	4	advmod	_	_
@@ -3712,7 +3712,7 @@
 10	जां	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
- sent_id = 1041
+ sent_id = 310
 # text = ऐबे तू आपणां बोरिया बिस्तर चक ऐते हो चली जा ।
 1	ऐबे	_	ADV	RB	_	6	advmod	_	_
 2	तू	_	PRON	PRP	_	6	nsubj	_	_
@@ -3726,7 +3726,7 @@
 10	जा	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 1042
+# sent_id = 311
 # text = आरा टोबी ऐड़ा मत बोल, तू ता मेरा जिगरी दोस्त हा।
 1	आरा	_	INTJ	INJ	_	5	discourse	_	_
 2	टोबी	_	PROPN	NNP	_	5	vocative	_	_
@@ -3742,7 +3742,7 @@
 12	हा	_	AUX	VAUX	_	11	cop	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 1040
+# sent_id = 312
 # text = ऐड़ा बांका मौका था आज से बी गवाई ता तैं।
 1	ऐड़ा	_	ADJ	JJ	_	2	amod	_	_
 2	बांका	_	ADJ	JJ	_	3	amod	_	_
@@ -3756,7 +3756,7 @@
 10	तैं	_	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 1036
+# sent_id = 313
 # text = डरपोक केतकी रा, ओ ओए गधेयो क्या लपोछी रे ऐजो।
 1	डरपोक	_	ADJ	JJ	_	2	amod	_	_
 2	केतकी	_	NOUN	NN	_	11	vocative	_	_
@@ -3771,7 +3771,7 @@
 11	ऐजो	_	VERB	VM	_	0	root	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 1030
+# sent_id = 314
 # text = खबरदार जे तुसे मेरे नेडे आए ता , पिछे हटी जाओ।
 1	खबरदार	_	INTJ	INJ	_	6	discourse	_	_
 2	जे	_	SCONJ	CC	_	4	mark	_	_
@@ -3787,7 +3787,7 @@
 12	ओ	_	PART	RP	_	10	discourse	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 1027
+# sent_id = 315
 # text = से एक राजकुमारी हो तू एक नौकर, ऐड़ा कियां हुई जाणां।
 1	से	_	PRON	PRP	_	4	mark	_	_
 2	एक	_	NUM	QC	_	3	nummod	_	_
@@ -3803,7 +3803,7 @@
 12	जाणां	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 638
+# sent_id = 316
 # text = किधीयो लगीरा तू चिंगदा ऐडी जोरा के।
 1	किधीयो	_	PRON	WQ	_	4	advmod	_	_
 2	लगीरा	_	AUX	VAUX	_	4	aux	_	_
