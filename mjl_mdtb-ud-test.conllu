@@ -105,7 +105,7 @@
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 8
-# text = ओए, एक गल ता दस मुंजो?
+# text = ओए, एक गल ता मुंजो दस?
 1	ओए	_	INTJ	INJ	_	7	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	SYM	_	1	punct	_	_
 3	एक	_	NUM	QC	_	4	nummod	_	_
