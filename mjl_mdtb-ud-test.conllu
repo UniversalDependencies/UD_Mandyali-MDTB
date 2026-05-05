@@ -356,7 +356,7 @@
 10	चहिए	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 8
+# sent_id = 25
 # text = डॉक्टर बी रंगराजन कने डॉक्टर के पी शर्मा बड़े खरे माहणू हे ।
 1	डॉक्टर	_	NOUN	NNC	_	3	compound	_	_
 2	बी	_	PROPN	NNPC	_	3	compound	_	_
@@ -372,7 +372,7 @@
 12	हे	_	AUX	VM	_	11	cop	_	_
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 9
+# sent_id = 26
 # text = काळुए रा ऐ पैहला पक्का घर हा ।
 1	काळुए	_	PROPN	NNPC	_	4	compound	_	_
 2	रा	_	PROPN	NNPC	_	4	compound	_	_
@@ -383,7 +383,7 @@
 7	हा	_	VERB	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 10
+# sent_id = 27
 # text = ऐ कथा रामचन्द्र भगवाना कने जुड़िरी ।
 1	ऐ	_	NOUN	NNC	_	2	compound	_	_
 2	कथा	_	NOUN	NN	_	4	nmod	_	_
@@ -393,7 +393,7 @@
 6	जुड़िरी	_	PROPN	NNP	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 11
+# sent_id = 28
 # text = पर ऐसा बारी तिन्हे जादा आंब नी तोड़े।
 1	पर	_	CCONJ	CC	_	8	cc	_	_
 2	ऐसा	_	DET	DEM	_	3	det	_	_
@@ -405,7 +405,7 @@
 8	तोड़े	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 12
+# sent_id = 29
 # text = तिन्हे  दसेया जे प्रधान तिन्हा तीन बड्डे खूह्आं पर 1 हज़ार रूपेइये खर्च लगीरा करदा।
 1	तिन्हे	_	PROPN	PRP	_	2	nsubj	_	_
 2	दसेया	_	VERB	VM	_	0	root	_	_
@@ -424,7 +424,7 @@
 15	करदा	_	VERB	VM	_	2	advcl	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	15	punct	_	_
 
-# sent_id = 13
+# sent_id = 30
 # text = रूपणू छब्बी मील पैदल चलुआं मन्दरा पुजहां था।
 1	रूपणू	_	PROPN	NNP	_	3	nmod	_	_
 2	छब्बी	_	PROPN	NNPC	_	3	compound	_	_
@@ -436,7 +436,7 @@
 8	था	_	AUX	VM	_	7	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 14
+# sent_id = 31
 # text = कराळी दे पत्तर भी घट्ट गिणतिया विच थे।
 1	कराळी	_	PROPN	NNP	_	2	obl	_	_
 2	दे	_	VERB	VM	_	3	acl	_	_
@@ -448,7 +448,7 @@
 8	थे	_	AUX	VM	_	7	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 15
+# sent_id = 32
 # text = पर पैंती मिनटां तिकर घळाटी चलदी रेह्यी।
 1	पर	_	CCONJ	CC	_	6	cc	_	_
 2	पैंती	_	NUM	QC	_	3	nummod	_	_
@@ -459,7 +459,7 @@
 7	रेह्यी	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 16
+# sent_id = 33
 # text = एस कारण सरकारा जो रेडियो कम्पनिया ते मिलणे वाळे पैसे विच 15 प्रतिशता रा फ़ायदा हुआ।
 1	एस	_	PRON	PRP	_	16	obl	_	_
 2	कारण	_	ADP	PSP	_	1	case	_	_
@@ -479,7 +479,7 @@
 16	हुआ	_	VERB	VM	_	0	root	_	SpaceAfter=No
 17	।	_	PUNCT	SYM	_	16	punct	_	_
 
-# sent_id = 17
+# sent_id = 34
 # text = तेसरा तेसरी सासुए मज़ाक उडाया।
 1	तेसरा	_	PROPN	NNPC	_	3	compound	_	_
 2	तेसरी	_	PROPN	NNPC	_	3	compound	_	_
@@ -488,7 +488,7 @@
 5	उडाया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 18
+# sent_id = 35
 # text = शर्माजी आठ साल पैहले स्कूला  रे मास्टर रहये थे।
 1	शर्माजी	_	PROPN	NNP	_	8	nsubj	_	_
 2	आठ	_	NUM	QC	_	3	nummod	_	_
@@ -501,7 +501,7 @@
 9	थे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 19
+# sent_id = 36
 # text = प्रधाना ए सनीचरवारा जो मुख्यमंत्री ग्राम सड़क निर्माण योजना , 2025 जो सभीरी ते पास करी दित्ता।
 1	प्रधाना	_	NOUN	NN	_	16	nsubj	_	_
 2	ए	_	PART	RP	_	1	discourse	_	_
@@ -522,7 +522,7 @@
 17	दित्ता	_	AUX	VAUX	_	16	aux	_	SpaceAfter=No
 18	।	_	PUNCT	PUNCT	_	16	punct	_	_
 
-# sent_id = 20
+# sent_id = 37
 # text = धन्नुए री ऐ दूजी बड्डी कमाई थी।
 1	धन्नुए	_	PROPN	NNPC	_	5	compound	_	_
 2	री	_	PROPN	NNPC	_	5	compound	_	_
@@ -533,7 +533,7 @@
 7	थी	_	AUX	VM	_	6	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 21
+# sent_id = 38
 # text = टापरू री  जगहा पर पक्के कमरे बणाया हो।
 1	टापरू	_	PROPN	NNPC	_	3	compound	_	_
 2	री	_	PROPN	NNPC	_	3	compound	_	_
@@ -545,7 +545,7 @@
 8	हो	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 22
+# sent_id = 39
 # text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां।
 1	स्टेडियमा	_	NOUN	NN	_	12	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
@@ -561,7 +561,7 @@
 12	मिलहां	_	VERB	VM	_	0	root	_	SpaceAfter=No
 13	।	_	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = 23
+# sent_id = 40
 # text = एसते बाद कांगड़े विच 5 कने 8 तरीका जो तिन्हा लोकां कने मिलणा हा।
 1	एसते	_	PROPN	PRP	_	13	obl	_	_
 2	बाद	_	ADP	NST	_	1	case	_	_
@@ -579,7 +579,7 @@
 14	हा	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
-# sent_id = 24
+# sent_id = 41
 # text = हुण तां प्रधानमंत्री एक गल्ल करऐं होर  अगले दिन तेसा गल्ला पर मुखरी जाऐं।
 1	हुण	_	PROPN	NNPC	_	3	compound	_	_
 2	तां	_	PROPN	NNPC	_	3	compound	_	_
@@ -597,7 +597,7 @@
 14	जाऐं	_	VERB	VM	_	0	root	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	14	punct	_	_
 
-# sent_id = 25
+# sent_id = 42
 # text = 8 मैम्बरी एस सभा री प्रधान राजकुमार शर्मे  कित्तीरी
 1	8	_	PROPN	NNPC	_	6	compound	_	_
 2	मैम्बरी	_	PROPN	NNPC	_	6	compound	_	_
@@ -609,7 +609,7 @@
 8	शर्मे	_	PROPN	NNPC	_	9	compound	_	_
 9	कित्तीरी	_	PROPN	NNP	_	0	root	_	_
 
-# sent_id = 26
+# sent_id = 43
 # text = बल्कि मंत्रिमंडला विच एह हिस्सेदारी 40 प्रतिशत हुई सकईं।
 1	बल्कि	_	SCONJ	CC	_	8	mark	_	_
 2	मंत्रिमंडला	_	PROPN	NNPC	_	5	compound	_	_
@@ -622,7 +622,7 @@
 9	सकईं	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 27
+# sent_id = 44
 # text = जे तुसे इंटरनेट बैंकिंग रा इस्तेमाल करऐं , तां चत्तन्न  हुई जावा ।
 1	जे	_	PROPN	NNPC	_	2	compound	_	_
 2	तुसे	_	PRON	PRP	_	7	obl	_	_
@@ -638,7 +638,7 @@
 12	जावा	_	AUX	VAUX	_	11	aux	_	_
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 28
+# sent_id = 45
 # text = हो सौगी तिन्हे तेस रिंकू चौहाना जो धरैंस रखणे री सलाह बी देई दीती।
 1	हो	_	VERB	VM	_	6	acl	_	_
 2	सौगी	_	PROPN	NNPC	_	6	compound	_	_
@@ -656,7 +656,7 @@
 14	दीती	_	VERB	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	14	punct	_	_
 
-# sent_id = 29
+# sent_id = 46
 # text = इदी कठे ता लोकां जो तिन्हारी पैदावार रा घट्ट मोल मिल्हां।
 1	इदी	_	PROPN	NNPC	_	10	compound	_	_
 2	कठे	_	PROPN	NNPC	_	10	compound	_	_
@@ -671,7 +671,7 @@
 11	मिल्हां	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 30
+# sent_id = 47
 # text = तिन्हे कमरे विच महात्मा गांधी री एक फोटू रखणे री सलाह बी देईती।
 1	तिन्हे	_	PRON	PRP	_	13	nsubj	_	_
 2	कमरे	_	NOUN	NN	_	9	obl	_	_
@@ -688,7 +688,7 @@
 13	देईती	_	VERB	VM	_	0	root	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	13	punct	_	_
 
-# sent_id = 31
+# sent_id = 48
 # text = राम सिंह चौधरिएं गाँवा विच खौहदल पाई दितीरी थी।
 1	राम	_	PROPN	NNPC	_	3	compound	_	_
 2	सिंह	_	PROPN	NNPC	_	3	compound	_	_
@@ -701,7 +701,7 @@
 9	थी	_	AUX	VM	_	8	cop	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 32
+# sent_id = 49
 # text = अगले दिन फेरी तिन्हे गल्ल कित्ति थी।
 1	अगले	_	ADJ	JJ	_	2	amod	_	_
 2	दिन	_	NOUN	NN	_	6	nmod	_	_
@@ -712,7 +712,7 @@
 7	थी	_	AUX	VM	_	6	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 33
+# sent_id = 50
 # text = से बड़े टैमा ते डोगरे ते लग रहया करईं।
 1	से	_	ADP	PSP	_	2	case	_	_
 2	बड़े	_	ADJ	JJ	_	3	amod	_	_
@@ -725,7 +725,7 @@
 9	करईं	_	VERB	VM	_	0	root	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 34
+# sent_id = 51
 # text = ऐड़ा लगीरे दसदे जे गाँवा विच बरखा लगी गईरी पौंदी।
 1	ऐड़ा	_	PRON	PRP	_	3	nsubj	_	_
 2	लगीरे	_	AUX	VAUX	_	3	compound	_	_
@@ -739,7 +739,7 @@
 10	पौंदी	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 35
+# sent_id = 52
 # text = सफ़रा रे दौरान से राजकुमार प्रिंस हैरी रे दफ़्तरा बी गया था।
 1	सफ़रा	_	NOUN	NN	_	10	obl	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
@@ -755,7 +755,7 @@
 12	था	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 36
+# sent_id = 53
 # text = 15 दिसम्बरा ते शुरू हुई के तिन्हा री जातर चार दिनां विच पूरी हुई।
 1	15	_	PROPN	NNPC	_	2	compound	_	_
 2	दिसम्बरा	_	PROPN	NNP	_	5	nsubj	_	_
@@ -773,7 +773,7 @@
 14	हुई	_	VERB	VM	_	0	root	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	14	punct	_	_
 
-# sent_id = 37
+# sent_id = 54
 # text = जातरा विच लगभग पंजाह जातरू तिन्हा कने थे।
 1	जातरा	_	NOUN	NN	_	8	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
@@ -785,7 +785,7 @@
 8	थे	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 38
+# sent_id = 55
 # text = मुंजो कताब पढ़ने कठे ऐनका री ज़रूरत पौंईं ।
 1	मुंजो	_	PROPN	NNPC	_	2	compound	_	_
 2	कताब	_	PROPN	NNP	_	3	obj	_	_
@@ -797,7 +797,7 @@
 8	पौंईं	_	VERB	VM	_	0	root	_	_
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 39
+# sent_id = 56
 # text = बेटी सौगी आउले बल्लड़े विच टेनिस खेलया करईं थी।
 1	बेटी	_	NOUN	NN	_	8	nsubj	_	_
 2	सौगी	_	PROPN	NNPC	_	6	compound	_	_
@@ -810,7 +810,7 @@
 9	थी	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 40
+# sent_id = 57
 # text = तिन्हे जनानीए मेरे कने कमरे विच खरे ढंगा के गल्ल नी किती।
 1	तिन्हे	_	PROPN	NNPC	_	2	compound	_	_
 2	जनानीए	_	PROPN	NNP	_	12	nsubj	_	_
@@ -826,7 +826,7 @@
 12	किती	_	VERB	VM	_	0	root	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
-# sent_id = 41
+# sent_id = 58
 # text = एस घणे जंगला विच बरखा किधीयो लगी  गई ?
 1	एस	_	PROPN	NNPC	_	6	compound	_	_
 2	घणे	_	PROPN	NNPC	_	6	compound	_	_
@@ -838,7 +838,7 @@
 8	गई	_	AUX	VAUX	_	7	aux	_	_
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 42
+# sent_id = 59
 # text = तेसा रा लाड़ा फ़ौजी हा कने खरा आदमी हा।
 1	तेसा	_	PROPN	NNPC	_	6	compound	_	_
 2	रा	_	PROPN	NNPC	_	6	compound	_	_
@@ -851,7 +851,7 @@
 9	हा	_	AUX	VM	_	8	cop	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 43
+# sent_id = 60
 # text = पता नी मुआ तोपदा बी लगीरा कि चली गया घरा जो।
 1	पता	_	NOUN	NN	_	6	nsubj	_	_
 2	नी	_	PART	NEG	_	6	advmod	_	_
