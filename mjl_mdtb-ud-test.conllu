@@ -2397,10 +2397,10 @@
 4	स्थान	_	NOUN	NN	_	14	nsubj	_	_
 5	कांगड़े	_	PROPN	NNP	_	4	nmod	_	_
 6	विच	_	ADP	PSP	_	5	case	_	_
-7	कुलदेवी	_	NOUN	NN	_	10	conj	_	_
-8	या	_	CCONJ	CC	_	10	cc	_	_
+7	कुलदेवी	_	NOUN	NN	_	12	nmod	_	_
+8	या	_	CCONJ	CC	_	7	cc	_	_
 9	अधिष्ठात्री	_	ADJ	JJ	_	10	amod	_	_
-10	देविया	_	NOUN	NN	_	12	nmod	_	_
+10	देविया	_	NOUN	NN	_	7	conj	_	_
 11	रे	_	ADP	PSP	_	10	case	_	_
 12	रूपा	_	NOUN	NN	_	14	obl	_	_
 13	विच	_	ADP	PSP	_	12	case	_	_
@@ -3333,7 +3333,7 @@
 3	जे	_	SCONJ	IN	_	4	mark	_	_
 4	सम्ह्ळी	_	VERB	VM	_	6	advcl	_	_
 5	के	_	ADP	PSP	_	4	case	_	_
-6	चलणा	_	VERB	VM	_	0	root	_	_
+6	चलणा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 278
