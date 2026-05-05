@@ -1,4 +1,259 @@
 # sent_id = 1
+# text = हांजी दोस्तो नमस्ते,  होर क्या हाल हे तुसारे, ठीक ठाक हे तुसे?
+1	हांजी	_	PROPN	NNP	_	2	nmod	_	_
+2	दोस्तो	_	INTJ	INJ	_	5	amod	_	_
+3	नमस्ते	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
+4	,	_	PUNCT	SYM	_	3	punct	_	_
+5	होर	_	NOUN	NN	_	8	nsubj	_	_
+6	क्या	_	DET	WQ	_	7	det	_	_
+7	हाल	_	NOUN	NN	_	8	nsubj	_	_
+8	हे	_	VERB	VM	_	0	root	_	_
+9	तुसारे	_	PRON	PRP	_	8	punct	_	SpaceAfter=No
+10	,	_	PUNCT	SYM	_	9	punct	_	_
+11	ठीक	_	ADJ	JJC	_	12	compound	_	_
+12	ठाक	_	ADJ	JJ	_	13	xcomp	_	_
+13	हे	_	VERB	VM	_	8	advcl	_	_
+14	तुसे	_	INTJ	INJ	_	13	compound	_	SpaceAfter=No
+15	?	_	PUNCT	SYM	_	8	punct	_	_
+
+# sent_id = 6
+# text = आसौ आपणे परिवारा कठे क्या क्या करना चहिये, पता हा ना सबणी जो।
+1	आसौ	_	ADV	RB	_	8	advmod	_	_
+2	आपणे	_	PRON	PRP	_	3	nmod:poss	_	_
+3	परिवारा	_	NOUN	NN	_	7	obj	_	_
+4	कठे	_	ADV	RB	_	7	advmod	_	_
+5	क्या	_	PRON	WQ	_	7	obj	_	_
+6	क्या	_	PRON	WQ	_	5	redup	_	_
+7	करना	_	VERB	VM	_	8	xcomp	_	_
+8	चहिये	_	VERB	VM	_	0	root	_	SpaceAfter=No
+9	,	_	PUNCT	SYM	_	8	punct	_	_
+10	पता	_	NOUN	NN	_	13	nsubj	_	_
+11	हा	_	AUX	VM	_	13	cop	_	_
+12	ना	_	PART	RP	_	13	discourse	_	_
+13	सबणी	_	PRON	PRP	_	8	parataxis	_	_
+14	जो।	_	PUNCT	SYM	_	8	punct	_	_
+
+# sent_id = 8
+# text = एक गल होर ही, जे तुसौ मनणी पौणी हो।
+1	एक	_	NUM	QC	_	2	nummod	_	_
+2	गल	_	NOUN	NN	_	4	nsubj	_	_
+3	होर	_	ADJ	JJ	_	2	amod	_	_
+4	ही	_	PART	RP	_	10	discourse	_	SpaceAfter=No
+5	,	_	PUNCT	SYM	_	10	punct	_	_
+6	जे	_	SCONJ	CC	_	9	mark	_	_
+7	तुसौ	_	PRON	PRP	_	9	nsubj	_	_
+8	मनणी	_	NOUN	NN	_	9	obj	_	_
+9	पौणी	_	VERB	VM	_	10	advcl	_	_
+10	हो	_	VERB	VM	_	0	root	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	10	punct	_	_
+
+# sent_id = 9
+# text = ऐ जे तुसे आपणी जेबा टुणटुणा पाईरा, ऐजो बंद करी देया।
+1	ऐ	_	PRON	PRP	_	7	discourse	_	_
+2	जे	_	SCONJ	CC	_	7	mark	_	_
+3	तुसे	_	PRON	PRP	_	7	nsubj	_	_
+4	आपणी	_	PRON	PRP	_	5	nmod:poss	_	_
+5	जेबा	_	NOUN	NN	_	7	obj	_	_
+6	टुणटुणा	_	NOUN	NN	_	5	compound	_	_
+7	पाईरा	_	VERB	VM	_	11	advcl	_	_
+8	,	_	PUNCT	SYM	_	11	punct	_	_
+9	ऐजो	_	PRON	PRP	_	11	obj	_	_
+10	बंद	_	ADJ	JJ	_	11	xcomp	_	_
+11	करी	_	VERB	VM	_	0	root	_	_
+12	देया	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	11	punct	_	_
+
+# sent_id = 11 
+# text = ता करीए शुरू?
+1	ता	_	PART	RP	_	2	discourse	_	_
+2	करीए	_	VERB	VM	_	0	root	_	_
+3	शुरू	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
+4	?	_	PUNCT	SYM	_	2	punct	_	_
+
+# sent_id = 13 
+# text = ठीक हा तेबे, जेड़ा तुसौ मैं बोलया तेड़ा करना हो।
+1	ठीक	_	ADJ	JJ	_	2	xcomp	_	_
+2	हा	_	VERB	VM	_	10	discourse	_	_
+3	तेबे	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	SYM	_	10	punct	_	_
+5	जेड़ा	_	PRON	PRP	_	8	obj	_	_
+6	तुसौ	_	PRON	PRP	_	8	nsubj	_	_
+7	मैं	_	PRON	PRP	_	8	obl	_	_
+8	बोलया	_	VERB	VM	_	10	advcl	_	_
+9	तेड़ा	_	PRON	PRP	_	10	obj	_	_
+10	करना	_	VERB	VM	_	0	root	_	_
+11	हो	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	10	punct	_	_
+
+# sent_id = 17 
+# text = हां आरा तेबे तकौ थोड़ा खेली लईयें, आई जांगी ता हाक पाई देया।
+1	हां	_	INTJ	INJ	_	7	discourse	_	_
+2	आरा	_	ADV	RB	_	7	advmod	_	_
+3	तेबे	_	ADV	RB	_	7	advmod	_	_
+4	तकौ	_	ADV	RB	_	7	advmod	_	_
+5	थोड़ा	_	ADV	RB	_	6	advmod	_	_
+6	खेली	_	VERB	VM	_	7	xcomp	_	_
+7	लईयें	_	VERB	VM	_	13	advcl	_	SpaceAfter=No
+8	,	_	PUNCT	SYM	_	13	punct	_	_
+9	आई	_	VERB	VM	_	13	advcl	_	_
+10	जांगी	_	AUX	VAUX	_	9	aux	_	_
+11	ता	_	SCONJ	CC	_	13	mark	_	_
+12	हाक	_	NOUN	NN	_	13	obj	_	_
+13	पाई	_	VERB	VM	_	0	root	_	_
+14	देया	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	13	punct	_	_
+
+# sent_id = 18 
+# text = ओए, एक गल ता दस मुंजो?
+1	ओए	_	INTJ	INJ	_	7	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	SYM	_	1	punct	_	_
+3	एक	_	NUM	QC	_	4	nummod	_	_
+4	गल	_	NOUN	NN	_	7	obj	_	_
+5	ता	_	PART	RP	_	7	discourse	_	_
+6	मुंजो	_	PRON	PRP	_	7	iobj	_	_
+7	दस	_	VERB	VM	_	0	root	_	SpaceAfter=No
+8	?	_	PUNCT	SYM	_	7	punct	_	_
+
+# sent_id = 19 
+# text = तेरा ताऊ ओए ध्याड़ हे लगीरा हुआं भांडे मांजदा?
+1	तेरा	_	PRON	PRP	_	2	nmod:poss	_	_
+2	ताऊ	_	NOUN	NN	_	9	nsubj	_	_
+3	ओए	_	INTJ	INJ	_	9	discourse	_	_
+4	ध्याड़	_	NOUN	NN	_	9	obl	_	_
+5	हे	_	AUX	VAUX	_	9	aux	_	_
+6	लगीरा	_	AUX	VAUX	_	9	aux	_	_
+7	हुआं	_	AUX	VAUX	_	9	aux	_	_
+8	भांडे	_	NOUN	NN	_	9	obj	_	_
+9	मांजदा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+10	?	_	PUNCT	SYM	_	9	punct	_	_
+
+
+# sent_id = 20 
+# text = तुजो बी लगी गया पता ऐस गला राम, कुने दसया ?
+1	तुजो	_	PRON	PRP	_	3	nsubj	_	_
+2	बी	_	PART	RP	_	1	discourse	_	_
+3	लगी	_	VERB	VM	_	0	root	_	_
+4	गया	_	AUX	VAUX	_	3	aux	_	_
+5	पता	_	NOUN	NN	_	3	obj	_	_
+6	ऐस	_	PRON	PRP	_	7	nmod	_	_
+7	गला	_	NOUN	NN	_	5	nmod	_	_
+8	राम	_	PROPN	NNP	_	3	vocative	_	SpaceAfter=No
+9	,	_	PUNCT	SYM	_	3	punct	_	_
+10	कुने	_	PRON	PRP	_	11	nsubj	_	_
+11	दसया	_	VERB	VM	_	3	parataxis	_	_
+12	?	_	PUNCT	SYM	_	3	punct	_	_
+
+# sent_id = 21 
+# text = आरा राती ठलठलाट था लगीरा बडा भारी हांऊ गया डरी।
+1	आरा	_	ADV	RB	_	3	advmod	_	_
+2	राती	_	NOUN	NN	_	3	obl	_	_
+3	ठलठलाट	_	NOUN	NN	_	0	root	_	_
+4	था	_	AUX	VAUX	_	3	cop	_	_
+5	लगीरा	_	AUX	VAUX	_	9	aux	_	_
+6	बडा	_	ADJ	JJ	_	7	amod	_	_
+7	भारी	_	ADJ	JJ	_	9	xcomp	_	_
+8	हांऊ	_	PRON	PRP	_	9	nsubj	_	_
+9	गया	_	VERB	VM	_	3	parataxis	_	_
+10	डरी	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	3	punct	_	_
+
+# sent_id = 23 
+# text = भरी टब था थईरा भांडे रा हो मांजदा लगीरा था बच्यारा।
+1	भरी	_	ADJ	JJ	_	2	amod	_	_
+2	टब	_	NOUN	NN	_	0	root	_	_
+3	था	_	AUX	VAUX	_	2	cop	_	_
+4	थईरा	_	ADJ	JJ	_	5	amod	_	_
+5	भांडे	_	NOUN	NN	_	9	obj	_	_
+6	रा	_	ADP	IN	_	5	case	_	_
+7	हो	_	AUX	VAUX	_	9	aux	_	_
+8	मांजदा	_	VERB	VM	_	9	xcomp	_	_
+9	लगीरा	_	VERB	VM	_	2	parataxis	_	_
+10	था	_	AUX	VAUX	_	9	aux	_	_
+11	बच्यारा	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	2	punct	_	_
+
+# sent_id = 25 
+# text = बले आरा मेरी लाड़ी ही बडी इदी कठे हांऊ हे मांजाहा भांडे।
+1	बले	_	INTJ	INJ	_	12	discourse	_	_
+2	आरा	_	ADV	RB	_	12	advmod	_	_
+3	मेरी	_	PRON	PRP	_	4	nmod:poss	_	_
+4	लाड़ी	_	NOUN	NN	_	12	nsubj	_	_
+5	ही	_	PART	RP	_	4	discourse	_	_
+6	बडी	_	ADJ	JJ	_	12	xcomp	_	_
+7	इदी	_	PRON	PRP	_	8	nmod	_	_
+8	कठे	_	NOUN	NN	_	12	obl	_	_
+9	हांऊ	_	PRON	PRP	_	12	nsubj	_	_
+10	हे	_	AUX	VAUX	_	12	aux	_	_
+11	मांजाहा	_	VERB	VM	_	12	xcomp	_	_
+12	भांडे	_	VERB	VM	_	0	root	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	12	punct	_	_
+
+# sent_id = 27 
+# text = जनानीया अगे नी चलदा कोसीरा बस ओ आरा, जनानीया ही बडी।
+1	जनानीया	_	NOUN	NN	_	4	nsubj	_	_
+2	अगे	_	ADV	RB	_	4	advmod	_	_
+3	नी	_	PART	RP	_	4	advmod	_	_
+4	चलदा	_	VERB	VM	_	0	root	_	_
+5	कोसीरा	_	ADV	RB	_	4	advmod	_	_
+6	बस	_	PART	RP	_	7	discourse	_	_
+7	ओ	_	PRON	PRP	_	4	discourse	_	_
+8	आरा	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
+9	,	_	PUNCT	SYM	_	4	punct	_	_
+10	जनानीया	_	NOUN	NN	_	12	nsubj	_	_
+11	ही	_	PART	RP	_	10	discourse	_	_
+12	बडी	_	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	4	punct	_	_
+
+
+# sent_id = 28 
+# text = कुने बोलया जे मरद बडे हुंए, तू बी गप्पा मारां ।
+1	कुने	_	PRON	PRP	_	2	nsubj	_	_
+2	बोलया	_	VERB	VM	_	11	parataxis	_	_
+3	जे	_	SCONJ	CC	_	6	mark	_	_
+4	मरद	_	NOUN	NN	_	6	nsubj	_	_
+5	बडे	_	ADJ	JJ	_	6	xcomp	_	_
+6	हुंए	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	11	punct	_	_
+8	तू	_	PRON	PRP	_	11	nsubj	_	_
+9	बी	_	PART	RP	_	8	discourse	_	_
+10	गप्पा	_	NOUN	NN	_	11	obj	_	_
+11	मारां	_	VERB	VM	_	0	root	_	_
+12	।	_	PUNCT	SYM	_	11	punct	_	_
+
+# sent_id = 55
+# text = ठाकर भाई आज ता बडी भारी बरखा लगी हैं?
+1	ठाकर	_	PROPN	NNP	_	2	compound	_	_
+2	भाई	_	NOUN	NN	_	8	vocative	_	_
+3	आज	_	ADV	RB	_	8	advmod	_	_
+4	ता	_	PART	RP	_	8	discourse	_	_
+5	बडी	_	ADV	RB	_	6	advmod	_	_
+6	भारी	_	ADJ	JJ	_	7	amod	_	_
+7	बरखा	_	NOUN	NN	_	8	nsubj	_	_
+8	लगी	_	VERB	VM	_	0	root	_	_
+9	हैं	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
+10	?	_	PUNCT	SYM	_	8	punct	_
+
+# sent_id = 58
+# text = सुण तू ऐड़ा करया ना जियां हे कमरूनागा आऊणा ना खूब सारे फूल सटणे गासा ला।
+1	सुण	_	VERB	VM	_	16	discourse	_	_
+2	तू	_	PRON	PRP	_	4	nsubj	_	_
+3	ऐड़ा	_	ADV	RB	_	4	advmod	_	_
+4	करया	_	VERB	VM	_	16	advcl	_	_
+5	ना	_	PART	RP	_	4	discourse	_	_
+6	जियां	_	SCONJ	CC	_	10	mark	_	_
+7	हे	_	PART	RP	_	10	discourse	_	_
+8	कमरूनागा	_	PROPN	NNP	_	10	nsubj	_	_
+9	आऊणा	_	VERB	VM	_	10	xcomp	_	_
+10	ना	_	VERB	VM	_	4	advcl	_	_
+11	खूब	_	ADV	RB	_	12	advmod	_	_
+12	सारे	_	DET	QF	_	13	det	_	_
+13	फूल	_	NOUN	NN	_	16	obj	_	_
+14	सटणे	_	VERB	VM	_	16	xcomp	_	_
+15	गासा	_	NOUN	NN	_	14	obl	_	_
+16	ला	_	VERB	VM	_	0	root	_	SpaceAfter=No
+17	।	_	PUNCT	SYM	_	16	punct	_	_
+
+# sent_id = 1
 # text = तै तिन्हा आपणें रूसिरे रिश्तेदारां जो रोटी खुआणे ते बी नाह करी दीती !
 1	तै	_	PROPN	NNPC	_	11	compound	_	_
 2	तिन्हा	_	PROPN	NNPC	_	11	compound	_	_
@@ -3374,5 +3629,179 @@
 6	नेडे	_	ADJ	JJ	_	0	root	_	_
 7	नी	_	PART	NEG	_	6	advmod	_	_
 8	हुन्दे	_	AUX	VM	_	6	cop	_	_
+
+# sent_id = 68
+# text = अच्छा सुणा मेरी गल, मा बोलणा था तुसौ जे आसा रे घरा आया करंयें देओ ना।
+1	अच्छा	_	INTJ	INJ	_	4	discourse	_	_
+2	सुणा	_	VERB	VM	_	4	discourse	_	_
+3	मेरी	_	PRON	PRP	_	4	obj	_	_
+4	गल	_	NOUN	NN	_	16	discourse	_	SpaceAfter=No
+5	,	_	PUNCT	SYM	_	16	punct	_	_
+6	मा	_	PRON	PRP	_	7	nsubj	_	_
+7	बोलणा	_	VERB	VM	_	16	advcl	_	_
+8	था	_	AUX	VAUX	_	7	aux	_	_
+9	तुसौ	_	PRON	PRP	_	14	nsubj	_	_
+10	जे	_	SCONJ	CC	_	14	mark	_	_
+11	आसा	_	PRON	PRP	_	13	nmod	_	_
+12	रे	_	ADP	PSP	_	13	case	_	_
+13	घरा	_	NOUN	NN	_	14	obl	_	_
+14	आया	_	VERB	VM	_	7	ccomp	_	_
+15	करंयें	_	AUX	VAUX	_	14	aux	_	_
+16	देओ	_	VERB	VM	_	0	root	_	_
+17	ना	_	PART	RP	_	16	discourse	_	SpaceAfter=No
+18	।	_	PUNCT	SYM	_	16	punct	_	_
+
+# sent_id = 430
+# text = तू मेरी लाड़ी ही कि कोसी होरी री, तुजो नी पता जे हांऊ केड़ा हा।
+1	तू	_	PRON	PRP	_	3	nsubj	_	_
+2	मेरी	_	PRON	PRP	_	3	nmod:poss	_	_
+3	लाड़ी	_	NOUN	NN	_	0	root	_	_
+4	ही	_	PART	RP	_	3	discourse	_	_
+5	कि	_	SCONJ	CC	_	7	mark	_	_
+6	कोसी	_	ADV	RB	_	7	advmod	_	_
+7	होरी	_	VERB	VM	_	3	advcl	_	_
+8	री	_	PART	RP	_	7	discourse	_	SpaceAfter=No
+9	,	_	PUNCT	SYM	_	3	punct	_	_
+10	तुजो	_	PRON	PRP	_	12	nsubj	_	_
+11	नी	_	PART	RP	_	12	advmod	_	_
+12	पता	_	NOUN	NN	_	3	parataxis	_	_
+13	जे	_	SCONJ	CC	_	15	mark	_	_
+14	हांऊ	_	PRON	PRP	_	15	nsubj	_	_
+15	केड़ा	_	PRON	WQ	_	12	ccomp	_	_
+16	हा	_	AUX	VAUX	_	15	cop	_	SpaceAfter=No
+17	।	_	PUNCT	SYM	_	3	punct	_	_
+
+# sent_id = 431
+# text = मुंजो क्या पता जे तुसे केड़े केड़े कांड कितीरे?
+1	मुंजो	_	PRON	PRP	_	3	nsubj	_	_
+2	क्या	_	PRON	WQ	_	3	det	_	_
+3	पता	_	NOUN	NN	_	0	root	_	_
+4	जे	_	SCONJ	CC	_	9	mark	_	_
+5	तुसे	_	PRON	PRP	_	9	nsubj	_	_
+6	केड़े	_	PRON	WQ	_	8	det	_	_
+7	केड़े	_	PRON	WQ	_	6	redup	_	_
+8	कांड	_	NOUN	NN	_	9	obj	_	_
+9	कितीरे	_	VERB	VM	_	3	ccomp	_	SpaceAfter=No
+10	?	_	PUNCT	SYM	_	3	punct	_	_
+
+# sent_id = 580
+# text = ऐडी झट नी चढदी मुंजो ओए, एक बोतल होर खोल।
+1	ऐडी	_	ADV	RB	_	4	advmod	_	_
+2	झट	_	ADV	RB	_	4	advmod	_	_
+3	नी	_	PART	RP	_	4	advmod	_	_
+4	चढदी	_	VERB	VM	_	0	root	_	_
+5	मुंजो	_	PRON	PRP	_	4	iobj	_	_
+6	ओए	_	INTJ	INJ	_	4	discourse	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	4	punct	_	_
+8	एक	_	NUM	QC	_	9	nummod	_	_
+9	बोतल	_	NOUN	NN	_	11	obj	_	_
+10	होर	_	ADV	RB	_	11	advmod	_	_
+11	खोल	_	VERB	VM	_	4	conj	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	4	punct	_	_
+
+# sent_id = 581
+# text = आरा जादा सराब पीऊंआ ना मेरा दमाग ठस हुई जां।
+1	आरा	_	ADV	RB	_	4	advmod	_	_
+2	जादा	_	ADV	RB	_	4	advmod	_	_
+3	सराब	_	NOUN	NN	_	4	obj	_	_
+4	पीऊंआ	_	VERB	VM	_	9	advcl	_	_
+5	ना	_	PART	RP	_	4	advmod	_	_
+6	मेरा	_	PRON	PRP	_	7	nmod:poss	_	_
+7	दमाग	_	NOUN	NN	_	9	nsubj	_	_
+8	ठस	_	ADV	RB	_	9	advmod	_	_
+9	हुई	_	VERB	VM	_	0	root	_	_
+10	जां	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	9	punct	_	_
+
+ sent_id = 1041
+# text = ऐबे तू आपणां बोरिया बिस्तर चक ऐते हो चली जा ।
+1	ऐबे	_	ADV	RB	_	6	advmod	_	_
+2	तू	_	PRON	PRP	_	6	nsubj	_	_
+3	आपणां	_	PRON	PRP	_	5	nmod:poss	_	_
+4	बोरिया	_	NOUN	NN	_	5	compound	_	_
+5	बिस्तर	_	NOUN	NN	_	6	obj	_	_
+6	चक	_	VERB	VM	_	0	root	_	_
+7	ऐते	_	ADV	RB	_	9	advmod	_	_
+8	हो	_	AUX	VAUX	_	9	aux	_	_
+9	चली	_	VERB	VM	_	6	conj	_	_
+10	जा	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	6	punct	_	_
+
+# sent_id = 1042
+# text = आरा टोबी ऐड़ा मत बोल, तू ता मेरा जिगरी दोस्त हा।
+1	आरा	_	INTJ	INJ	_	5	discourse	_	_
+2	टोबी	_	PROPN	NNP	_	5	vocative	_	_
+3	ऐड़ा	_	ADV	RB	_	5	advmod	_	_
+4	मत	_	PART	NEG	_	5	advmod	_	_
+5	बोल	_	VERB	VM	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	SYM	_	5	punct	_	_
+7	तू	_	PRON	PRP	_	11	nsubj	_	_
+8	ता	_	PART	RP	_	11	discourse	_	_
+9	मेरा	_	PRON	PRP	_	11	nmod:poss	_	_
+10	जिगरी	_	ADJ	JJ	_	11	amod	_	_
+11	दोस्त	_	NOUN	NN	_	5	parataxis	_	_
+12	हा	_	AUX	VAUX	_	11	cop	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	5	punct	_	_
+
+# sent_id = 1040
+# text = ऐड़ा बांका मौका था आज से बी गवाई ता तैं।
+1	ऐड़ा	_	ADJ	JJ	_	2	amod	_	_
+2	बांका	_	ADJ	JJ	_	3	amod	_	_
+3	मौका	_	NOUN	NN	_	0	root	_	_
+4	था	_	AUX	VAUX	_	3	cop	_	_
+5	आज	_	ADV	RB	_	3	obl	_	_
+6	से	_	ADP	PSP	_	5	case	_	_
+7	बी	_	PART	RP	_	5	discourse	_	_
+8	गवाई	_	VERB	VM	_	3	acl	_	_
+9	ता	_	PART	RP	_	8	discourse	_	_
+10	तैं	_	PRON	PRP	_	8	nsubj	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	3	punct	_	_
+
+# sent_id = 1036
+# text = डरपोक केतकी रा, ओ ओए गधेयो क्या लपोछी रे ऐजो।
+1	डरपोक	_	ADJ	JJ	_	2	amod	_	_
+2	केतकी	_	NOUN	NN	_	11	vocative	_	_
+3	रा	_	PART	RP	_	2	discourse	_	SpaceAfter=No
+4	,	_	PUNCT	SYM	_	11	punct	_	_
+5	ओ	_	INTJ	INJ	_	11	discourse	_	_
+6	ओए	_	INTJ	INJ	_	11	discourse	_	_
+7	गधेयो	_	NOUN	NN	_	11	vocative	_	_
+8	क्या	_	PRON	WQ	_	11	obj	_	_
+9	लपोछी	_	VERB	VM	_	11	xcomp	_	_
+10	रे	_	PART	RP	_	11	discourse	_	_
+11	ऐजो	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	11	punct	_	_
+
+# sent_id = 1030
+# text = खबरदार जे तुसे मेरे नेडे आए ता , पिछे हटी जाओ।
+1	खबरदार	_	INTJ	INJ	_	6	discourse	_	_
+2	जे	_	SCONJ	CC	_	4	mark	_	_
+3	तुसे	_	PRON	PRP	_	4	nsubj	_	_
+4	मेरे	_	PRON	PRP	_	5	nmod	_	_
+5	नेडे	_	NOUN	NN	_	6	obl	_	_
+6	आए	_	VERB	VM	_	0	root	_	_
+7	ता	_	PART	RP	_	6	discourse	_	SpaceAfter=No
+8	,	_	PUNCT	SYM	_	10	punct	_	_
+9	पिछे	_	ADV	RB	_	10	advmod	_	_
+10	हटी	_	VERB	VM	_	6	parataxis	_	_
+11	जा	_	AUX	VAUX	_	10	aux	_	_
+12	ओ	_	PART	RP	_	10	discourse	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	6	punct	_	_
+
+# sent_id = 1027
+# text = से एक राजकुमारी हो तू एक नौकर, ऐड़ा कियां हुई जाणां।
+1	से	_	PRON	PRP	_	4	mark	_	_
+2	एक	_	NUM	QC	_	3	nummod	_	_
+3	राजकुमारी	_	NOUN	NN	_	4	nsubj	_	_
+4	हो	_	VERB	VM	_	11	advcl	_	_
+5	तू	_	PRON	PRP	_	7	nsubj	_	_
+6	एक	_	NUM	QC	_	7	nummod	_	_
+7	नौकर	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+8	,	_	PUNCT	SYM	_	11	punct	_	_
+9	ऐड़ा	_	ADV	RB	_	11	advmod	_	_
+10	कियां	_	PRON	WQ	_	11	advmod	_	_
+11	हुई	_	VERB	VM	_	0	root	_	_
+12	जाणां	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
+13	।	_	PUNCT	SYM	_	11	punct	_	_
 9	थे	_	AUX	VM	_	6	aux	_	_
 10	।	_	PUNCT	SYM	_	6	punct	_	_
