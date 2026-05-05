@@ -1,19 +1,19 @@
 # sent_id = 1
-# text = हांजी दोस्तो नमस्ते,  होर क्या हाल हे तुसारे, ठीक ठाक हे तुसे?
-1	हांजी	_	PROPN	NNP	_	2	nmod	_	_
-2	दोस्तो	_	INTJ	INJ	_	5	amod	_	_
-3	नमस्ते	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
-4	,	_	PUNCT	SYM	_	3	punct	_	_
-5	होर	_	NOUN	NN	_	8	nsubj	_	_
+# text = हांजी दोस्तो नमस्ते, होर क्या हाल हे तुसारे, ठीक ठाक हे तुसे?
+1	हांजी	_	INTJ	INJ	_	8	discourse	_	_
+2	दोस्तो	_	NOUN	NN	_	8	vocative	_	_
+3	नमस्ते	_	INTJ	INJ	_	8	discourse	_	SpaceAfter=No
+4	,	_	PUNCT	SYM	_	8	punct	_	_
+5	होर	_	PRON	PRP	_	7	nsubj	_	_
 6	क्या	_	DET	WQ	_	7	det	_	_
 7	हाल	_	NOUN	NN	_	8	nsubj	_	_
 8	हे	_	VERB	VM	_	0	root	_	_
-9	तुसारे	_	PRON	PRP	_	8	punct	_	SpaceAfter=No
-10	,	_	PUNCT	SYM	_	9	punct	_	_
-11	ठीक	_	ADJ	JJC	_	12	compound	_	_
+9	तुसारे	_	PRON	PRP	_	8	iobj	_	SpaceAfter=No
+10	,	_	PUNCT	SYM	_	8	punct	_	_
+11	ठीक	_	ADJ	JJ	_	12	amod	_	_
 12	ठाक	_	ADJ	JJ	_	13	xcomp	_	_
-13	हे	_	VERB	VM	_	8	advcl	_	_
-14	तुसे	_	INTJ	INJ	_	13	compound	_	SpaceAfter=No
+13	हे	_	VERB	VM	_	8	parataxis	_	_
+14	तुसे	_	PRON	PRP	_	13	nsubj	_	SpaceAfter=No
 15	?	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 2
