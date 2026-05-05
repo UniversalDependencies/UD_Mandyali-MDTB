@@ -117,7 +117,7 @@
 
 # sent_id = 9
 # text = तेरा ताऊ ओए ध्याड़ हे लगीरा हुआं भांडे मांजदा?
-1	तेरा	_	PRON	PRP	_	2	nmod:poss	_	_
+1	तेरा	_	DET	PRP$	_	2	det:poss	_	_
 2	ताऊ	_	NOUN	NN	_	9	nsubj	_	_
 3	ओए	_	INTJ	INJ	_	9	discourse	_	_
 4	ध्याड़	_	NOUN	NN	_	9	obl	_	_
@@ -176,13 +176,13 @@
 # text = बले आरा मेरी लाड़ी ही बडी इदी कठे हांऊ हे मांजाहा भांडे।
 1	बले	_	INTJ	INJ	_	12	discourse	_	_
 2	आरा	_	ADV	RB	_	12	advmod	_	_
-3	मेरी	_	PRON	PRP	_	4	nmod:poss	_	_
+3	मेरी	_	DET	PRP$	_	4	det	_	_
 4	लाड़ी	_	NOUN	NN	_	12	nsubj	_	_
 5	ही	_	PART	RP	_	4	discourse	_	_
 6	बडी	_	ADJ	JJ	_	12	xcomp	_	_
 7	इदी	_	PRON	PRP	_	8	nmod	_	_
 8	कठे	_	NOUN	NN	_	12	obl	_	_
-9	हांऊ	_	PRON	PRP	_	12	nsubj	_	_
+9	हांऊ	_	PRON	PRP	_	12	discourse	_	_
 10	हे	_	AUX	VAUX	_	12	aux	_	_
 11	मांजाहा	_	VERB	VM	_	12	xcomp	_	_
 12	भांडे	_	VERB	VM	_	0	root	_	SpaceAfter=No
