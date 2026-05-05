@@ -1867,19 +1867,19 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 144
-# text = तुसा जो देखुआं से बी किछ न किछ पुठ्ठे काम करदा रैहयां ।
+# text = तुसा जो देखुआं से बी किछ न किछ पुठ्ठे काम करदा रैहयां।
 1	तुसा	_	PRON	PRP	_	12	nsubj	_	_
 2	जो	_	SCONJ	IN	_	5	mark	_	_
 3	देखुआं	_	VERB	VM	_	5	advcl	_	_
 4	से	_	AUX	VAUX	_	3	aux	_	_
 5	बी	_	PART	RP	_	12	advmod	_	_
-6	किछ	_	PRON	PRP	_	12	obj	_	_
-7	न	_	PART	NEG	_	12	advmod	_	_
-8	किछ	_	PRON	PRP	_	12	obj	_	_
+6	किछ	_	DET	PRP	_	10	det	_	_
+7	न	_	PART	NEG	_	6	advmod	_	_
+8	किछ	_	PART	RP	_	6	fixed	_	_
 9	पुठ्ठे	_	ADJ	JJ	_	10	amod	_	_
 10	काम	_	NOUN	NN	_	12	obj	_	_
 11	करदा	_	AUX	VAUX	_	12	aux	_	_
-12	रैहयां	_	VERB	VM	_	0	root	_	_
+12	रैहयां	_	VERB	VM	_	0	root	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 145
@@ -3380,7 +3380,7 @@
 1	राजु	_	NOUN	NN	_	4	nsubj	_	_
 2	जो	_	PRON	PRP	_	4	case	_	_
 3	भेजीरा	_	NOUN	NN	_	4	compound	_	_
-4	ऐ	_	VERB	VM	_	0	root	_	_
+4	ऐ	_	VERB	VM	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 282
@@ -3522,7 +3522,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 296
-# text = इन्हां प्रोग्रामां रा दोहरा फायदा आसारे मठेया  जो हुआँ ।
+# text = इन्हां प्रोग्रामां रा दोहरा फायदा आसारे मठेया जो हुआँ ।
 1	इन्हां	_	DET	DEM	_	2	det	_	_
 2	प्रोग्रामां	_	NOUN	NN	_	5	nmod	_	_
 3	रा	_	ADP	PSP	_	2	case	_	_
