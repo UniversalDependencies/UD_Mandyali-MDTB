@@ -636,21 +636,18 @@
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 45
-# text = हो सौगी तिन्हे तेस चौहाना जो धरैंस रखणे री सलाह बी देई दीती।
-1	हो	_	AUX	VAUX	_	12	aux	_	_
-2	सौगी	_	ADV	RB	_	12	advmod	_	_
-3	तिन्हे	_	PRON	PRP	_	12	nsubj	_	_
-4	तेस	_	PRON	PRP	_	5	nmod	_	_
-5	चौहाना	_	PROPN	NNP	_	12	obj	_	_
-6	जो	_	ADP	PSP	_	7	case	_	_
-7	धरैंस	_	NOUN	NN	_	8	obj	_	_
-8	रखणे	_	VERB	VM	_	10	acl	_	_
-9	री	_	ADP	PSP	_	10	case	_	_
-10	सलाह	_	NOUN	NN	_	12	obj	_	_
-11	बी	_	PART	RP	_	12	discourse	_	_
-12	देई	_	VERB	VM	_	0	root	_	_
-13	दीती	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
-14	।	_	PUNCT	SYM	_	12	punct	_	_
+# text = तू ता बड़ी बांकी देखणेंयो मुईए, सकल देखिरी आपणीं।
+1	तू	_	PRON	PRP	_	3	nsubj	_	_
+2	ता	_	PART	RP	_	3	discourse	_	_
+3	बड़ी	_	ADV	RB	_	4	advmod	_	_
+4	बांकी	_	ADJ	JJ	_	6	xcomp	_	_
+5	देखणेंयो	_	VERB	VM	_	6	advcl	_	_
+6	मुईए	_	INTJ	INJ	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	6	punct	_	_
+8	सकल	_	NOUN	NN	_	9	obj	_	_
+9	देखिरी	_	VERB	VM	_	6	parataxis	_	_
+10	आपणीं	_	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 46
 # text = इदी कठे ता लोकां जो तिन्हारी पैदावार रा घट्ट मोल मिल्हां।
@@ -1359,7 +1356,7 @@
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 100
-# text = ऐड़ा बोलऐं जे, चोरी री सबते ज़ादा शिकायतां इन्हा लोका री थी।
+# text = ऐड़ा बोलऐं जे, चोरी री सबते ज़ादा शिकायतां इन्हा लोका थी।
 1	ऐड़ा	_	ADV	RB	_	2	advmod	_	_
 2	बोलऐं	_	VERB	VM	_	0	root	_	_
 3	जे	_	SCONJ	IN	_	12	mark	_	SpaceAfter=No
@@ -1866,20 +1863,19 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 144
-# text = तुसा जो देखुआं से बी किछ न किछ पुठ्ठे काम करदा रैहयां।
-1	तुसा	_	PRON	PRP	_	12	nsubj	_	_
-2	जो	_	SCONJ	IN	_	5	mark	_	_
-3	देखुआं	_	VERB	VM	_	5	advcl	_	_
+# text = तुसा जो देखुआं से बी किछ न पुठ्ठे काम करदा रैहयां।
+1	तुसा	_	PRON	PRP	_	11	nsubj	_	_
+2	जो	_	SCONJ	IN	_	4	mark	_	_
+3	देखुआं	_	VERB	VM	_	4	advcl	_	_
 4	से	_	AUX	VAUX	_	3	aux	_	_
-5	बी	_	PART	RP	_	12	advmod	_	_
-6	किछ	_	DET	PRP	_	10	det	_	_
+5	बी	_	PART	RP	_	11	advmod	_	_
+6	किछ	_	DET	PRP	_	9	det	_	_
 7	न	_	PART	NEG	_	6	advmod	_	_
-8	किछ	_	PART	RP	_	6	fixed	_	_
-9	पुठ्ठे	_	ADJ	JJ	_	10	amod	_	_
-10	काम	_	NOUN	NN	_	12	obj	_	_
-11	करदा	_	AUX	VAUX	_	12	aux	_	_
-12	रैहयां	_	VERB	VM	_	0	root	_	SpaceAfter=No
-13	।	_	PUNCT	SYM	_	12	punct	_	_
+8	पुठ्ठे	_	ADJ	JJ	_	9	amod	_	_
+9	काम	_	NOUN	NN	_	11	obj	_	_
+10	करदा	_	AUX	VAUX	_	11	aux	_	_
+11	रैहयां	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 145
 # text = से बड़ी भारी चैं चैं करईं ।
@@ -1984,16 +1980,16 @@
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 155
-# text = तेसा जो केसी भी चीजा रा डर नी हा ।
+# text = तेसा जो केसी भी चीजा रा डर नी हा।
 1	तेसा	_	PRON	PRP	_	9	nsubj	_	_
 2	जो	_	SCONJ	IN	_	5	mark	_	_
 3	केसी	_	DET	DET	_	5	det	_	_
-4	भी	_	PART	RP	_	3	dep	_	_
+4	भी	_	PART	RP	_	5	discourse	_	_
 5	चीजा	_	NOUN	NN	_	7	nmod	_	_
 6	रा	_	ADP	PSP	_	5	case	_	_
 7	डर	_	NOUN	NN	_	9	obj	_	_
 8	नी	_	PART	NEG	_	9	advmod	_	_
-9	हा	_	VERB	VM	_	0	root	_	_
+9	हा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 156
