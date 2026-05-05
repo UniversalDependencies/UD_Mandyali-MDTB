@@ -16,7 +16,7 @@
 14	तुसे	_	INTJ	INJ	_	13	compound	_	SpaceAfter=No
 15	?	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 6
+# sent_id = 2
 # text = आसौ आपणे परिवारा कठे क्या क्या करना चहिये, पता हा ना सबणी जो।
 1	आसौ	_	ADV	RB	_	8	advmod	_	_
 2	आपणे	_	PRON	PRP	_	3	nmod:poss	_	_
@@ -33,7 +33,7 @@
 13	सबणी	_	PRON	PRP	_	8	parataxis	_	_
 14	जो।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 8
+# sent_id = 3
 # text = एक गल होर ही, जे तुसौ मनणी पौणी हो।
 1	एक	_	NUM	QC	_	2	nummod	_	_
 2	गल	_	NOUN	NN	_	4	nsubj	_	_
@@ -47,7 +47,7 @@
 10	हो	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 9
+# sent_id = 4
 # text = ऐ जे तुसे आपणी जेबा टुणटुणा पाईरा, ऐजो बंद करी देया।
 1	ऐ	_	PRON	PRP	_	7	discourse	_	_
 2	जे	_	SCONJ	CC	_	7	mark	_	_
@@ -63,14 +63,14 @@
 12	देया	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 11 
+# sent_id = 5 
 # text = ता करीए शुरू?
 1	ता	_	PART	RP	_	2	discourse	_	_
 2	करीए	_	VERB	VM	_	0	root	_	_
 3	शुरू	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 13 
+# sent_id = 6 
 # text = ठीक हा तेबे, जेड़ा तुसौ मैं बोलया तेड़ा करना हो।
 1	ठीक	_	ADJ	JJ	_	2	xcomp	_	_
 2	हा	_	VERB	VM	_	10	discourse	_	_
@@ -85,7 +85,7 @@
 11	हो	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 17 
+# sent_id = 7 
 # text = हां आरा तेबे तकौ थोड़ा खेली लईयें, आई जांगी ता हाक पाई देया।
 1	हां	_	INTJ	INJ	_	7	discourse	_	_
 2	आरा	_	ADV	RB	_	7	advmod	_	_
@@ -103,7 +103,7 @@
 14	देया	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
-# sent_id = 18 
+# sent_id = 8 
 # text = ओए, एक गल ता दस मुंजो?
 1	ओए	_	INTJ	INJ	_	7	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	SYM	_	1	punct	_	_
@@ -114,7 +114,7 @@
 7	दस	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 19 
+# sent_id = 9 
 # text = तेरा ताऊ ओए ध्याड़ हे लगीरा हुआं भांडे मांजदा?
 1	तेरा	_	PRON	PRP	_	2	nmod:poss	_	_
 2	ताऊ	_	NOUN	NN	_	9	nsubj	_	_
@@ -127,8 +127,7 @@
 9	मांजदा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 10	?	_	PUNCT	SYM	_	9	punct	_	_
 
-
-# sent_id = 20 
+# sent_id = 10
 # text = तुजो बी लगी गया पता ऐस गला राम, कुने दसया ?
 1	तुजो	_	PRON	PRP	_	3	nsubj	_	_
 2	बी	_	PART	RP	_	1	discourse	_	_
@@ -143,7 +142,7 @@
 11	दसया	_	VERB	VM	_	3	parataxis	_	_
 12	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 21 
+# sent_id = 11 
 # text = आरा राती ठलठलाट था लगीरा बडा भारी हांऊ गया डरी।
 1	आरा	_	ADV	RB	_	3	advmod	_	_
 2	राती	_	NOUN	NN	_	3	obl	_	_
@@ -157,7 +156,7 @@
 10	डरी	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 23 
+# sent_id = 12 
 # text = भरी टब था थईरा भांडे रा हो मांजदा लगीरा था बच्यारा।
 1	भरी	_	ADJ	JJ	_	2	amod	_	_
 2	टब	_	NOUN	NN	_	0	root	_	_
@@ -172,7 +171,7 @@
 11	बच्यारा	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 25 
+# sent_id = 13 
 # text = बले आरा मेरी लाड़ी ही बडी इदी कठे हांऊ हे मांजाहा भांडे।
 1	बले	_	INTJ	INJ	_	12	discourse	_	_
 2	आरा	_	ADV	RB	_	12	advmod	_	_
@@ -188,7 +187,7 @@
 12	भांडे	_	VERB	VM	_	0	root	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
-# sent_id = 27 
+# sent_id = 14 
 # text = जनानीया अगे नी चलदा कोसीरा बस ओ आरा, जनानीया ही बडी।
 1	जनानीया	_	NOUN	NN	_	4	nsubj	_	_
 2	अगे	_	ADV	RB	_	4	advmod	_	_
@@ -204,8 +203,7 @@
 12	बडी	_	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	4	punct	_	_
 
-
-# sent_id = 28 
+# sent_id = 15 
 # text = कुने बोलया जे मरद बडे हुंए, तू बी गप्पा मारां ।
 1	कुने	_	PRON	PRP	_	2	nsubj	_	_
 2	बोलया	_	VERB	VM	_	11	parataxis	_	_
@@ -220,7 +218,7 @@
 11	मारां	_	VERB	VM	_	0	root	_	_
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 55
+# sent_id = 16
 # text = ठाकर भाई आज ता बडी भारी बरखा लगी हैं?
 1	ठाकर	_	PROPN	NNP	_	2	compound	_	_
 2	भाई	_	NOUN	NN	_	8	vocative	_	_
@@ -233,7 +231,7 @@
 9	हैं	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	?	_	PUNCT	SYM	_	8	punct	_
 
-# sent_id = 58
+# sent_id = 17
 # text = सुण तू ऐड़ा करया ना जियां हे कमरूनागा आऊणा ना खूब सारे फूल सटणे गासा ला।
 1	सुण	_	VERB	VM	_	16	discourse	_	_
 2	तू	_	PRON	PRP	_	4	nsubj	_	_
@@ -253,7 +251,7 @@
 16	ला	_	VERB	VM	_	0	root	_	SpaceAfter=No
 17	।	_	PUNCT	SYM	_	16	punct	_	_
 
-# sent_id = 1
+# sent_id = 18
 # text = तै तिन्हा आपणें रूसिरे रिश्तेदारां जो रोटी खुआणे ते बी नाह करी दीती !
 1	तै	_	PROPN	NNPC	_	11	compound	_	_
 2	तिन्हा	_	PROPN	NNPC	_	11	compound	_	_
