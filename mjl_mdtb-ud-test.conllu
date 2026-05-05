@@ -19,10 +19,10 @@
 # sent_id = 2
 # text = आसौ आपणे परिवारा कठे क्या क्या करना चहिये, पता हा ना सबणी जो।
 1	आसौ	_	ADV	RB	_	8	advmod	_	_
-2	आपणे	_	PRON	PRP	_	3	nmod:poss	_	_
+2	आपणे	_	PRON	PRP	_	3	det	_	_
 3	परिवारा	_	NOUN	NN	_	7	obj	_	_
 4	कठे	_	ADV	RB	_	7	advmod	_	_
-5	क्या	_	PRON	WQ	_	6	redup	_	_
+5	क्या	_	PRON	WQ	_	3	det	_	_
 6	क्या	_	PRON	WQ	_	3	amod	_	_
 7	करना	_	VERB	VM	_	8	xcomp	_	_
 8	चहिये	_	VERB	VM	_	0	root	_	SpaceAfter=No
