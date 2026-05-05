@@ -188,7 +188,7 @@
 12	भांडे	_	VERB	VM	_	0	root	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	12	punct	_	_
 
-# sent_id = 14 
+# sent_id = 14
 # text = जनानीया अगे नी चलदा कोसीरा बस ओ आरा, जनानीया ही बडी।
 1	जनानीया	_	NOUN	NN	_	4	nsubj	_	_
 2	अगे	_	ADV	RB	_	4	advmod	_	_
@@ -204,7 +204,7 @@
 12	बडी	_	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 15 
+# sent_id = 15
 # text = कुने बोलया जे मरद बडे हुंए, तू बी गप्पा मारां ।
 1	कुने	_	PRON	PRP	_	2	nsubj	_	_
 2	बोलया	_	VERB	VM	_	11	parataxis	_	_
