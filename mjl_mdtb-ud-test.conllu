@@ -2721,10 +2721,10 @@
 # text = ओ से जम्मणी रा बूट्टा प्रेमा रा हा ।
 1	ओ	_	PRON	PRP	_	8	nsubj	_	_
 2	से	_	ADP	PSP	_	1	case	_	_
-3	जम्मणी	_	NOUN	NN	_	5	nmod:poss	_	_
+3	जम्मणी	_	NOUN	NN	_	5	nmod	_	_
 4	रा	_	ADP	PSP	_	3	case	_	_
-5	बूट्टा	_	NOUN	NN	_	8	nsubj	_	_
-6	प्रेमा	_	PROPN	NNP	_	5	nmod:poss	_	_
+5	बूट्टा	_	NOUN	NN	_	8	attr	_	_
+6	प्रेमा	_	PROPN	NNP	_	5	nmod	_	_
 7	रा	_	ADP	PSP	_	6	case	_	_
 8	हा	_	AUX	VM	_	0	root	_	_
 9	।	_	PUNCT	SYM	_	8	punct	_	_
