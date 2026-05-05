@@ -373,23 +373,23 @@
 
 # sent_id = 26
 # text = काळुए रा ऐ पैहला पक्का घर हा ।
-1	काळुए	_	PROPN	NNPC	_	4	compound	_	_
-2	रा	_	PROPN	NNPC	_	4	compound	_	_
-3	ऐ	_	PROPN	NNPC	_	4	compound	_	_
-4	पैहला	_	PROPN	NNP	_	6	nmod	_	_
-5	पक्का	_	PROPN	NNPC	_	6	compound	_	_
-6	घर	_	PROPN	NNP	_	7	nsubj	_	_
-7	हा	_	VERB	VM	_	0	root	_	_
+1	काळुए	_	PROPN	NNP	_	6	nmod:poss	_	_
+2	रा	_	ADP	PSP	_	1	case	_	_
+3	ऐ	_	DET	DT	_	6	det	_	_
+4	पैहला	_	ADJ	JJ	_	6	amod	_	_
+5	पक्का	_	ADJ	JJ	_	6	amod	_	_
+6	घर	_	NOUN	NN	_	7	nsubj	_	_
+7	हा	_	AUX	VM	_	0	root	_	_
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 27
 # text = ऐ कथा रामचन्द्र भगवाना कने जुड़िरी ।
-1	ऐ	_	NOUN	NNC	_	2	compound	_	_
-2	कथा	_	NOUN	NN	_	4	nmod	_	_
-3	रामचन्द्र	_	PROPN	NNPC	_	4	compound	_	_
-4	भगवाना	_	PROPN	NNP	_	6	nmod	_	_
-5	कने	_	PROPN	NNPC	_	6	compound	_	_
-6	जुड़िरी	_	PROPN	NNP	_	0	root	_	_
+1	ऐ	_	DET	DT	_	2	det	_	_
+2	कथा	_	NOUN	NN	_	6	nsubj	_	_
+3	रामचन्द्र	_	PROPN	NNP	_	4	compound	_	_
+4	भगवाना	_	PROPN	NNP	_	6	obl	_	_
+5	कने	_	ADP	PSP	_	4	case	_	_
+6	जुड़िरी	_	VERB	VM	_	0	root	_	_
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 28
@@ -523,14 +523,14 @@
 
 # sent_id = 37
 # text = धन्नुए री ऐ दूजी बड्डी कमाई थी।
-1	धन्नुए	_	PROPN	NNPC	_	5	compound	_	_
-2	री	_	PROPN	NNPC	_	5	compound	_	_
-3	ऐ	_	PROPN	NNPC	_	5	compound	_	_
-4	दूजी	_	PROPN	NNPC	_	5	compound	_	_
-5	बड्डी	_	PROPN	NNP	_	6	nsubj	_	_
-6	कमाई	_	NOUN	NN	_	0	root	_	_
-7	थी	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	6	punct	_	_
+1	धन्नुए	_	PROPN	NNP	_	6	nmod:poss	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
+3	ऐ	_	DET	DT	_	6	det	_	_
+4	दूजी	_	ADJ	JJ	_	6	amod	_	_
+5	बड्डी	_	ADJ	JJ	_	6	amod	_	_
+6	कमाई	_	NOUN	NN	_	7	nsubj	_	_
+7	थी	_	AUX	VM	_	0	root	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 38
 # text = टापरू री  जगहा पर पक्के कमरे बणाया हो।
@@ -596,25 +596,25 @@
 
 # sent_id = 42
 # text = 8 मैम्बरी एस सभा री प्रधान राजकुमार शर्मे  कित्तीरी
-1	8	_	PROPN	NNPC	_	6	compound	_	_
-2	मैम्बरी	_	PROPN	NNPC	_	6	compound	_	_
-3	एस	_	PROPN	NNPC	_	6	compound	_	_
-4	सभा	_	PROPN	NNPC	_	6	compound	_	_
-5	री	_	PROPN	NNPC	_	6	compound	_	_
-6	प्रधान	_	PROPN	NNP	_	9	nmod	_	_
-7	राजकुमार	_	PROPN	NNPC	_	9	compound	_	_
-8	शर्मे	_	PROPN	NNPC	_	9	compound	_	_
-9	कित्तीरी	_	PROPN	NNP	_	0	root	_	_
+1	8	_	NUM	QC	_	2	nummod	_	_
+2	मैम्बरी	_	ADJ	JJ	_	4	amod	_	_
+3	एस	_	DET	DT	_	4	det	_	_
+4	सभा	_	NOUN	NN	_	6	nmod:poss	_	_
+5	री	_	ADP	PSP	_	4	case	_	_
+6	प्रधान	_	NOUN	NN	_	9	obj	_	_
+7	राजकुमार	_	PROPN	NNP	_	9	nsubj	_	_
+8	शर्मे	_	PROPN	NNP	_	7	flat:name	_	_
+9	कित्तीरी	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 43
 # text = बल्कि मंत्रिमंडला विच एह हिस्सेदारी 40 प्रतिशत हुई सकईं।
-1	बल्कि	_	SCONJ	CC	_	8	mark	_	_
-2	मंत्रिमंडला	_	PROPN	NNPC	_	5	compound	_	_
-3	विच	_	PROPN	NNPC	_	5	compound	_	_
-4	एह	_	PROPN	NNPC	_	5	compound	_	_
+1	बल्कि	_	CCONJ	CC	_	8	cc	_	_
+2	मंत्रिमंडला	_	NOUN	NN	_	5	nmod	_	_
+3	विच	_	ADP	PSP	_	2	case	_	_
+4	एह	_	DET	DT	_	5	det	_	_
 5	हिस्सेदारी	_	NOUN	NN	_	8	nsubj	_	_
 6	40	_	NUM	QC	_	7	nummod	_	_
-7	प्रतिशत	_	NOUN	NN	_	8	xcomp	_	_
+7	प्रतिशत	_	NOUN	NN	_	8	obl	_	_
 8	हुई	_	VERB	VM	_	0	root	_	_
 9	सकईं	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
