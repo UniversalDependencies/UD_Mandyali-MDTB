@@ -64,7 +64,7 @@
 12	देया	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 5 
+# sent_id = 5
 # text = ता करीए शुरू?
 1	ता	_	PART	RP	_	2	discourse	_	_
 2	करीए	_	VERB	VM	_	0	root	_	_
