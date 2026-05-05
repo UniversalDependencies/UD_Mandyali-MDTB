@@ -636,22 +636,21 @@
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 45
-# text = हो सौगी तिन्हे तेस रिंकू चौहाना जो धरैंस रखणे री सलाह बी देई दीती।
-1	हो	_	AUX	VAUX	_	13	aux	_	_
-2	सौगी	_	ADV	RB	_	13	advmod	_	_
-3	तिन्हे	_	PRON	PRP	_	13	nsubj	_	_
-4	तेस	_	PRON	PRP	_	6	nmod	_	_
-5	रिंकू	_	PROPN	NNP	_	6	compound	_	_
-6	चौहाना	_	PROPN	NNP	_	13	obj	_	_
-7	जो	_	ADP	PSP	_	8	case	_	_
-8	धरैंस	_	NOUN	NN	_	9	obj	_	_
-9	रखणे	_	VERB	VM	_	11	acl	_	_
-10	री	_	ADP	PSP	_	11	case	_	_
-11	सलाह	_	NOUN	NN	_	13	obj	_	_
-12	बी	_	PART	RP	_	13	discourse	_	_
-13	देई	_	VERB	VM	_	0	root	_	_
-14	दीती	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	13	punct	_	_
+# text = हो सौगी तिन्हे तेस चौहाना जो धरैंस रखणे री सलाह बी देई दीती।
+1	हो	_	AUX	VAUX	_	12	aux	_	_
+2	सौगी	_	ADV	RB	_	12	advmod	_	_
+3	तिन्हे	_	PRON	PRP	_	12	nsubj	_	_
+4	तेस	_	PRON	PRP	_	5	nmod	_	_
+5	चौहाना	_	PROPN	NNP	_	12	obj	_	_
+6	जो	_	ADP	PSP	_	7	case	_	_
+7	धरैंस	_	NOUN	NN	_	8	obj	_	_
+8	रखणे	_	VERB	VM	_	10	acl	_	_
+9	री	_	ADP	PSP	_	10	case	_	_
+10	सलाह	_	NOUN	NN	_	12	obj	_	_
+11	बी	_	PART	RP	_	12	discourse	_	_
+12	देई	_	VERB	VM	_	0	root	_	_
+13	दीती	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 46
 # text = इदी कठे ता लोकां जो तिन्हारी पैदावार रा घट्ट मोल मिल्हां।
