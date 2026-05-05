@@ -3772,7 +3772,7 @@
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 314
-# text = खबरदार जे तुसे मेरे नेडे आए ता , पिछे हटी जाओ।
+# text = खबरदार जे तुसे मेरे नेडे आए ता, पिछे हटी जाओ।
 1	खबरदार	_	INTJ	INJ	_	6	discourse	_	_
 2	जे	_	SCONJ	CC	_	4	mark	_	_
 3	तुसे	_	PRON	PRP	_	4	nsubj	_	_
@@ -3789,7 +3789,7 @@
 
 # sent_id = 315
 # text = से एक राजकुमारी हो तू एक नौकर, ऐड़ा कियां हुई जाणां।
-1	से	_	PRON	PRP	_	4	mark	_	_
+1	से	_	SCONJ	IN	_	4	mark	_	_
 2	एक	_	NUM	QC	_	3	nummod	_	_
 3	राजकुमारी	_	NOUN	NN	_	4	nsubj	_	_
 4	हो	_	VERB	VM	_	11	advcl	_	_
@@ -3798,20 +3798,19 @@
 7	नौकर	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 8	,	_	PUNCT	SYM	_	11	punct	_	_
 9	ऐड़ा	_	ADV	RB	_	11	advmod	_	_
-10	कियां	_	PRON	WQ	_	11	advmod	_	_
+10	कियां	_	ADV	RB	_	11	advmod	_	_
 11	हुई	_	VERB	VM	_	0	root	_	_
 12	जाणां	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 316
-# text = किधीयो लगीरा तू चिंगदा ऐडी जोरा के।
-1	किधीयो	_	PRON	WQ	_	4	advmod	_	_
-2	लगीरा	_	AUX	VAUX	_	4	aux	_	_
+# text = किधीयो लगीर तू चिंगदा एडी जोरा के थे।
+1	किधीयो	_	ADV	RB	_	4	advmod	_	_
+2	लगीर	_	AUX	VAUX	_	4	aux	_	_
 3	तू	_	PRON	PRP	_	4	nsubj	_	_
 4	चिंगदा	_	VERB	VM	_	0	root	_	_
-5	ऐडी	_	ADV	RB	_	4	advmod	_	_
-6	जोरा	_	NOUN	NN	_	5	obl	_	_
-7	के	_	ADP	PSP	_	6	case	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	4	punct	_	_
-9	थे	_	AUX	VM	_	6	aux	_	_
-10	।	_	PUNCT	SYM	_	6	punct	_	_
+5	एडी	_	ADV	RB	_	4	advmod	_	_
+6	जोरा	_	NOUN	NN	_	4	obl	_	_
+7	के	_	ADP	PSP	_	6	case	_	_
+8	थे	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	4	punct	_	_
