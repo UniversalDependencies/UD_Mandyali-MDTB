@@ -3582,14 +3582,14 @@
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 301
-# text = क्या तुसा बले मोबाईल फोन नी हा ?
-1	क्या	_	PRON	WQ	_	7	advmod	_	_
+# text = क्या तुसा बले मोबाईल फोन नी हा?
+1	क्या	_	ADV	RB	_	7	advmod	_	_
 2	तुसा	_	PRON	PRP	_	7	nsubj	_	_
 3	बले	_	ADV	RB	_	7	advmod	_	_
 4	मोबाईल	_	NOUN	NN	_	5	compound	_	_
 5	फोन	_	NOUN	NN	_	7	obj	_	_
 6	नी	_	PART	NEG	_	7	advmod	_	_
-7	हा	_	VERB	VM	_	0	root	_	_
+7	हा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 302
@@ -3619,7 +3619,7 @@
 14	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 304
-# text = आसा रे जमाने ता स्कूल नेडे नी हुन्दे थे ।
+# text = आसा रे जमाने ता स्कूल नेडे नी हुन्दे थे।
 1	आसा	_	NOUN	NN	_	3	nmod	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
 3	जमाने	_	NOUN	NN	_	6	obl	_	_
@@ -3628,6 +3628,8 @@
 6	नेडे	_	ADJ	JJ	_	0	root	_	_
 7	नी	_	PART	NEG	_	6	advmod	_	_
 8	हुन्दे	_	AUX	VM	_	6	cop	_	_
+9	थे	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 305
 # text = अच्छा सुणा मेरी गल, मा बोलणा था तुसौ जे आसा रे घरा आया करंयें देओ ना।
@@ -3653,7 +3655,7 @@
 # sent_id = 306
 # text = तू मेरी लाड़ी ही कि कोसी होरी री, तुजो नी पता जे हांऊ केड़ा हा।
 1	तू	_	PRON	PRP	_	3	nsubj	_	_
-2	मेरी	_	PRON	PRP	_	3	nmod:poss	_	_
+2	मेरी	_	DET	PRP$	_	3	det:poss	_	_
 3	लाड़ी	_	NOUN	NN	_	0	root	_	_
 4	ही	_	PART	RP	_	3	discourse	_	_
 5	कि	_	SCONJ	CC	_	7	mark	_	_
@@ -3673,12 +3675,12 @@
 # sent_id = 307
 # text = मुंजो क्या पता जे तुसे केड़े केड़े कांड कितीरे?
 1	मुंजो	_	PRON	PRP	_	3	nsubj	_	_
-2	क्या	_	PRON	WQ	_	3	det	_	_
+2	क्या	_	DET	WQ	_	3	det	_	_
 3	पता	_	NOUN	NN	_	0	root	_	_
 4	जे	_	SCONJ	CC	_	9	mark	_	_
 5	तुसे	_	PRON	PRP	_	9	nsubj	_	_
-6	केड़े	_	PRON	WQ	_	8	det	_	_
-7	केड़े	_	PRON	WQ	_	6	redup	_	_
+6	केड़े	_	DET	WQ	_	8	det	_	_
+7	केड़े	_	ADV	RB	_	6	advmod	_	_
 8	कांड	_	NOUN	NN	_	9	obj	_	_
 9	कितीरे	_	VERB	VM	_	3	ccomp	_	SpaceAfter=No
 10	?	_	PUNCT	SYM	_	3	punct	_	_
@@ -3705,7 +3707,7 @@
 3	सराब	_	NOUN	NN	_	4	obj	_	_
 4	पीऊंआ	_	VERB	VM	_	9	advcl	_	_
 5	ना	_	PART	RP	_	4	advmod	_	_
-6	मेरा	_	PRON	PRP	_	7	nmod:poss	_	_
+6	मेरा	_	DET	PRP$	_	7	det:poss	_	_
 7	दमाग	_	NOUN	NN	_	9	nsubj	_	_
 8	ठस	_	ADV	RB	_	9	advmod	_	_
 9	हुई	_	VERB	VM	_	0	root	_	_
@@ -3736,7 +3738,7 @@
 6	,	_	PUNCT	SYM	_	5	punct	_	_
 7	तू	_	PRON	PRP	_	11	nsubj	_	_
 8	ता	_	PART	RP	_	11	discourse	_	_
-9	मेरा	_	PRON	PRP	_	11	nmod:poss	_	_
+9	मेरा	_	DET	PRP$	_	11	det:poss	_	_
 10	जिगरी	_	ADJ	JJ	_	11	amod	_	_
 11	दोस्त	_	NOUN	NN	_	5	parataxis	_	_
 12	हा	_	AUX	VAUX	_	11	cop	_	SpaceAfter=No
