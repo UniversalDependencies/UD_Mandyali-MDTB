@@ -71,7 +71,7 @@
 3	शुरू	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
 4	?	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 6 
+# sent_id = 6
 # text = ठीक हा तेबे, जेड़ा तुसौ मैं बोलया तेड़ा करना हो।
 1	ठीक	_	ADJ	JJ	_	2	xcomp	_	_
 2	हा	_	VERB	VM	_	10	discourse	_	_
@@ -86,7 +86,7 @@
 11	हो	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 7 
+# sent_id = 7
 # text = हां आरा तेबे तकौ थोड़ा खेली लईयें, आई जांगी ता हाक पाई देया।
 1	हां	_	INTJ	INJ	_	7	discourse	_	_
 2	आरा	_	ADV	RB	_	7	advmod	_	_
@@ -104,7 +104,7 @@
 14	देया	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
-# sent_id = 8 
+# sent_id = 8
 # text = ओए, एक गल ता दस मुंजो?
 1	ओए	_	INTJ	INJ	_	7	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	SYM	_	1	punct	_	_
@@ -115,7 +115,7 @@
 7	दस	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 9 
+# sent_id = 9
 # text = तेरा ताऊ ओए ध्याड़ हे लगीरा हुआं भांडे मांजदा?
 1	तेरा	_	PRON	PRP	_	2	nmod:poss	_	_
 2	ताऊ	_	NOUN	NN	_	9	nsubj	_	_
@@ -143,7 +143,7 @@
 11	दसया	_	VERB	VM	_	3	parataxis	_	_
 12	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 11 
+# sent_id = 11
 # text = आरा राती ठलठलाट था लगीरा बडा भारी हांऊ गया डरी।
 1	आरा	_	ADV	RB	_	3	advmod	_	_
 2	राती	_	NOUN	NN	_	3	obl	_	_
@@ -157,7 +157,7 @@
 10	डरी	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 12 
+# sent_id = 12
 # text = भरी टब था थईरा भांडे रा हो मांजदा लगीरा था बच्यारा।
 1	भरी	_	ADJ	JJ	_	2	amod	_	_
 2	टब	_	NOUN	NN	_	0	root	_	_
@@ -172,7 +172,7 @@
 11	बच्यारा	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 13 
+# sent_id = 13
 # text = बले आरा मेरी लाड़ी ही बडी इदी कठे हांऊ हे मांजाहा भांडे।
 1	बले	_	INTJ	INJ	_	12	discourse	_	_
 2	आरा	_	ADV	RB	_	12	advmod	_	_
