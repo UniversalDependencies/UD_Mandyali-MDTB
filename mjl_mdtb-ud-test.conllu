@@ -299,19 +299,18 @@
 14	!	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 21
-# text = यों जे ऐडे काम डाल लगीरे इदीरी ता ऐ हवा आवईं रोज।
-1	यों	_	PRON	PRP	_	5	nsubj	_	_
-2	जे	_	PROPN	NNPC	_	5	compound	_	_
-3	ऐडे	_	PROPN	NNPC	_	5	compound	_	_
-4	काम	_	PROPN	NNPC	_	5	compound	_	_
-5	डाल	_	VERB	VM	_	0	root	_	_
-6	लगीरे	_	PROPN	NNPC	_	11	compound	_	_
-7	इदीरी	_	PROPN	NNPC	_	11	compound	_	_
-8	ता	_	PROPN	NNPC	_	11	compound	_	_
-9	ऐ	_	PROPN	NNPC	_	11	compound	_	_
-10	हवा	_	PROPN	NNPC	_	11	compound	_	_
-11	आवईं	_	PROPN	NNP	_	5	nsubj	_	_
-12	रोज।	_	PUNCT	SYM	_	5	punct	_	_
+# text = हाक ता सुणीं लया कर ऐड़ा बी क्या हुई गईरा।
+1	हाक	_	NOUN	NN	_	4	obj	_	_
+2	ता	_	PART	RP	_	4	discourse	_	_
+3	सुणीं	_	VERB	VM	_	4	compound	_	_
+4	लया	_	VERB	VM	_	5	compound	_	_
+5	कर	_	VERB	VM	_	9	advcl	_	_
+6	ऐड़ा	_	ADV	RB	_	9	advmod	_	_
+7	बी	_	PART	RP	_	9	discourse	_	_
+8	क्या	_	ADV	WQ	_	9	advmod	_	_
+9	हुई	_	VERB	VM	_	0	root	_	_
+10	गईरा	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 22
 # text = सब जणें इन्हा डाला री छांवां हेठ हे बैठऐं ।
@@ -546,20 +545,18 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 39
-# text = स्टेडियमा विच हुण लोकां जो मन्त्रि कने मिलणे रा मौक़ा तां मिलहां।
-1	स्टेडियमा	_	NOUN	NN	_	12	obl	_	_
-2	विच	_	ADP	PSP	_	1	case	_	_
-3	हुण	_	ADV	RB	_	12	advmod	_	_
-4	लोकां	_	NOUN	NN	_	8	nsubj	_	_
-5	जो	_	PRON	PRP	_	4	case	_	_
-6	मन्त्रि	_	NOUN	NN	_	7	nmod	_	_
-7	कने	_	ADP	PSP	_	6	case	_	_
-8	मिलणे	_	VERB	VM	_	10	acl	_	_
-9	रा	_	ADP	PSP	_	10	case	_	_
-10	मौक़ा	_	NOUN	NN	_	12	nsubj	_	_
-11	तां	_	PART	RP	_	12	discourse	_	_
-12	मिलहां	_	VERB	VM	_	0	root	_	SpaceAfter=No
-13	।	_	PUNCT	PUNCT	_	12	punct	_	_
+# text = तेरी ता खबर मैडमा हे लैणीं, बड़ा चमकलुडा बणींरा।
+1	तेरी	_	DET	PRP$	_	3	det:poss	_	_
+2	ता	_	PART	RP	_	6	discourse	_	_
+3	खबर	_	NOUN	NN	_	6	obj	_	_
+4	मैडमा	_	NOUN	NN	_	6	iobj	_	_
+5	हे	_	PART	RP	_	6	discourse	_	_
+6	लैणीं	_	VERB	VM	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	10	punct	_	_
+8	बड़ा	_	ADV	RB	_	10	advmod	_	_
+9	चमकलुडा	_	ADJ	JJ	_	10	amod	_	_
+10	बणींरा	_	VERB	VM	_	6	conj	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 40
 # text = एसते बाद कांगड़े विच 5 कने 8 तरीका जो तिन्हा लोकां कने मिलणा हा।
@@ -640,35 +637,35 @@
 
 # sent_id = 45
 # text = हो सौगी तिन्हे तेस रिंकू चौहाना जो धरैंस रखणे री सलाह बी देई दीती।
-1	हो	_	VERB	VM	_	6	acl	_	_
-2	सौगी	_	PROPN	NNPC	_	6	compound	_	_
-3	तिन्हे	_	PROPN	NNPC	_	6	compound	_	_
-4	तेस	_	PROPN	NNPC	_	6	compound	_	_
-5	रिंकू	_	PROPN	NNPC	_	6	compound	_	_
+1	हो	_	AUX	VAUX	_	13	aux	_	_
+2	सौगी	_	ADV	RB	_	13	advmod	_	_
+3	तिन्हे	_	PRON	PRP	_	13	nsubj	_	_
+4	तेस	_	PRON	PRP	_	6	nmod	_	_
+5	रिंकू	_	PROPN	NNP	_	6	compound	_	_
 6	चौहाना	_	PROPN	NNP	_	13	obj	_	_
-7	जो	_	PROPN	NNPC	_	8	compound	_	_
-8	धरैंस	_	PROPN	NNP	_	14	nsubj	_	_
-9	रखणे	_	PROPN	NNPC	_	12	compound	_	_
-10	री	_	ADP	PSP	_	9	mark	_	_
-11	सलाह	_	PROPN	NNPC	_	12	compound	_	_
-12	बी	_	ADP	PSP	_	9	mark	_	_
+7	जो	_	ADP	PSP	_	8	case	_	_
+8	धरैंस	_	NOUN	NN	_	9	obj	_	_
+9	रखणे	_	VERB	VM	_	11	acl	_	_
+10	री	_	ADP	PSP	_	11	case	_	_
+11	सलाह	_	NOUN	NN	_	13	obj	_	_
+12	बी	_	PART	RP	_	13	discourse	_	_
 13	देई	_	VERB	VM	_	0	root	_	_
-14	दीती	_	VERB	VAUX	_	13	aux	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	14	punct	_	_
+14	दीती	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 46
 # text = इदी कठे ता लोकां जो तिन्हारी पैदावार रा घट्ट मोल मिल्हां।
-1	इदी	_	PROPN	NNPC	_	10	compound	_	_
-2	कठे	_	PROPN	NNPC	_	10	compound	_	_
-3	ता	_	PROPN	NNPC	_	10	compound	_	_
-4	लोकां	_	PROPN	NNPC	_	10	compound	_	_
-5	जो	_	PROPN	NNPC	_	10	compound	_	_
-6	तिन्हारी	_	PROPN	NNPC	_	10	compound	_	_
-7	पैदावार	_	PROPN	NNPC	_	10	compound	_	_
-8	रा	_	PROPN	NNPC	_	10	compound	_	_
-9	घट्ट	_	PROPN	NNPC	_	10	compound	_	_
-10	मोल	_	PROPN	NNP	_	11	nmod	_	_
-11	मिल्हां	_	PROPN	NNP	_	0	root	_	SpaceAfter=No
+1	इदी	_	PRON	PRP	_	2	nmod	_	_
+2	कठे	_	NOUN	NN	_	11	obl	_	_
+3	ता	_	PART	RP	_	11	discourse	_	_
+4	लोकां	_	NOUN	NN	_	11	iobj	_	_
+5	जो	_	ADP	PSP	_	4	case	_	_
+6	तिन्हारी	_	DET	PRP$	_	7	det:poss	_	_
+7	पैदावार	_	NOUN	NN	_	10	nmod	_	_
+8	रा	_	ADP	PSP	_	7	case	_	_
+9	घट्ट	_	ADJ	JJ	_	10	amod	_	_
+10	मोल	_	NOUN	NN	_	11	obj	_	_
+11	मिल्हां	_	VERB	VM	_	0	root	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 47
