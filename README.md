@@ -1,16 +1,17 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+The Mandyali UD Treebank (MDTB) is a part of the Universal Dependency treebank project.
 
 
 # Introduction
+The Mandyali UD Treebank (MDTB) consists of 2859 tokens and 1140 vocabulary items. This Treebank is a part of the Universal Dependency treebank project. Himachal Academy of Arts, Culture, and Languages, Shimla, Himachal Pradesh, India, helped in providing annotators for universal dependency tagging. MDTB data contains syntactic annotation according to the dependency-constituency schema, as well as morphological tags. In this data, XPOS is annotated according to the Bureau of Indian Standards (BIS) Part-of-Speech (POS) tagset.
 
-...
 
 
-# Acknowledgments
 
-...
+# Linguistic Annotation Contributor
+	Mr. Bhupender Bhupi
+
 
 ## References
 
@@ -35,8 +36,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Chauhan, Shweta
+Contributors: Chauhan, Shweta;Saxena, Shefali; Jain, Shweta 
 Contributing: here
-Contact: shweta@nith.ac.in
+Contact: shweta@nith.ac.in, saxena.shefali07@gmail.com, shwetajain@iitrpr.ac.in
 ===============================================================================
 </pre>
