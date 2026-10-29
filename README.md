@@ -9,7 +9,7 @@ The Mandyali UD Treebank (MDTB) consists of 2859 tokens and 1140 vocabulary item
 
 # Linguistic Annotation Contributor
 
-Mr. Bhupender Bhupi
+We extend our sincere gratitude to the Himachal Academy of Arts, Culture, and Languages, Shimla, Himachal Pradesh, India, for facilitating the provision of annotators for Universal Dependencies (UD) annotation. We also acknowledge the valuable contributions of Mr. Bhupender Bhupi, for his significant assistance in developing the Kullvi Part-of-Speech (POS) tagset.
 
 
 # Changelog
