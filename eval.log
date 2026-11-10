@@ -1,0 +1,39 @@
+Running the following version of UD tools:
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 10 13:08:27 2026 +0100
+Evaluating the following revision of UD_Mandyali-MDTB:
+commit 85d75f5fd09d61df9f25c54e5a46d2cd67dcbb1f
+Author: Shweta Chauhan <47051177+chauhanshweta@users.noreply.github.com>
+Date:   Thu Oct 29 03:52:01 2026 +0000
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'mjl_mdtb'
+Language code (from CoNLL-U file name) = 'mjl'
+Found the following data files: mjl_mdtb-ud-test.conllu
+Size: counted 2859 of 2859 words (nodes).
+Size: min(0, log((N/1000)**2)) = 2.10094382668035.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 0 out of 2859 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 28 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang mjl --max-err=10 UD_Mandyali-MDTB/mjl_mdtb-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.15207138511933) = 0.0563227352293813
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.756756756756757) = 0.0840840840840841
+(TOTAL score=0.253754676975049) * (availability=1) * (validity=1) = 0.253754676975049
+STARS = 1.5
+UD_Mandyali-MDTB	0.253754676975049	1.5
